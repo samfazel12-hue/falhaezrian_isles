@@ -69,7 +69,7 @@ Central [[Sentra]] preserves some of the older ecological memory of the island. 
 
 The [[Dragon War]] broke that old forest unity. Central [[Sentra]] still carries the remnants: separate woodland identities, isolated forest communities, and places where magic or local custom has replaced normal ecological recovery.
 
-The region also grew into one of the main food and transport zones of the post-unification state. Its importance is cumulative rather than dramatic. It matters because every generation continues to move grain, timber, metals, people, and taxes through it.
+The region also grew into one of the main food and transport zones of the post-unification state. Its importance is cumulative rather than dramatic.
 
 ## Routes and Barriers
 
@@ -87,22 +87,6 @@ Important routes include:
 
 The main barriers are seasonal flooding, boggy ground near the [[Great Pearl]], forest density, and the flash-flooding danger of the [[Erkzis]].
 
-## Strategic Value
-
-Central [[Sentra]] feeds and supplies the realm. That is its strategic value.
-
-It provides:
-
-- grain and agricultural produce
-- timber and milling
-- river transport
-- lake distribution
-- inland market towns
-- routes between east, west, south, and [[Kallindra]]
-- provisioning for armies and ports
-
-In wartime, Central [[Sentra]] becomes more important, not less. Grain levies, military staging, transport control, and supply protection all tighten here.
-
 ## Resources
 
 - grain
@@ -115,5 +99,8 @@ In wartime, Central [[Sentra]] becomes more important, not less. Grain levies, m
 - goods redistributed through [[Rhodokra]] and [[Bearhaven]]
 - forest products from the [[Mosswoods]] and [[Hyrcasos]]
 
-## Tags
-#type/region #region/sentra #region/central-sentra
+## Notes for Use
+
+Central [[Sentra]] should not be written like a glamorous capital region. Its strength is logistical. Make it feel lived-in, damp in places, fertile in others, full of old paths, river talk, grain barges, market resentment, and forest memory.
+
+If the region becomes too clean or too politically passive, it gets boring. The better version is productive but strained: everyone depends on it, but few outsiders respect it.

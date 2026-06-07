@@ -1,4 +1,4 @@
-﻿**Held by:** [[Yarrowgold]] or [[Sentra]] depending current control 
+﻿**Held by:** [[Yarrowgold]] or [[Sentra]] depending current control
 **Part of:** naval base fortification
 **Region:** [[Surgemark]]
 
@@ -33,6 +33,3 @@ Dependent on [[Archvikport]] and sea supply; exposed to blockade.
 ## Political Importance
 
 Whoever holds Wrackholm threatens southern [[Sentra]] and Kallindran harbours.
-
-## Tags
-#type/geography #type/fortification #region/surgemark #affiliation

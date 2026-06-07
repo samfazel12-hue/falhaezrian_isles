@@ -36,15 +36,6 @@ The hills shaped the political separation between west and east long before curr
 
 ## Routes and Barriers
 
-Only [[Midgate]] and [[Highpass]] are reliable. Secret paths exist but are known to few and trusted only in desperation.
-
-## Strategic Value
-
-They are the defensive and cultural seam of [[Sentra]].
-
 ## Resources
 
 Karst caves, concealed tracks, difficult defensive positions.
-
-## Tags
-#type/region

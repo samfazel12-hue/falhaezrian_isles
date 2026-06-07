@@ -29,10 +29,3 @@ Watch crew and signal staff.
 ## Vulnerabilities
 
 Isolated island tower.
-
-## Political Importance
-
-Early warning matters because [[Kallindra]] carries enormous wartime logistical weight.
-
-## Tags
-#type/geography #type/fortification #region/sentran-shields #affiliation/kallindran-/-house-aligned-authorities

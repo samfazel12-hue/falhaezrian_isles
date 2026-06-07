@@ -17,19 +17,3 @@ Provisioning, repair, transport, garrison supply.
 ## Politics and Power
 
 Subordinate to the island’s military value and contested sovereignty.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Wrackholm]], [[Surgemark]], [[Kallindra]]
-**Trade routes:** [[Surgewater Gulf]] naval routes
-**Controlled by:** 
-**Dependent on:** [[Wrackholm]] garrison and harbour access
-
-## Tags
-#type/settlement #region/surgemark #affiliation

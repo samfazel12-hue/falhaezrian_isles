@@ -3,6 +3,3 @@
 ## Function
 
 They turn law into administration. They collect money, direct labour, regulate ports, manage roads, supply the war, and keep civic order from collapsing under pressure.
-
-## Tags
-#type/institution #type/ministry

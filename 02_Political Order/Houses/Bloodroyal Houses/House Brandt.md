@@ -5,8 +5,6 @@
 
 ## Banner
 
-. Should probably emphasize eldest-line severity, mountain legitimacy, and lost [[Skystone]].
-
 ## Overview
 
 House Brandt descends from [[Brandt Beornson]], eldest child of [[Béorn]] and [[Rosaria]]. It became the ideological center of eldest-born right and the great defeated line of the [[Bloodroyal War]].
@@ -39,25 +37,3 @@ Defeated and exiled. Surviving branches remain politically sensitive.
 ## History
 
 After Brandt’s death, the Brandt claim helped ignite the [[Bloodroyal War]]. Their defeat reshaped the entire political order.
-
-## Connections
-
-**Allied with:** 
-**In tension with:** [[House of Béorn]], Wilgenfal, anti-Brandt factions
-**Cadet branches:** Mossdeep, Godbrandt, Saltbrandt, Redbrandt/Redrock
-**Parent line:** [[Bloodroyals]]
-
-## Resources and Military Power
-
-Lost [[Skystone]], old claims, surviving cadet prestige.
-
-## Claims and Grievances
-
-Eldest-born right; grievance over stripped lands and exile.
-
-## Internal Divisions
-
-Some branches rejected the betrayal, others may preserve ambition.
-
-## Tags
-#type/house #affiliation

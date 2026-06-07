@@ -26,18 +26,3 @@ Tax flows, provisioning, regional trust, and legal norms are all damaged.
 
 - [[Continental Empire]]
 - [[House of Béorn]]
-
-## Who Benefited
-
-Crown authorities that use emergency powers; protected smugglers if corrupt.
-
-## Who Lost
-
-Merchants, sailors, civilians, minor ports.
-
-## Disputed Interpretations
-
-Are the pirates truly Imperial agents or merely useful scapegoats for centralization? Keep ambiguity available.
-
-## Tags
-#type/event #era/present-age

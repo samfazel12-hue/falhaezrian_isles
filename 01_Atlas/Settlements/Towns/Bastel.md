@@ -18,24 +18,6 @@ Grain, farm goods, and inland merchandise pass through Bastel. It is prosperous 
 
 Economically important but politically overshadowed by [[Rhodokra]] and [[Torhin]].
 
-## Key Locations
-
-- 
-
-## Key Figures
-
-- 
-
 ## History
 
 Developed as central [[Sentra]]’s transport town.
-
-## Connections
-
-**Linked settlements:** [[Rhodokra]], [[Bearhaven]], [[Kallindra]]
-**Trade routes:** Norgon-Let-Erkzis raft traffic; [[Great Pearl]] route
-**Controlled by:** local authorities under Sentran order
-**Dependent on:** [[Sentran Breadbasket]]
-
-## Tags
-#type/settlement #region/great-pearl-basin #affiliation

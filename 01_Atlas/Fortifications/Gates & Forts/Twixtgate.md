@@ -33,6 +33,3 @@ Bridge-gates are vulnerable to sabotage and river traffic disruption.
 ## Political Importance
 
 Controls movement between urban halves.
-
-## Tags
-#type/geography #type/fortification #region/kallindra #affiliation/kallindra

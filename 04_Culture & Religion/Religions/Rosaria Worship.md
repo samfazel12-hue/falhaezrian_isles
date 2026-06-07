@@ -1,5 +1,5 @@
 ﻿**Pantheon:** [[Rosaria]] / older Sentran land-sacred tradition
-**Worshipped by:** Sentran communities, old nature-bound traditions 
+**Worshipped by:** Sentran communities, old nature-bound traditions
 **Sacred sites:** rivers, lakes, hills, mountains, tide, rain, sacred landscapes
 
 ## Overview
@@ -12,16 +12,7 @@ Rivers, lakes, hills, mountains, tide, rain, and life of [[Sentra]] are not symb
 
 ## Sacred Sites
 
-- [
-- [
-- K
-- a
-- c
-- o
-- r
-- e
-- ]
-- ]
+- [[Kacore]]]
 
 ## Relation to Political Power
 
@@ -33,11 +24,9 @@ The House uses [[Rosaria]] through the Bloodroyal myth, but this creates tension
 
 ## Priesthood / Institutions
 
-: older priesthood, local shrine-keepers, river/lake cults.
-
 ## Rituals and Taboos
 
-Likely seasonal water rites, mountain offerings, storm taboos, birth/blood rituals .
+Likely seasonal water rites, mountain offerings, storm taboos, birth/blood rituals.
 
 ## Heresies or Rival Interpretations
 
@@ -46,6 +35,3 @@ Possible split between House-approved [[Rosaria]] cult and older land-practices 
 ## Everyday Role
 
 Everyday practices may involve water, weather, fertility, travel, and oath-making by local geography.
-
-## Tags
-#type/religion #affiliation

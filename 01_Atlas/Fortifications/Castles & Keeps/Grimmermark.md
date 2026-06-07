@@ -14,10 +14,6 @@ Built over the source of the Grim, [[Yarrowgold]]’s only river.
 
 Royal seat, river control, military administration.
 
-## Politics and Power
-
-Core symbol of [[Yarrowgold]] kingship.
-
 ## Key Locations
 
 - Throne of the [[Dead Queen]]
@@ -30,13 +26,3 @@ Core symbol of [[Yarrowgold]] kingship.
 ## History
 
 Founded after Krova escaped [[Sentra]] and carved out his southern kingdom.
-
-## Connections
-
-**Linked settlements:** [[Kellavir]], [[Yarrowgold]]
-**Trade routes:** Grim river route and southern island roads
-**Controlled by:** 
-**Dependent on:** royal authority, river source
-
-## Tags
-#type/settlement #region/yarrowgold #affiliation

@@ -37,26 +37,12 @@ The half-elven ruling houses control trade contracts, warehouses, market rights,
 - [[Leathermans Square]]
 - [[Jewel Plaza]]
 - [[Hall of Gods]]
-- lake quays 
-- merchant house courts 
-- contract halls 
-
-## Key Figures
-
-- 
+- lake quays
+- merchant house courts
+- contract halls
 
 ## History
 
 Rhodokra predates [[Béorn]]. Its earliest form was a small lake settlement with wooden huts, landing places, and a temple.
 
 The city expanded through trade rather than conquest. Its old families gained power through lake traffic, contracts, grain storage, timber movement, and long-term lending.
-
-## Connections
-
-**Linked settlements:** [[Bastel]], [[Bearhaven]], [[Kallindra]], [[Great Pearl]]
-**Trade routes:** lake trade, river trade, inland redistribution
-**Controlled by:** half-elven ruling elite / local urban order
-**Dependent on:** grain, timber, metal supply corridors, lake traffic
-
-## Tags
-#type/settlement #region/great-pearl-basin #affiliation

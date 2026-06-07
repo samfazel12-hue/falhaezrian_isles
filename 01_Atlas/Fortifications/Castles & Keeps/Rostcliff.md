@@ -33,6 +33,3 @@ Less important than [[Saltcliff]], therefore easier to neglect.
 ## Political Importance
 
 Matters for inheritance and older Saltbrandt legitimacy.
-
-## Tags
-#type/geography #type/fortification #region/kazaros #affiliation/house-saltbrandt-branch

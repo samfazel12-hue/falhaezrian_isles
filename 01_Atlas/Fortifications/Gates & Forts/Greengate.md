@@ -33,6 +33,3 @@ Broader ground means more points of pressure than [[Stonegate]].
 ## Political Importance
 
 Useful for showing that not all fortifications solve the same terrain problem.
-
-## Tags
-#type/geography #type/fortification #region/eastern-sentra #affiliation

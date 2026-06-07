@@ -15,7 +15,7 @@ The High Kingship is not simple blood monarchy. It carries dynastic weight, but 
 
 A High King may name an heir, but that heir does not become fully lawful by royal will alone. The candidate must first be approved by the [[First High House Council]] and then confirmed by the [[Second High House Council]].
 
-This makes the crown powerful, but not absolute. Legitimacy comes from the House, the councils, and the wider political order, not merely from birth.
+This makes the crown powerful, but not absolute. Legitimacy comes from the House, the councils, the wider political order, and bloodline.
 
 ## Powers
 
@@ -113,26 +113,3 @@ His rise marked a break from the older Bloodroyal order. The crown became less a
 - regional resentment can focus on the crown
 - the office depends on cooperation from [[Kallindra]] and the councils
 - a strong king can save the realm or deform the constitution
-
-## Key Connections
-
-**Seat:** [[Skystone]]
-**Institutional base:** [[House of Béorn]]
-**Approves heir first:** [[First High House Council]]
-**Confirms heir:** [[Second High House Council]]
-**Civil counterpart:** [[First Minister]]
-**Major pressure point:** [[Present War]]
-**Historical founder of current order:** [[Samwise Greensteel Wilgenfal]]
-
-## Adventure Use
-
-- The High King’s heir needs council approval.
-- A royal command conflicts with [[Second High House Council|Second House]] law.
-- A [[First High House Council|First House]] faction quietly resists the crown.
-- A port closure harms a region and sparks unrest.
-- The party learns that emergency powers are being abused.
-- A royal agent hires the party for work the councils cannot officially know about.
-- A rival claimant argues that the current succession was never lawful.
-
-## Tags
-#type/institution #type/title #affiliation/house-beorn #region/falhaezrian-isles

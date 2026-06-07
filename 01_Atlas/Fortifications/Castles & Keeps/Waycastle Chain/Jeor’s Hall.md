@@ -17,22 +17,3 @@ Controls the beginning of the [[Skystone]] ascent and anchors [[Béornic]] found
 ## History
 
 [[Béorn]] was born and raised here. The [[Bloodroyals]] were sent out from here to found houses, seats, domains, and institutions.
-
-## Controlled Routes
-
-Start of the waycastle road.
-
-## Garrison and Supplies
-
-Permanent House presence, ceremonial guards, and likely logistical stores for the ascent.
-
-## Vulnerabilities
-
-Its symbolic value may make it harder to alter defensively.
-
-## Political Importance
-
-One of the oldest charged places in [[Sentra]].
-
-## Tags
-#type/geography #type/fortification #region/kazaros #affiliation

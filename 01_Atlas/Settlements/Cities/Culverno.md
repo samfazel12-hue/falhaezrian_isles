@@ -22,22 +22,8 @@ Technically subject to Sentran authority but practically independent in day-to-d
 
 - [[Mount Vulka]]
 - serpentglass workshops
-- fire pantheon temples 
-
-## Key Figures
-
-- 
+- fire pantheon temples
 
 ## History
 
 Bound to the [[Dragon War]], the volcanic underworld, and the [[Ignahuatl]] fire pantheon.
-
-## Connections
-
-**Linked settlements:** [[Last Stand]], [[Broken Forest]], [[Lordsgate]], [[Kallindra]]
-**Trade routes:** southern roads, volcanic approaches, serpentglass export routes
-**Controlled by:** [[Ignahuatl]] local authority under Sentran sovereignty
-**Dependent on:** serpentglass, volcanic heat-working, religious authority
-
-## Tags
-#type/settlement #region/southern-sentra #affiliation

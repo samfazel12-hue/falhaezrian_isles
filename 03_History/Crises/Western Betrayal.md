@@ -37,6 +37,3 @@ Western population fell permanently. [[Tek Tenekka]] became a preserved remnant;
 ## Disputed Interpretations
 
 Was it justice, revenge, ethnic punishment, or political abandonment? This should remain disputed.
-
-## Tags
-#type/event #era/first-continental-invasion

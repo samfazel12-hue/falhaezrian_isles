@@ -17,19 +17,3 @@ Working docks, civic supply, labour movement.
 ## Politics and Power
 
 No House system operates in this part of [[Kallindra]].
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Kallindra]], [[Featherport]], [[Greenport]]
-**Trade routes:** local harbour routes
-**Controlled by:** 
-**Dependent on:** dock labour and civic organization
-
-## Tags
-#type/settlement #region/kallindra #affiliation

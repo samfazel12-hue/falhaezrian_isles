@@ -21,18 +21,3 @@ Fighting in the eastern campaigns gave Bloodhorn its military reputation.
 ## Controlled Routes
 
 [[Bloody Pass]]
-
-## Garrison and Supplies
-
-Permanent mountain garrison likely.
-
-## Vulnerabilities
-
-If bypassed through tunnels or minor tracks, its command weakens.
-
-## Political Importance
-
-A cadet Blackarrow branch holding Bloodhorn gives the house military reach beyond [[Arrowpoint]].
-
-## Tags
-#type/geography #type/fortification #region/kazaros #affiliation/cadet-branch-of-house-blackarrow

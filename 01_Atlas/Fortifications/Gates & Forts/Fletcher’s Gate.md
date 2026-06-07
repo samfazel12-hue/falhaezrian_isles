@@ -33,6 +33,3 @@ Too small to resist a serious army alone.
 ## Political Importance
 
 Lets Blackarrow inspect, tax, delay, or deny movement.
-
-## Tags
-#type/geography #type/fortification #region/kazaros #affiliation/house-blackarrow

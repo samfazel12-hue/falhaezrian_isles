@@ -1,6 +1,6 @@
 ﻿**Date:** 
 **Location:** [[Kallindra]]
-**Era:** 
+**Era:**
 
 ## Summary
 
@@ -24,19 +24,4 @@ The port remains politically distinct and potentially volatile.
 
 ## Key Figures
 
-- Kallindran civic leaders 
-
-## Who Benefited
-
-Whoever secured control of the port after the unrest.
-
-## Who Lost
-
-The defeated faction; unclear.
-
-## Disputed Interpretations
-
-Riot, revolt, massacre, or civic revolution? Not fixed.
-
-## Tags
-#type/event #era/
+- Kallindran civic leaders

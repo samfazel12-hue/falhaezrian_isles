@@ -21,17 +21,3 @@ Formal commerce and criminal power overlap.
 ## Key Locations
 
 - Thieves’ Guild
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Oldenhaven]], [[Kallindra]]
-**Trade routes:** port trade, smuggling routes
-**Controlled by:** 
-**Dependent on:** dock labour, informal protection networks
-
-## Tags
-#type/settlement #region/kallindra #affiliation

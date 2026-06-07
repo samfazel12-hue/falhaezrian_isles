@@ -24,19 +24,4 @@ The peace created infrastructure and expectations later damaged by invasion and 
 
 ## Key Figures
 
-- long-ruling elven [[High King]] 
-
-## Who Benefited
-
-Merchants, ports, councils, long-distance trade.
-
-## Who Lost
-
-Regions that later experienced peace as lost normalcy.
-
-## Disputed Interpretations
-
-Whether this was true unity or only a long administrative pause.
-
-## Tags
-#type/event #era/long-peace
+- long-ruling elven [[High King]]

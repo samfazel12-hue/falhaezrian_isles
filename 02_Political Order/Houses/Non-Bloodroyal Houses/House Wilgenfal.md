@@ -21,7 +21,7 @@ Remembered for steel, willow symbolism, military responsibility, and the shift a
 
 ## Dynastic Structure
 
-Founded by Samwise; later branch structure .
+Founded by Samwise; later branch structure.
 
 ## Political Position
 
@@ -36,23 +36,3 @@ A pillar of the High Kingdom and House order.
 ## History
 
 Samwise defeated the Yellow Army at Honindra, was proclaimed [[High King]], broke Brandt power, and helped establish the postwar order.
-
-## Connections
-
-**Allied with:** [[House of Béorn]]
-**In tension with:** Brandt loyalists; enemies of the High Kingdom
-**Cadet branches:** 
-**Parent line:** 
-
-## Resources and Military Power
-
-[[Stonegate]] command, military prestige, dark steel greatsword tradition through [[The Lonely Smith]].
-
-## Claims and Grievances
-
-Legitimacy by victory, public proclamation, and council acceptance.
-
-## Internal Divisions
-
-## Tags
-#type/house #affiliation

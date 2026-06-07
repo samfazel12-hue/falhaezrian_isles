@@ -26,11 +26,11 @@ Bound to [[Mount Vulka]], the [[Dragon War]], serpentglass, and the memory of th
 
 ## Priesthood / Institutions
 
-Priests, heat-workers, serpentglass craft lineages, caldera custodians .
+Priests, heat-workers, serpentglass craft lineages, caldera custodians.
 
 ## Rituals and Taboos
 
-Likely taboos around careless flame, unlicensed descent, disrespect for gas/smoke, and misuse of serpentglass .
+Likely taboos around careless flame, unlicensed descent, disrespect for gas/smoke, and misuse of serpentglass.
 
 ## Heresies or Rival Interpretations
 
@@ -39,6 +39,3 @@ Rival interpretations may disagree over whether the deeper thing below Vulka is 
 ## Everyday Role
 
 Shapes craft, funerary practice, pilgrimage, warnings, and civic legitimacy in [[Culverno]].
-
-## Tags
-#type/religion #affiliation

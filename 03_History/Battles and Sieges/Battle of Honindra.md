@@ -37,6 +37,3 @@ Yellow Army, Twixtriver holders, Brandt-aligned forces.
 ## Disputed Interpretations
 
 Popular proclamation versus elite recognition should both matter.
-
-## Tags
-#type/event #era/bloodroyal-war

@@ -43,8 +43,6 @@ Where the Second House gives motion to the realm, the First House gives restrain
 
 The First House is one of the chief institutional checks around the crown. A reigning The [[High King]] may name an heir, but the appointment does not become fully lawful by crown will alone. The candidate must first be approved by the First House and then confirmed by the [[Second High House Council]].
 
-In wartime, the [[High King]]’s emergency powers can overshadow the councils, but the First House still matters because it controls legitimacy, continuity, and formal approval.
-
 ## Relation to the Second House
 
 The First House depends on the Second House for selection of new members, but also restrains the Second House by reviewing its laws.
@@ -66,21 +64,3 @@ This creates built-in tension. The Second House is broader, elected, ministerial
 - Can outlive the political reality it claims to guard.
 - Can create resentment among elected ministers.
 - Can appear detached from the outer Isles, especially the west.
-
-## Key Connections
-
-**Works with:** The [[High King]], [[Second High House Council]], [[House of Béorn]]
-**In tension with:** reformist ministers, regional blocs, peace factions
-**Depends on:** constitutional custom, council legitimacy, House prestige
-**Restrains:** sudden legislation, unstable succession, regional agitation
-
-## Adventure Use
-
-- A candidate for [[High King]] needs First House approval.
-- A First House member is accused of corruption or treason.
-- Reformers try to force the chamber to accept wider representation.
-- A war measure passes the Second House but stalls in the First.
-- A council elder knows an older legal interpretation that could undermine the crown.
-
-## Tags
-#type/institution #type/council #affiliation/house-beorn #region/sentra

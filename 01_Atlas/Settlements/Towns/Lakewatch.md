@@ -17,19 +17,3 @@ Limited local subsistence; magical forest tending matters more than trade.
 ## Politics and Power
 
 Lakewatchers keep out of wider Sentran politics.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Hyrcasos]], [[Mosswoods]], [[Noltic Woods]]
-**Trade routes:** minor forest paths
-**Controlled by:** 
-**Dependent on:** forest magic, isolation
-
-## Tags
-#type/settlement #region/central-sentra #affiliation

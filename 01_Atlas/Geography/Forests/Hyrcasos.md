@@ -4,7 +4,7 @@
 
 ## Overview
 
-Hyrcasos is a surviving fragment of the ancient [[Patahyrcazar]] rainforest and gives [[Hyrcsis]] its name. It is not merely decorative woodland; it is one of the ecological survivors of the [[Dragon War]]’s long damage.
+Hyrcasos is a surviving fragment of the ancient [[Patahyrcazar]] rainforest and gives [[Hyrcsis]] its name. It is one of the ecological survivors of the [[Dragon War]]’s long damage.
 
 ## Geography
 
@@ -31,15 +31,6 @@ No fixed ruler yet beyond surrounding Sentran authority.
 
 Once part of a single vast rainforest with [[Mosswoods]] and [[Noltic Woods]].
 
-## Routes and Barriers
-
-## Strategic Value
-
-Ecological memory and possible borderland cover.
-
 ## Resources
 
 Woodland products, old-growth pockets, local identity.
-
-## Tags
-#type/region #region/central-sentra

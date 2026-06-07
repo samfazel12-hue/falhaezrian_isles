@@ -4,5 +4,4 @@
 
 The office would coordinate provisioning, ships, armour, grain, road movement, forge output, and military logistics.
 
-## Tags
-#type/office #status/loose
+Exact title and current officeholder are not fixed.

@@ -24,19 +24,4 @@ Centralization, restricted travel, port supervision, [[Kallindra]] overload, tax
 
 ## Key Figures
 
-- current [[High King]] 
-
-## Who Benefited
-
-Crown emergency authority, war industries, some military houses.
-
-## Who Lost
-
-Civilians, ports, trade, regions under strain.
-
-## Disputed Interpretations
-
-The House calls it necessary security; critics may call it permanent emergency rule.
-
-## Tags
-#type/event #era/present-age
+- current [[High King]]

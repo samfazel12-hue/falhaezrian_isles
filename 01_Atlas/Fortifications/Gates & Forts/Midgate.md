@@ -33,6 +33,3 @@ Fog, slopes, and hidden paths complicate control beyond the walls.
 ## Political Importance
 
 Midgate is a border instrument as much as a fortification.
-
-## Tags
-#type/geography #type/fortification #region/moonhills #affiliation

@@ -33,6 +33,3 @@ If bypassed through tunnels or betrayal, its strength becomes political theatre.
 ## Political Importance
 
 Command of Stonegate legitimizes [[House Wilgenfal]] as a military pillar of the post-Bloodroyal order.
-
-## Tags
-#type/geography #type/fortification #region/eastern-sentra #affiliation

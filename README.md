@@ -1,4 +1,4 @@
-# The Falhaezrian Isles
+﻿# The Falhaezrian Isles
 
 Player-safe Quartz site for The Falhaezrian Isles campaign setting.
 
@@ -108,3 +108,7 @@ branches: ["master"]
 ### Accidental Private Notes Appearing
 
 Stop and remove the repository or make it private until fixed. Regenerate the player-safe vault from the safe export script before publishing again.
+
+## Changing colors and images
+
+Colors live in quartz.config.ts under 	heme.colors. The current dark-site accent is secondary. Change the hex values, then run powershell -ExecutionPolicy Bypass -File .\build-site.ps1. To add images, put them anywhere in the vault and embed them with Obsidian syntax like ![[image.png]]; Quartz will copy normal image assets into the site build.

@@ -35,13 +35,6 @@ Part of the ancient [[Patahyrcazar]] rainforest before the [[Dragon War]] broke 
 
 Difficult forest movement; not a clean military highway.
 
-## Strategic Value
-
-The forest gives cover, identity, and defensive depth to Mossdeep.
-
 ## Resources
 
 Timber, herbs, mosses, forest craft.
-
-## Tags
-#type/region #region/central-sentra

@@ -33,6 +33,3 @@ Isolation and limited supplies.
 ## Political Importance
 
 Minor but useful piece of the defensive screen.
-
-## Tags
-#type/geography #type/fortification #region/sentran-shields #affiliation/sentran-shield-authorities

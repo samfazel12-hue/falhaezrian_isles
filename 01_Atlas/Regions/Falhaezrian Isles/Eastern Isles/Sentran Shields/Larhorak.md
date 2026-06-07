@@ -10,7 +10,7 @@ The island is important because it holds [[Kebris]], the largest city in the Shi
 
 ## Geography
 
-Larhorak lies east of the central Sentran sphere and forms part of the outer maritime field protecting the eastern approaches. Its coast is strategically exposed: visible to ships, useful for warning, and vulnerable during invasion or pirate pressure.
+Larhorak lies east of the central Sentran sphere and forms part of the outer maritime field protecting the eastern approaches. Its coast is exposed, visible to ships, useful for warning, and vulnerable during invasion or pirate pressure.
 
 The small island holding [[The Sentry]] lies off Larhorak and functions as a watchtower and lighthouse position.
 
@@ -50,10 +50,6 @@ Larhorak controls or watches part of the eastern maritime route system. Movement
 
 The main barriers are not mountains or forests, but sea exposure, naval patrols, storms, pirates, and wartime restrictions.
 
-## Strategic Value
-
-Larhorak’s value comes from size, settlement, and position. It is a shield island in the literal political geography of the realm: part warning post, part defensive belt, part civic island, part naval stepping stone.
-
 ## Resources
 
 - harbour labour
@@ -62,6 +58,3 @@ Larhorak’s value comes from size, settlement, and position. It is a shield isl
 - civic taxes from [[Kebris]]
 - lighthouse and watch infrastructure
 - possible ship repair and provisioning
-
-## Tags
-#type/geography #type/island #region/sentran-shields

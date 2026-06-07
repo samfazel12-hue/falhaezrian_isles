@@ -14,8 +14,6 @@ Twin gates split across the river geography.
 
 Control paired approaches around the [[Saronago]].
 
-## History
-
 ## Controlled Routes
 
 West and east [[Saronago]] approaches
@@ -31,6 +29,3 @@ The twin story is not fixed yet.
 ## Political Importance
 
 Their paired naming is good; the lore behind it still needs work.
-
-## Tags
-#type/geography #type/fortification #region/kallindra #affiliation/kallindra

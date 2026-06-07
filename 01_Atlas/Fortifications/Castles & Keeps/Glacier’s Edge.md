@@ -33,6 +33,3 @@ Could be isolated, but its water source made starvation difficult.
 ## Political Importance
 
 A permanent stain on Blackarrow legitimacy.
-
-## Tags
-#type/geography #type/fortification #region/kazaros #affiliation/house-glacirbar-survivor-line-/-blackarrow-imposed-line

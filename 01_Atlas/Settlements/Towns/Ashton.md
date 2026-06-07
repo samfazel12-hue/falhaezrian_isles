@@ -17,19 +17,3 @@ Lumber milling, river movement, agricultural support.
 ## Politics and Power
 
 Under the wider Sentran order; no major house structure fixed yet.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Bastel]], [[Great Pearl Basin]]
-**Trade routes:** river and breadbasket roads
-**Controlled by:** 
-**Dependent on:** timber supply, river transport
-
-## Tags
-#type/settlement #region/sentran-breadbasket #affiliation

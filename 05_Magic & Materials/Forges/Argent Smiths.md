@@ -13,23 +13,3 @@ Within the eastern craft network of [[Sentra]].
 ## Economy and Function
 
 Silver weapons, monster-hunting gear, enchanted equipment.
-
-## Politics and Power
-
-Useful to The House and frontier forces.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Ferron Forge]], [[Torhin]], [[Kallindra]]
-**Trade routes:** military roads and supply corridors
-**Controlled by:** 
-**Dependent on:** silver, trained artificers, monster-hunter demand
-
-## Tags
-#type/settlement #region/béornic-heartland #affiliation

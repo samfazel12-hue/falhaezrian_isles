@@ -7,7 +7,7 @@
 
 Kebris is the largest city in the [[Sentran Shields]] and the main urban center of [[Larhorak]]. It was originally a city-state, but has since been fully absorbed into wider Falhaezrian politics.
 
-The city matters because it is the clearest example of a shield-island civic power losing independent status without necessarily losing local pride. It should not feel like a minor port. It is the largest city in its island chain and probably still sees itself as more than a provincial outpost.
+It should not feel like a minor port. It is the largest city in its island chain and probably still sees itself as more than a provincial outpost.
 
 ## Geography and Access
 
@@ -61,24 +61,14 @@ Kebris has been swallowed by the wider state, but that does not mean the city is
 
 ## Key Figures
 
-- Current civic governor or mayor: .
-- Crown representative: .
-- Harbour master: .
-- Leading old city-state family: .
-- Military commander attached to shield defense: .
+- Current civic governor or mayor:.
+- Crown representative:.
+- Harbour master:.
+- Leading old city-state family:.
+- Military commander attached to shield defense:.
 
 ## History
 
 Kebris began as a city-state on [[Larhorak]]. Over time, it was drawn fully into wider Falhaezrian politics.
 
-[[Eldric of House Aldermark]] made his mark on [[Larhorak]], giving the island and city a founder-line connection that still shapes Kebris’s political memory.
-
-## Connections
-
-**Linked settlements:** [[The Sentry]], [[Kallindra]], possible [[Larhorak]] towns
-**Trade routes:** shield-island routes, eastern defensive waters, routes toward [[Kallindra]]
-**Controlled by:** Falhaezrian state, with local civic authorities
-**Dependent on:** sea access, harbour security, lighthouse systems, crown protection
-
-## Tags
-#type/settlement #type/city #region/sentran-shields #region/larhorak #affiliation/falhaezrian-isles
+[[Eldric of House Aldermark]] made his mark on [[Larhorak]], which gives the island and city a possible founder-line connection. That connection is not yet developed enough to define Kebris’s full political identity, but it should remain visible as a thread.

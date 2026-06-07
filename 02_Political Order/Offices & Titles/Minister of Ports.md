@@ -4,5 +4,4 @@
 
 The office would oversee port restrictions, inspections, trade channels, harbour law, and wartime movement controls.
 
-## Tags
-#type/office #status/loose
+This office is inferred from the known ministries. Exact title and holder are not fixed.

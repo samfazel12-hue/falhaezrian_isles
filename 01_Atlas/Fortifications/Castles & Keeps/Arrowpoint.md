@@ -21,18 +21,3 @@ Built up to reflect Berkar’s ambition after his campaigns.
 ## Controlled Routes
 
 road through [[Fletcher’s Gate]]
-
-## Garrison and Supplies
-
-Major house garrison and administrative staff.
-
-## Vulnerabilities
-
-Traffic must pass [[Fletcher’s Gate]]; control point failure exposes the approach.
-
-## Political Importance
-
-The physical center of Blackarrow power.
-
-## Tags
-#type/geography #type/fortification #region/kazaros #affiliation/house-blackarrow

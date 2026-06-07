@@ -4,7 +4,7 @@
 
 ## Overview
 
-Surgemark is a contested crescent island south of [[Sentra]]. It matters because whoever holds it controls a forward naval base threatening the southern Sentran coast and Kallindran harbours.
+Surgemark is a contested crescent island south of [[Sentra]].
 
 ## Geography
 
@@ -35,13 +35,6 @@ Repeated treaties and wars failed to remove the island from dispute.
 
 Southern approach to [[Sentra]] through the [[Surgewater Gulf]].
 
-## Strategic Value
-
-Forward naval base and southern choke point.
-
 ## Resources
 
 Harbour, repair, provisioning, military anchorage.
-
-## Tags
-#type/region #region/southern-isles

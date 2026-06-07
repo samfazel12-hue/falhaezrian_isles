@@ -17,19 +17,3 @@ Local endurance economy; exact production not fixed.
 ## Politics and Power
 
 Founder-memory gives it weight beyond size.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Salt Pines]], [[Torhin]]
-**Trade routes:** northeastern roads
-**Controlled by:** 
-**Dependent on:** hard country, founder prestige
-
-## Tags
-#type/settlement #region/béornic-heartland #affiliation

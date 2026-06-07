@@ -39,25 +39,3 @@ Likely aligned with the House but carries internal mountain resentments from con
 ## History
 
 Berkar’s conquest of eastern [[Kazaros]] broke mountain clans and ended after the costly fall of [[Glacier’s Edge]].
-
-## Connections
-
-**Allied with:** [[House of Béorn]] 
-**In tension with:** dispossessed mountain lines; [[House Glacirbar]] survivors
-**Cadet branches:** [[Bloodhorn]] branch
-**Parent line:** [[Bloodroyals]]
-
-## Resources and Military Power
-
-Mountain castles, pass control, military holdings.
-
-## Claims and Grievances
-
-Claims over eastern [[Kazaros]] valleys and passes.
-
-## Internal Divisions
-
-Potential guilt and resentment around [[Glacier’s Edge]] and refugee houses.
-
-## Tags
-#type/house #affiliation

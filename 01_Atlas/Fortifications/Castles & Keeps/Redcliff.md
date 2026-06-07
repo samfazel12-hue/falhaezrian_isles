@@ -17,19 +17,3 @@ Fortified House presence, port or coastal control, military administration.
 ## Politics and Power
 
 House property inside dwarven territory.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Ulum and the Red Sea]], [[House Redbrandt-Redrock]]
-**Trade routes:** Red Sea crossings and northern coastal routes
-**Controlled by:** 
-**Dependent on:** House legal claim, dwarven accommodation
-
-## Tags
-#type/settlement #region/ulum-and-the-red-sea #affiliation

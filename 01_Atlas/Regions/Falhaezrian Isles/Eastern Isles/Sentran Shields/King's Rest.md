@@ -6,7 +6,7 @@
 
 ## Overview
 
-King's Rest is a shield island known for [[Daran’s Tower]], the palace-fortress of [[Daran I Redrock]] and [[Daran II]]. It is not merely a palace site. It is a royal fortified complex whose walls were built thick enough to make the island a serious defensive position.
+King's Rest is a shield island known for [[Daran’s Tower]], the palace-fortress of [[Daran I Redrock]] and [[Daran II]]. Its walls were built thick enough to make the island a serious defensive position.
 
 The island’s name gives it symbolic weight: royal retreat, royal seat, royal memory, and fortress all at once.
 
@@ -20,7 +20,7 @@ The central feature is [[Daran’s Tower]], surrounded by castle walls. The wall
 
 The population likely consists of palace staff, garrison forces, servants, administrators, boat crews, supply workers, and a small dependent settlement.
 
-The island’s culture is formal and guarded, shaped by royal memory, ceremonial use, and its value as an emergency retreat.
+If the island is still actively used, its culture should be formal and guarded. If it is more historical, it may function as a royal memory-site, ceremonial palace, or emergency retreat.
 
 ## Political Status
 
@@ -51,12 +51,6 @@ King's Rest is reached by controlled sea routes. Access is likely restricted, es
 
 The island’s main barriers are water, walls, royal authority, and controlled landing points.
 
-## Strategic Value
-
-King's Rest is valuable as a royal fortified island. It can serve as palace, refuge, ceremonial seat, naval control point, or symbol of royal endurance.
-
-It is less remote than the highest mountain redoubts but more maritime in function.
-
 ## Resources
 
 - palace complex
@@ -65,6 +59,3 @@ It is less remote than the highest mountain redoubts but more maritime in functi
 - garrison
 - controlled harbour or landing
 - service infrastructure for royal occupation
-
-## Tags
-#type/geography #type/island #region/sentran-shields

@@ -14,8 +14,6 @@ Eastern city gate.
 
 Controls the eastern land route out of [[Kallindra]].
 
-## History
-
 ## Controlled Routes
 
 [[Eastern Road]] / [[Shield Road]] toward Eastpeak
@@ -31,6 +29,3 @@ Traffic-heavy gate under wartime strain.
 ## Political Importance
 
 Important for inland movement from the capital.
-
-## Tags
-#type/geography #type/fortification #region/kallindra #affiliation/kallindra

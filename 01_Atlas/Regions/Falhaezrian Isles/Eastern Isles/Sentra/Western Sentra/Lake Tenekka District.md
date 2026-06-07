@@ -35,13 +35,6 @@ Spared during the [[Western Betrayal]]’s retaliation because the [[Duke of Ten
 
 Lake movement, road links, port access at [[Lennishaven]].
 
-## Strategic Value
-
-A rare surviving western cultural archive and a possible bridge between west and House power.
-
 ## Resources
 
 Lake trade, old records, western legitimacy.
-
-## Tags
-#type/region #region/western-sentra

@@ -55,7 +55,7 @@ It is also where resentment becomes formal politics. Port restrictions, war taxe
 
 The [[Second High House Council|Second House]] does not stand above the [[High King]], especially in wartime. The crown remains the supreme military authority, and emergency powers can overshadow ordinary civil government.
 
-Still, the [[Second High House Council|Second House]] matters because it controls administration, money, ministries, and formal confirmation. A named heir must be approved by the [[First High House Council]] and then confirmed by the [[Second High House Council|Second House]] before succession becomes fully lawful.
+A named heir must be approved by the [[First High House Council]] and then confirmed by the [[Second High House Council|Second House]] before succession becomes fully lawful.
 
 ## Relation to the [[First High House Council|First House]]
 
@@ -86,23 +86,3 @@ In peacetime, the [[First Minister]] can become one of the most powerful figures
 - [[Kallindra]]’s dominance may make outer regions suspicious.
 - A two-thirds majority can make major reforms difficult.
 - In wartime, it may be reduced to managing burdens imposed by the crown.
-
-## Key Connections
-
-**Works with:** [[High King]], [[First High House Council]], [[First Minister]], [[Kallindra]]
-**Draws from:** elected representatives across the Isles
-**In tension with:** crown emergency powers, [[First High House Council|First House]] restraint, regional separatists
-**Controls:** law drafting, ministries, taxation, civil administration
-**Depends on:** elections, regional participation, Kallindran infrastructure
-
-## Adventure Use
-
-- A ministry hires the party for quiet work outside legal channels.
-- A western faction demands restored representation.
-- A law passes the [[Second High House Council|Second House]] but is blocked by the First.
-- A minister uses the party to expose corruption before a vote.
-- The [[First Minister]] needs leverage against the crown during wartime.
-- A disputed election threatens the legitimacy of an entire regional bloc.
-
-## Tags
-#type/institution #type/council #affiliation/house-beorn #region/kallindra

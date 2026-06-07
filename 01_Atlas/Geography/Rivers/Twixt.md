@@ -13,6 +13,3 @@ This waterway shapes movement, settlement, borders, or trade in its region.
 
 - [[Great Pearl]]
 - [[Sentra]]
-
-## Tags
-#type/geography #type/river #region/kallindra

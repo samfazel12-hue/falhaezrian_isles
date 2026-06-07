@@ -5,6 +5,3 @@ The Isles are unified under a common crown and wider common law, while many regi
 ## Political Meaning
 
 This is not a flat empire. The central state binds the Isles, but local rule still matters.
-
-## Tags
-#type/law

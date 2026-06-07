@@ -33,6 +33,3 @@ Empty peacetime spaces can hide decay, corruption, or illicit use.
 ## Political Importance
 
 A physical reminder that current unity sits on older internal frontiers.
-
-## Tags
-#type/geography #type/fortification #region/central/southern-sentra #affiliation

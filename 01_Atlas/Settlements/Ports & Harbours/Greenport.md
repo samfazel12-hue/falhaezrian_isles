@@ -17,19 +17,3 @@ Crown-controlled trade, military supply, official logistics.
 ## Politics and Power
 
 Direct House administration.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Kallindra]], [[Featherport]], [[Port of the People]]
-**Trade routes:** protected crown shipping
-**Controlled by:** 
-**Dependent on:** House authority and war supply
-
-## Tags
-#type/settlement #region/kallindra #affiliation

@@ -17,19 +17,3 @@ Strait control, military supply, coastal authority.
 ## Politics and Power
 
 Saltbrandt seat with Brandt-descended memory.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Rostcliff]], [[House Saltbrandt]], [[Red Sea of Ulum]]
-**Trade routes:** [[Strait of Brandt]]
-**Controlled by:** 
-**Dependent on:** strait traffic and house authority
-
-## Tags
-#type/settlement #region/ulum-and-the-red-sea #affiliation

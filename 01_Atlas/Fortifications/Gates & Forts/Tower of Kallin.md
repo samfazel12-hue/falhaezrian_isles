@@ -16,7 +16,7 @@ Original port defense for [[Kallindra]].
 
 ## History
 
-Named for Kallin, a woman whose story is still .
+Named for Kallin, a woman whose story is still.
 
 ## Controlled Routes
 
@@ -33,6 +33,3 @@ Older defensive work inside a much larger modern city.
 ## Political Importance
 
 Foundational landmark for [[Kallindra]]’s port history.
-
-## Tags
-#type/geography #type/fortification #region/kallindra #affiliation/kallindra

@@ -20,17 +20,12 @@ Named for Torrel.
 
 ## Controlled Routes
 
-Kallindran city route 
+Kallindran city route
 
 ## Garrison and Supplies
 
 City guard.
 
-## Vulnerabilities
-
 ## Political Importance
 
 Named gates preserve civic memory.
-
-## Tags
-#type/geography #type/fortification #region/kallindra #affiliation/kallindra

@@ -40,25 +40,3 @@ House-aligned but morally contrasted with Berkar’s brutality.
 ## History
 
 After Berkar scattered eastern mountain clans, Alfrid opened his keep to refugees. Six master smiths joined him and built the [[Sevensmiths]] forge.
-
-## Connections
-
-**Allied with:** [[House of Béorn]] 
-**In tension with:** [[House Blackarrow]] legacy; dispossessed mountain houses
-**Cadet branches:** 
-**Parent line:** [[Bloodroyals]]
-
-## Resources and Military Power
-
-Forge tradition, armour, rare metals, refugee loyalty.
-
-## Claims and Grievances
-
-Moral claim to protect those harmed by Blackarrow conquest.
-
-## Internal Divisions
-
-Possible tension between craft neutrality and wartime demand.
-
-## Tags
-#type/house #affiliation

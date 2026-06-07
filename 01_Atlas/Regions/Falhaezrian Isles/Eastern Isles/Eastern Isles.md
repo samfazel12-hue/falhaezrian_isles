@@ -1,6 +1,4 @@
-﻿
-
-**Parent region:** [[Falhaezrian Isles]]
+﻿**Parent region:** [[Falhaezrian Isles]]
 **Controlled by:** [[House of Béorn]]
 **Primary terrain:** central island, shield islands, mountain corridors, ports, inland waters, cold northern sea
 **Political role:** core region of the Falhaezrian state
@@ -99,7 +97,7 @@ The region functions because law, councils, ports, roads, tunnels, military comm
 | [[King's Rest]] | [[Sentran Shields]] | Royal island holding [[Daran’s Tower]]. |
 | [[Meritia]] | [[Great Pearl]] | Sacred and scholarly lake island; tied to [[Augulector Library]] and [[Temple of Heurikissen]]. |
 | [[Ulum]] | northern frontier | Dwarven island, Red Mountains, surface cooperation, deep dangers. |
-| [[Surgemark]] | southern approach  | Contested crescent island in the [[Surgewater Gulf]], linked to Sentra-Yarrowgold conflict. |
+| [[Surgemark]] | southern approach | Contested crescent island in the [[Surgewater Gulf]], linked to Sentra-Yarrowgold conflict. |
 
 ## Sentran Shields
 
@@ -160,7 +158,7 @@ The region functions because law, councils, ports, roads, tunnels, military comm
 | [[High King]] | [[Skystone]] / royal circuit | Supreme royal office. |
 | [[First High House Council]] | Béornic north | High chamber, old House order, constitutional memory. |
 | [[Second High House Council]] | [[Kallindra]] | Main lawmaking and administrative chamber. |
-| [[First Minister]] | [[Kallindra]] / council government | Senior executive office . |
+| [[First Minister]] | [[Kallindra]] / council government | Senior executive office. |
 | [[Mages’ House]] | [[The Moody Rock]] | Arcane institution founded by Krike. |
 | [[Augulector Library]] | [[Meritia]] | Major scholarly institution. |
 | [[Temple of Heurikissen]] | [[Meritia]] | Sacred site on Meritia. |
@@ -174,7 +172,6 @@ The region functions because law, councils, ports, roads, tunnels, military comm
 |---|---|---|
 | [[Waycastle Ascent]] | mountain road | [[Jeor’s Hall]] to [[Skystone]]. |
 | [[Waycastle Chain]] | defended mountain corridor | Royal ascent and crown redoubt system. |
-| [[Kazaros Tunnel Network]] | hidden tunnel network | Kazaros castles, supply routes, and deep routes toward [[Ulum]]. |
 | [[Redstone Road]] | road | Main east-west road through [[Midgate]]. |
 | [[Midgate Passage]] | pass route | Main safe route through the [[Moonhills]]. |
 | [[Highpass Trail]] | trail | Secondary route through the [[Moonhills]]. |
@@ -193,12 +190,12 @@ The region functions because law, councils, ports, roads, tunnels, military comm
 | [[Strait of Brandt]] | strait | Northern choke point between Sentra and [[Ulum]]. |
 | [[Gulf of Kallin]] | gulf | Linked to Kallindran maritime approaches. |
 | [[Bay of Kashti]] | bay | Kallindran approach guarded from [[Raventide]]. |
-| [[Gulf of Sentra]] | gulf | Named coastal water of Sentra; boundaries . |
+| [[Gulf of Sentra]] | gulf | Named coastal water of Sentra; boundaries. |
 | [[Gulf of Lennis]] | gulf | Western water tied to [[Tek Leniss]] and western memory. |
 | [[Surgewater Gulf]] | gulf | Southern approach where [[Surgemark]] sits. |
 | [[Vulkan Gulf]] | gulf | Southern water near [[Mount Vulka]]. |
 | [[Strait of Honindra]] | strait | Tied to the [[Battle of Honindra]]. |
-| [[Red Strait]] | strait | Eastern waters . |
+| [[Red Strait]] | strait | Eastern waters. |
 
 ## Houses and Powers
 
@@ -227,7 +224,7 @@ The region functions because law, councils, ports, roads, tunnels, military comm
 | Timber | northern and central forests | Building, ships, fuel, military use. |
 | Metals | [[Kazaros]], [[Ulum]] contact | Arms, tools, armour, trade. |
 | Armscraft | [[Kazaros]], [[Sevensmiths]], [[Torhin]] | Military supply and prestige craft. |
-| Magical equipment | arcane and forge institutions | Gemwork, infused metals, silver arms . |
+| Magical equipment | arcane and forge institutions | Gemwork, infused metals, silver arms. |
 | Port revenue | [[Kallindra]] | Customs, inspections, trade taxation. |
 | Inland transport | [[Great Pearl Basin]], [[Saronago]] | Lake, river, ferry, and road movement. |
 | Dwarven methods and materials | [[Ulum]] | Tunneling, roadstone, mining knowledge, metalwork. |
@@ -253,27 +250,3 @@ Key layers include:
 | Sack of [[The Lonely Rock]] | far eastern Shields | Enslavement, Imperial base, failure of shield defenses. |
 | Present war | whole region | Port restriction, military inspection, emergency powers. |
 | [[Port War]] | [[Kallindra]] / maritime routes | Trade narrowing, piracy pressure, port militarization. |
-
-## Strategic Value
-
-The Eastern Isles keep the Falhaezrian state functioning.
-
-Their strategic value comes from:
-
-- [[Skystone]] and royal continuity
-- [[Kazaros]] mountain defenses
-- [[Kallindra]]’s port and administrative system
-- the [[Second High House Council]]
-- the [[First High House Council]]
-- the [[Sentran Shields]]
-- dwarven contact through [[Ulum]]
-- the [[Great Pearl Basin]]
-- protected sea lanes
-- tunnel networks
-- forge settlements
-- sacred and scholarly institutions
-- wartime logistics
-- cultural and institutional legitimacy
-
-## Tags
-#type/region #region/eastern-isles #affiliation/falhaezrian-isles

@@ -49,12 +49,6 @@ Raventide controls sightlines and safe passage toward the [[Bay of Kashti]]. Mov
 
 Its barriers are coastal exposure, naval inspection, and wartime restrictions.
 
-## Strategic Value
-
-Raventide is a near-Kallindra watch island. It helps protect one of the most important maritime approaches in the eastern Isles.
-
-Its value increases sharply during the [[Port War]] and the present age of restricted trade.
-
 ## Resources
 
 - lighthouse service
@@ -63,6 +57,3 @@ Its value increases sharply during the [[Port War]] and the present age of restr
 - fishing
 - coastal surveillance
 - possible anti-smuggling patrols
-
-## Tags
-#type/geography #type/island #region/sentran-shields

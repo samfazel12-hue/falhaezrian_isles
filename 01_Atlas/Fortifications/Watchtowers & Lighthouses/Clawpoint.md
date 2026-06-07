@@ -33,6 +33,3 @@ Small size and mixed conservation role.
 ## Political Importance
 
 Shows how defense, science, and maritime traffic overlap in the Shields.
-
-## Tags
-#type/geography #type/fortification #region/sentran-shields #affiliation/local-shield-authorities-/-house-aligned-administration

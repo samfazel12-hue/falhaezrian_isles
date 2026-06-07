@@ -24,7 +24,7 @@ The later choice to continue war after the second invasion helped break this uni
 
 ## Key Figures
 
-- High Kings 
+- High Kings
 
 ## Who Benefited
 
@@ -37,6 +37,3 @@ Regional autonomy where union felt like subjection.
 ## Disputed Interpretations
 
 Union, empire, or military protectorate? Depends who is speaking.
-
-## Tags
-#type/event #era/postwar-settlement

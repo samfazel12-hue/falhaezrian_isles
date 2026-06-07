@@ -12,6 +12,6 @@ A public wiki for players in The Falhaezrian Isles campaign setting.
 - [[Kazaros]]
 - [[Western Sentra]]
 - [[Southern Sentra]]
-- [[03_History/Wars/Dragon War|Dragon War]]
+- [[Dragon War]]
 - [[Bloodroyal War]]
 - [[Present War]]

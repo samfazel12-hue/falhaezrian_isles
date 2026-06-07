@@ -24,19 +24,4 @@ Tribute, allegiance, military duty, port oversight, and crown authority deepened
 
 ## Key Figures
 
-- [[High King]] 
-
-## Who Benefited
-
-The [[High King]] and central institutions.
-
-## Who Lost
-
-Overrun outer regions and western communities later caught in retaliation.
-
-## Disputed Interpretations
-
-Whether unity was liberation, coercion, or both.
-
-## Tags
-#type/event #era/continental-invasions
+- [[High King]]

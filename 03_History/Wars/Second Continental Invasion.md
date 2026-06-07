@@ -24,19 +24,4 @@ The Empire failed to secure a lasting foothold.
 
 ## Key Figures
 
-- [[High King]] 
-
-## Who Benefited
-
-The eastern core survived and central war powers hardened.
-
-## Who Lost
-
-[[Lonely Rock]] and regions damaged despite victory.
-
-## Disputed Interpretations
-
-Whether the postwar decision to keep fighting was strategic necessity or crown overreach.
-
-## Tags
-#type/event #era/continental-invasions
+- [[High King]]

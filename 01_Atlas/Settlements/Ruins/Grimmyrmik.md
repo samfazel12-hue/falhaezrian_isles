@@ -2,7 +2,4 @@
 
 ## Decision
 
-Use [[Grimmermark]] as the main note .
-
-## Tags
-#type/alias #status/review
+Use [[Grimmermark]] as the main note for now.

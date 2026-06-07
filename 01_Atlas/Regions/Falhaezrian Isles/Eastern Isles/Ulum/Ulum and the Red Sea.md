@@ -32,15 +32,6 @@ Cooperation exists at the surface. [[Redcliff]] remains a legal House property o
 
 Dwarves taught The House tunneling knowledge. The deep networks later confirmed that the underworld beneath [[Sentra]] and [[Ulum]] connects.
 
-## Routes and Barriers
-
-## Strategic Value
-
-Controls northern crossings, tunnel politics, roadstone supply, and dwarven contact.
-
 ## Resources
 
 Roadstone, mining knowledge, metalwork, tunnels.
-
-## Tags
-#type/region #region/eastern-isles

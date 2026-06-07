@@ -38,6 +38,3 @@ Twixtriver’s old holders and Krova’s immediate power in [[Sentra]].
 ## Disputed Interpretations
 
 [[Béornic]] histories call it victory; [[Yarrowgold]] traditions may call it exile, survival, or stolen kingship.
-
-## Tags
-#type/event #era/wars-of-sentran-unification

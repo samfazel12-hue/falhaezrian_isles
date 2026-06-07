@@ -18,24 +18,4 @@ Portage, storage, inspection, lake transport, and redistribution.
 
 Likely under House-supervised civil port administration during wartime.
 
-## Key Locations
-
-- 
-
-## Key Figures
-
-- 
-
 ## History
-
- beyond its role as lake-port.
-
-## Connections
-
-**Linked settlements:** [[Great Pearl]], [[Kallindra]], [[Bastel]], [[Rhodokra]]
-**Trade routes:** [[Great Pearl]] lake traffic
-**Controlled by:** Sentran authorities
-**Dependent on:** inland grain and mountain goods
-
-## Tags
-#type/settlement #region/great-pearl-basin #affiliation

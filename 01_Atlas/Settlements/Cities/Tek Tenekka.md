@@ -21,8 +21,8 @@ Protected by the House during the retaliation because the [[Duke of Tenekka]] re
 ## Key Locations
 
 - old wooden pre-Béornic districts
-- local religious sites 
-- ducal records 
+- local religious sites
+- ducal records
 
 ## Key Figures
 
@@ -31,13 +31,3 @@ Protected by the House during the retaliation because the [[Duke of Tenekka]] re
 ## History
 
 Spared when much of the west burned. Now carries what the other western cities lost.
-
-## Connections
-
-**Linked settlements:** [[Tek Leniss]], [[Lennishaven]], [[Lake Tenekka]]
-**Trade routes:** [[Lake Tenekka]] routes, western local roads
-**Controlled by:** [[Duke of Tenekka]] / local [[Tènnakkannin]] authority
-**Dependent on:** old culture, records, lake economy
-
-## Tags
-#type/settlement #region/western-sentra #affiliation

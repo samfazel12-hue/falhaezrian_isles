@@ -37,25 +37,3 @@ Sensitive survivor branch of Brandt descent. Its name choice is a political stat
 ## History
 
 Eckard left Brandt ambition and spent formative time with Sycar in the [[Mosswoods]].
-
-## Connections
-
-**Allied with:** Mossdeep 
-**In tension with:** anti-Brandt hardliners; houses suspicious of Brandt names
-**Cadet branches:** 
-**Parent line:** [[House Brandt]]
-
-## Resources and Military Power
-
-Northern choke point, coastal seat, old Brandt legitimacy.
-
-## Claims and Grievances
-
-Keeps Brandt name in honour rather than shame.
-
-## Internal Divisions
-
-Daughter/son split between [[Rostcliff]] and [[Saltcliff]] may create branch tension.
-
-## Tags
-#type/house #affiliation

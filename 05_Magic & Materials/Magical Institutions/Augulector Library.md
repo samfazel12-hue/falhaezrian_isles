@@ -17,19 +17,3 @@ Scholarship, records, copying, learned authority.
 ## Politics and Power
 
 Control of the library gives [[House Godbrandt]] legitimacy despite Meritian displacement.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Temple of Heurikissen]], [[House Godbrandt]], [[House Meritia]]
-**Trade routes:** lake routes to [[Meritia]] and [[Great Pearl]]
-**Controlled by:** 
-**Dependent on:** scribes, scholars, protection, old archives
-
-## Tags
-#type/settlement #region/meritia #affiliation

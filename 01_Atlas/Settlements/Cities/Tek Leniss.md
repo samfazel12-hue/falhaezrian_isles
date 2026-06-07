@@ -18,24 +18,6 @@ Formerly a stronger landing and trade settlement than its parent town.
 
 Destroyed; political authority replaced by memory, ruin, and the surviving port community at [[Lennishaven]].
 
-## Key Locations
-
-- 
-
-## Key Figures
-
-- 
-
 ## History
 
 Massacred in the western retaliations. The [[Gulf of Lennis]] ran red.
-
-## Connections
-
-**Linked settlements:** [[Tek Tenekka]], [[Lennishaven]], [[Gulf of Lennis]]
-**Trade routes:** former lake/road/landing routes
-**Controlled by:** formerly local [[Tènnakkannin]] rulers
-**Dependent on:** none or ruined
-
-## Tags
-#type/settlement #region/western-sentra #affiliation

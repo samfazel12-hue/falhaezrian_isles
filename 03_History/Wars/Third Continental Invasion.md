@@ -24,20 +24,5 @@ Emergency powers, port control, military taxation, and logistical pressure inten
 
 ## Key Figures
 
-- old [[High King]] 
-- new [[High King]] 
-
-## Who Benefited
-
-War factions and crown emergency authority.
-
-## Who Lost
-
-Ports, civilians, trade networks, and exhausted regions.
-
-## Disputed Interpretations
-
-Whether destroying the Empire is possible or delusional.
-
-## Tags
-#type/event #era/present-war
+- old [[High King]]
+- new [[High King]]

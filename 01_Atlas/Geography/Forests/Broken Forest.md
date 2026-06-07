@@ -35,13 +35,6 @@ A dragon destroyed settlements, holds, and castles here during the [[Dragon War]
 
 Dangerous footing, heat-retaining glass, poor water absorption, broken cover.
 
-## Strategic Value
-
-Controls the only known source of serpentglass.
-
 ## Resources
 
 [[Serpentglass]].
-
-## Tags
-#type/region #region/southern-sentra

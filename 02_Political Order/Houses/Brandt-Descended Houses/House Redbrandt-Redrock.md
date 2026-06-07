@@ -37,25 +37,3 @@ Rewarded for opposing the Brandt betrayal, but still carries Brandt blood and no
 ## History
 
 Helped expose and oppose the Brandt betrayal. Later [[Redcliff]] became its seat and a House enclave on [[Ulum]].
-
-## Connections
-
-**Allied with:** [[House of Béorn]]
-**In tension with:** [[Ulum]] resentment; anti-Brandt memory
-**Cadet branches:** 
-**Parent line:** [[House Brandt]]
-
-## Resources and Military Power
-
-Forts, ports, [[Redcliff]], royal precedent.
-
-## Claims and Grievances
-
-Need to be trusted despite Brandt descent.
-
-## Internal Divisions
-
-Name change may divide traditionalists and loyalists.
-
-## Tags
-#type/house #affiliation

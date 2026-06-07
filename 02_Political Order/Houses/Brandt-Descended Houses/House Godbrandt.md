@@ -5,8 +5,6 @@
 
 ## Banner
 
-. Should probably combine sacred custody with suspect political maneuvering.
-
 ## Overview
 
 House Godbrandt descends from Wolger and took control of [[Meritia]] through political schemes and careful maneuvering. It now defends the [[Augulector Library]] and [[Temple of Heurikissen]] while the [[Meritians]] live displaced.
@@ -21,7 +19,7 @@ Learned, sacred-facing, politically slippery, and burdened by the legitimacy pro
 
 ## Dynastic Structure
 
-Descends from Wolger; branch details .
+Descends from Wolger; branch details.
 
 ## Political Position
 
@@ -36,25 +34,3 @@ Controls sacred institutions under a cloud of displacement.
 ## History
 
 Took [[Meritia]] from [[House Meritia]] and became guardian of its learned and sacred institutions.
-
-## Connections
-
-**Allied with:** [[House of Béorn]] 
-**In tension with:** [[House Meritia]] / displaced [[Meritians]]
-**Cadet branches:** 
-**Parent line:** [[House Brandt]]
-
-## Resources and Military Power
-
-Sacred institutions, archives, scholars, island seat.
-
-## Claims and Grievances
-
-Custodianship of [[Meritia]]; contested legitimacy.
-
-## Internal Divisions
-
-Some may genuinely defend the institutions; others benefit from occupation.
-
-## Tags
-#type/house #affiliation

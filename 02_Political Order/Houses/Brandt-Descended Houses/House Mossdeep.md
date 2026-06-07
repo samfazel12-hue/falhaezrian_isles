@@ -37,25 +37,3 @@ Politically useful as a Brandt-descended branch that did not fully follow Brandt
 ## History
 
 Sycar helped shape [[Deepwoodrest]] and created a house identity opposed to static eldest-line ideology.
-
-## Connections
-
-**Allied with:** woodland communities
-**In tension with:** hardline Brandt claimants
-**Cadet branches:** 
-**Parent line:** [[House Brandt]]
-
-## Resources and Military Power
-
-Woodland seat, local knowledge, living terrain, old Brandt blood without full Brandt politics.
-
-## Claims and Grievances
-
-Memory of choosing the [[Mosswoods]] over Brandt ambition.
-
-## Internal Divisions
-
-Potential tension between woodland autonomy and House demands.
-
-## Tags
-#type/house #affiliation

@@ -25,19 +25,4 @@ The [[Broken Forest]] remains ecologically compromised. [[Culverno]]’s serpent
 ## Key Figures
 
 - [[Ignahuatl]] defenders
-- [[Culverno]] craftsmen 
-
-## Who Benefited
-
-[[Culverno]] in the long term through serpentglass; later religious and political actors who interpreted the destruction.
-
-## Who Lost
-
-Destroyed settlements, old wealth centers, forests, dragonborn communities in later prejudice.
-
-## Disputed Interpretations
-
-Common people may remember it as divine punishment of the rich, while deeper lore says blood magic caused it.
-
-## Tags
-#type/event #era/dragon-war
+- [[Culverno]] craftsmen

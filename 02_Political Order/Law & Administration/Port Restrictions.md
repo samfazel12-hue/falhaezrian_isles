@@ -5,6 +5,3 @@ Port restrictions are one of the clearest signs of emergency rule in the present
 ## Consequence
 
 Trade narrows, smuggling rises, [[Kallindra]] strains, and civilian movement becomes political.
-
-## Tags
-#type/law

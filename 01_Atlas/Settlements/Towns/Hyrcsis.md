@@ -17,19 +17,3 @@ Agriculture, vineyards, breadbasket distribution.
 ## Politics and Power
 
 Ordinary Sentran local rule; not a major political node.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Bastel]], [[Hyrcasos]]
-**Trade routes:** breadbasket roads; [[Erkzis]] basin
-**Controlled by:** 
-**Dependent on:** fertile soils and flood avoidance
-
-## Tags
-#type/settlement #region/sentran-breadbasket #affiliation

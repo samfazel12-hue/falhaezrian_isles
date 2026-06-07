@@ -33,6 +33,3 @@ Dependent on glacier access and narrow local geography.
 ## Political Importance
 
 Useful symbol of mountain resistance.
-
-## Tags
-#type/geography #type/fortification #region/kazaros #affiliation/local-kazarosian-holders

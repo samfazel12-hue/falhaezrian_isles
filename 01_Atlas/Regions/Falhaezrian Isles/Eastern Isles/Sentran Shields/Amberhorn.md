@@ -46,10 +46,6 @@ Amberhorn matters to ships approaching [[Kallindra]]’s port system. Its lighth
 
 Barriers include rough seas, restricted wartime navigation, and possibly protected marine zones.
 
-## Strategic Value
-
-Amberhorn is a small island with an oversized navigational role. Whoever controls its light and watchtower can affect movement toward key Kallindran harbours.
-
 ## Resources
 
 - lighthouse service
@@ -58,6 +54,3 @@ Amberhorn is a small island with an oversized navigational role. Whoever control
 - wildlife reserve value
 - fishing and coastal knowledge
 - warning capacity against southern or pirate ships
-
-## Tags
-#type/geography #type/island #region/sentran-shields

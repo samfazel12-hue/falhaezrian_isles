@@ -20,7 +20,7 @@ Its coastline is probably difficult enough to regulate access. The island’s na
 
 The dominant institution is the [[Mages’ House]], founded by [[Krike the Mage]], daughter of [[Béorn]] and [[Rosaria]].
 
-The island’s culture is institutional, guarded, scholarly, and strange. Most who live there belong to the arcane order or serve it as boat crews, scribes, wardens, servants, or House officials assigned to the property.
+The island’s culture should be institutional, guarded, scholarly, and strange. People who live there likely belong to the arcane order, support staff, boat crews, scribes, servants, wardens, or House officials assigned to the property.
 
 ## Political Status
 
@@ -41,7 +41,7 @@ It is not formally part of the military shield system, but that does not mean it
 
 ## History
 
-[[The Moody Rock]] is tied to [[Krike the Mage]], one of the Bloodroyal daughters. Krike belongs to the arcane foundations of the setting and is linked to the discovery of the secrets of Vulka.
+[[The Moody Rock]] is tied to [[Krike the Mage]], one of the Bloodroyal daughters. Krike belongs to the arcane foundations of the setting and is linked to the discovery of Vulka.
 
 The island’s history should therefore connect arcane research, House authority, and older Bloodroyal legitimacy.
 
@@ -51,12 +51,6 @@ Access is probably restricted. Travel to the island would require approval from 
 
 The main barriers are institutional, magical, and maritime.
 
-## Strategic Value
-
-[[The Moody Rock]]’s value is arcane. It holds magical knowledge, training, research, and institutional authority.
-
-Its exclusion from formal military use is interesting. It could be genuine legal separation, political theatre, or a way to hide the fact that magic itself is considered a defensive asset.
-
 ## Resources
 
 - arcane knowledge
@@ -65,6 +59,3 @@ Its exclusion from formal military use is interesting. It could be genuine legal
 - rare texts or instruments
 - House-controlled island property
 - institutional prestige
-
-## Tags
-#type/geography #type/island #region/sentran-shields

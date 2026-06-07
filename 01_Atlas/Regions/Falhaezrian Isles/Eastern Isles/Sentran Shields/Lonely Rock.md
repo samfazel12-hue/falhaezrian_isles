@@ -53,12 +53,6 @@ This event is one of the harshest reminders that the [[Sentran Shields]] can fai
 
 Isolation is its barrier and its curse.
 
-## Strategic Value
-
-[[The Lonely Rock]] is valuable because of its position. It can serve as a warning post, naval station, supply point, or invasion base.
-
-Its history proves that the same geography that protects the Isles can be turned against them.
-
 ## Resources
 
 - possible harbour
@@ -67,6 +61,3 @@ Its history proves that the same geography that protects the Isles can be turned
 - military anchorage
 - ruins and memory-sites
 - possible salvage from occupation remains
-
-## Tags
-#type/geography #type/island #region/sentran-shields

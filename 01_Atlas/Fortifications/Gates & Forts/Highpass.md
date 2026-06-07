@@ -33,6 +33,3 @@ Hard to supply; hidden paths may exist nearby.
 ## Political Importance
 
 Important precisely because it is the route people use when they cannot or should not use [[Midgate]].
-
-## Tags
-#type/geography #type/fortification #region/moonhills #affiliation

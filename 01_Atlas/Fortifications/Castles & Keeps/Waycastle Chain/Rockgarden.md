@@ -17,22 +17,3 @@ Forces all ascent traffic through the castle. There is no path around without se
 ## History
 
 Original seat of [[Donella]], eleventh child of [[Béorn]] and [[Rosaria]]. Now partly public through the arboretum and biology faculty.
-
-## Controlled Routes
-
-Waycastle road upward toward [[Darèh Gap]].
-
-## Garrison and Supplies
-
-Garrison must share space with public/academic functions; water and garden systems support endurance.
-
-## Vulnerabilities
-
-Public access is a security risk. Glass and living systems may be vulnerable to sabotage.
-
-## Political Importance
-
-Shows that House power is not only iron and walls; it can absorb science, beauty, and control at once.
-
-## Tags
-#type/geography #type/fortification #region/kazaros #affiliation

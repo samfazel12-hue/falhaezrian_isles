@@ -17,19 +17,3 @@ Military shipping, inspections, commercial throughput.
 ## Politics and Power
 
 Heavy crown and military presence.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Kallindra]], [[Clawpoint]], [[Port of the People]]
-**Trade routes:** eastern sea lanes and Kallindran supply lines
-**Controlled by:** 
-**Dependent on:** inspectors, naval control, port labour
-
-## Tags
-#type/settlement #region/kallindra #affiliation

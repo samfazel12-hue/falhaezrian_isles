@@ -25,7 +25,7 @@ Founded by Ella. Later confirmed daughters include Rowena, Sybelle, and Hestra.
 
 ## Political Position
 
-Likely important in succession and marriage politics; current alignment  but tied to old Bloodroyal legitimacy.
+Likely important in succession and marriage politics; current alignment but tied to old Bloodroyal legitimacy.
 
 ## Key Members
 
@@ -39,25 +39,3 @@ Likely important in succession and marriage politics; current alignment  but tie
 ## History
 
 Established in the founder age and preserved distinctive inheritance customs.
-
-## Connections
-
-**Allied with:** Bloodroyal-descended houses 
-**In tension with:** patrilineal houses, rivals seeking marriage leverage
-**Cadet branches:** 
-**Parent line:** [[Bloodroyals]]
-
-## Resources and Military Power
-
-Highland holdings, magical blood prestige.
-
-## Claims and Grievances
-
-Female-line inheritance and name retention.
-
-## Internal Divisions
-
-Potential disputes over daughters, consorts, and magical inheritance.
-
-## Tags
-#type/house #affiliation

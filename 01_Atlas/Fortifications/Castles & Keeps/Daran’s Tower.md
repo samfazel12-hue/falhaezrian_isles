@@ -1,4 +1,4 @@
-﻿**Held by:** House Redrock / royal line 
+﻿**Held by:** House Redrock / royal line
 **Part of:** castle-palace
 **Region:** [[Sentran Shields]]
 
@@ -17,22 +17,3 @@ Royal residence and defensible island stronghold.
 ## History
 
 Daran I built the tower and palace; [[Daran II]] built the walls.
-
-## Controlled Routes
-
-[[King's Rest]] maritime approaches
-
-## Garrison and Supplies
-
-Castle staff, royal guard, island supply.
-
-## Vulnerabilities
-
-Kitchens and stables sit in the most vulnerable positions inside the walls.
-
-## Political Importance
-
-Material expression of Redrock royal authority.
-
-## Tags
-#type/geography #type/fortification #region/sentran-shields #affiliation/house-redrock-/-royal-line-

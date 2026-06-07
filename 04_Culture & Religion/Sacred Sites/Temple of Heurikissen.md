@@ -12,24 +12,8 @@ On [[Meritia]], near or within the island’s sacred scholarly complex.
 
 ## Economy and Function
 
-Pilgrimage, teaching, ritual, temple lands .
+Pilgrimage, teaching, ritual, temple lands.
 
 ## Politics and Power
 
 Godbrandt control over the temple gives them religious authority but also exposes them to Meritian resentment.
-
-## Key Locations
-
-## Key Figures
-
-## History
-
-## Connections
-
-**Linked settlements:** [[Augulector Library]], [[House Godbrandt]], [[House Meritia]]
-**Trade routes:** lake pilgrimage and scholarly routes
-**Controlled by:** 
-**Dependent on:** priesthood, records, sacred legitimacy
-
-## Tags
-#type/settlement #region/meritia #affiliation
