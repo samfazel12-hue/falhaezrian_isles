@@ -1,5 +1,8 @@
 ﻿# The Falhaezrian Isles
 
+
+![[assets/East_Frame.png]]
+
 A public wiki for players in The Falhaezrian Isles campaign setting.
 
 ## Start Here
