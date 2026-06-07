@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "samfazel12-hue.github.io/falhaezrian-isles",
+    baseUrl: "samfazel12-hue.github.io/falhaezrian_isles",
     ignorePatterns: [
       ".obsidian",
       ".git",
