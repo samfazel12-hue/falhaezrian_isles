@@ -1,6 +1,6 @@
 # The Falhaezrian Isles
 
-This is the player-safe wiki for The Falhaezrian Isles campaign setting. Some notes, hooks, secrets, and GM-facing material have been removed.
+This is the player-safe wiki for The Falhaezrian Isles campaign setting. Some notes, hooks, secrets, and DM materials have been removed.
 
 ## Start Here
 
