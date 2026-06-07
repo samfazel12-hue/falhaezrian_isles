@@ -32,14 +32,6 @@ Bloodroyal founder of a later-displaced house.
 
 [[Meritia]]’s displaced claims still matter because Gorman’s foundation gave them legitimacy.
 
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-## What They Know
-
 ## How They Speak or Behave
 
 ## Tags

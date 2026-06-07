@@ -24,11 +24,7 @@ Tribute, allegiance, military duty, port oversight, and crown authority deepened
 
 ## Key Figures
 
-- [[High King]] WIP
-
-## Contradictions / Open Issues
-
-Exact campaign chronology still needs a master timeline.
+- [[High King]] 
 
 ## Who Benefited
 

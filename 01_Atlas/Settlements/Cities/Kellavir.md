@@ -31,7 +31,5 @@ Seat of southern royal power.
 **Controlled by:** 
 **Dependent on:** [[Yarrowgold]] state power
 
-## Current Tensions
-
 ## Tags
 #type/settlement #region/yarrowgold #affiliation

@@ -33,22 +33,6 @@ Anti-Béornic warlord whose legacy survives as a southern martial power.
 
 Founder of the [[Yarrowgold]] political shadow: beaten but not erased.
 
-## Wants
-
-Survival and renewed kingship after defeat.
-
-## Fears
-
-Being reduced to a footnote in [[Béornic]] history.
-
-## Leverage / Weakness
-
-His defeat was not total; that is his power.
-
-## What They Know
-
-Pre-unification war politics.
-
 ## How They Speak or Behave
 
 Blunt, kingly, threatening.

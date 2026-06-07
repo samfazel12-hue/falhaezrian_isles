@@ -24,10 +24,8 @@ Emergency powers, port control, military taxation, and logistical pressure inten
 
 ## Key Figures
 
-- old [[High King]] WIP
-- new [[High King]] WIP
-
-## Contradictions / Open Issues
+- old [[High King]] 
+- new [[High King]] 
 
 ## Who Benefited
 

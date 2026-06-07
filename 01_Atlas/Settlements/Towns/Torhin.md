@@ -31,9 +31,5 @@ House authority mixed with [[Ulum]] habits and materials.
 **Controlled by:** 
 **Dependent on:** [[Ulum]] contact, garrison demand
 
-## Current Tensions
-
-Practical cooperation with dwarves may irritate hardline Sentran officials.
-
 ## Tags
 #type/settlement #region/béornic-heartland #affiliation

@@ -33,22 +33,6 @@ Bloodroyal founder whose legitimacy rests on aid, craft, and shelter rather than
 
 His kindness is the founding legend of [[Sevensmiths]] and its forge authority.
 
-## Wants
-
-To build and shelter rather than only conquer.
-
-## Fears
-
-The destruction caused by his own kin.
-
-## Leverage / Weakness
-
-His moral authority is tied to refugees; hypocrisy would damage it.
-
-## What They Know
-
-Smithing traditions of several clans.
-
 ## How They Speak or Behave
 
 Grounded, craft-focused, controlled.

@@ -31,7 +31,5 @@ Under the wider Sentran order; no major house structure fixed yet.
 **Controlled by:** 
 **Dependent on:** timber supply, river transport
 
-## Current Tensions
-
 ## Tags
 #type/settlement #region/sentran-breadbasket #affiliation

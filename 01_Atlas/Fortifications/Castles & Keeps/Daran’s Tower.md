@@ -1,4 +1,4 @@
-﻿**Held by:** House Redrock / royal line WIP
+﻿**Held by:** House Redrock / royal line 
 **Part of:** castle-palace
 **Region:** [[Sentran Shields]]
 
@@ -35,4 +35,4 @@ Kitchens and stables sit in the most vulnerable positions inside the walls.
 Material expression of Redrock royal authority.
 
 ## Tags
-#type/geography #type/fortification #region/sentran-shields #affiliation/house-redrock-/-royal-line-wip
+#type/geography #type/fortification #region/sentran-shields #affiliation/house-redrock-/-royal-line-

@@ -28,7 +28,7 @@ Likely under House-supervised civil port administration during wartime.
 
 ## History
 
-WIP beyond its role as lake-port.
+ beyond its role as lake-port.
 
 ## Connections
 
@@ -36,10 +36,6 @@ WIP beyond its role as lake-port.
 **Trade routes:** [[Great Pearl]] lake traffic
 **Controlled by:** Sentran authorities
 **Dependent on:** inland grain and mountain goods
-
-## Current Tensions
-
-Wartime inspection slows trade.
 
 ## Tags
 #type/settlement #region/great-pearl-basin #affiliation

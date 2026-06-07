@@ -31,14 +31,6 @@ Brandt-descended line that gained control of [[Meritia]].
 
 Through Godbrandt, Wolger’s line controls the [[Augulector Library]] and [[Temple of Heurikissen]].
 
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-## What They Know
-
 ## How They Speak or Behave
 
 ## Tags

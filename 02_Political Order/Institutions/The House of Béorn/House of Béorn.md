@@ -1,10 +1,10 @@
 ﻿# House of Béorn
 
-**Founder:** [[Béorn]] / institutional order  
-**Seat:** [[Skystone]] and [[Sentra]]  
-**Founded:** after [[Unification of Sentra]]  
-**Bloodroyal origin:** not a normal bloodline; institutional successor to [[Béornic]] rule  
-**Political role:** ruling governing order of the [[Falhaezrian Isles]]  
+**Founder:** [[Béorn]] / institutional order
+**Seat:** [[Skystone]] and [[Sentra]]
+**Founded:** after [[Unification of Sentra]]
+**Bloodroyal origin:** not a normal bloodline; institutional successor to [[Béornic]] rule
+**Political role:** ruling governing order of the [[Falhaezrian Isles]]
 
 ## Banner
 
@@ -40,7 +40,7 @@ The House is not a simple hereditary family. It is an order of office, service, 
 | [[Kazaros]] | northeastern mountain region | Crown redoubt, waycastle chain, tunnel network, mountain houses. |
 | [[Kallindra]] | city / capital-region | Administrative centre, ports, and seat of the [[Second High House Council]]. |
 | [[Béornic]] heartland | cultural-political core | Old House-aligned population base. |
-| Crown lands WIP | scattered holdings | Direct royal / House holdings across the Isles. |
+| Crown lands  | scattered holdings | Direct royal / House holdings across the Isles. |
 | [[Greenport]] | crown port | Direct House-administered port in Kallindra. |
 | [[Redcliff]] | enclave on [[Ulum]] | Legal House property and permanent House-Ulum grievance. |
 | [[Sentran Shields]] | defensive island field | House-supervised maritime warning and defensive system. |
@@ -107,17 +107,17 @@ In stable reigns, succession is formal confirmation. In unstable reigns, it beco
 | [[First High House Council]] | Béornic land in the north | Approval, restraint, royal counsel, continuity, high custom. |
 | [[Second High House Council]] | [[Kallindra]] | Lawmaking, elections, ministries, taxation, civil administration. |
 | [[First Minister]] | [[Kallindra]] / Second House | Coordinates ministers and civil government. |
-| Ministers of the Realm | [[Kallindra]] | War supply, ports, education, treasury, roads, internal order WIP. |
+| Ministers of the Realm | [[Kallindra]] | War supply, ports, education, treasury, roads, internal order . |
 | Port authorities | [[Kallindra]] and major ports | Customs, inspections, docking, restricted movement. |
 | Royal military command | [[Skystone]], Kallindra, field offices | Mobilization, naval deployment, war provisioning. |
-| House courts WIP | Sentra / Kallindra | High law, disputes, expulsion, constitutional procedure. |
+| House courts  | Sentra / Kallindra | High law, disputes, expulsion, constitutional procedure. |
 
 ## Councils
 
 | Council | Members | Selection | Role |
 |---|---:|---|---|
 | [[First High House Council]] | 88 | chosen, approached, and elevated; no open campaign | Upper chamber, approval, restraint, counsel, continuity. |
-| [[Second High House Council]] | 400 full model / 300 current practice WIP | free election tied to landholding or recognized employment | Larger elective and ministerial chamber. |
+| [[Second High House Council]] | 400 full model / 300 current practice  | free election tied to landholding or recognized employment | Larger elective and ministerial chamber. |
 
 ## Relation of the Two Houses
 
@@ -130,18 +130,18 @@ The Second House gives the realm motion. The First House gives restraint.
 
 The structure limits purely dynastic rule, but also creates tension between elected ministers, old elites, regional demands, and the crown.
 
-## Ministries WIP
+## Ministries 
 
 | Ministry | Base | Function |
 |---|---|---|
-| [[Ministry of War Supply]] WIP | [[Kallindra]] | Requisition, provisioning, military transport. |
-| [[Ministry of Ports]] WIP | [[Kallindra]] | Port closure, customs, inspection, convoy permits. |
-| [[Ministry of Roads]] WIP | Kallindra / inland offices | Roads, bridges, gates, movement permits. |
-| [[Ministry of Treasury]] WIP | [[Kallindra]] | Taxation, customs income, war finance. |
-| [[Ministry of Education]] WIP | Kallindra / Meritia / House schools | Schools, training, scholarship, archives. |
-| [[Ministry of Internal Order]] WIP | Kallindra / regional offices | Policing, unrest, emergency law, civil discipline. |
-| [[Ministry of Tunnels]] WIP | [[Kazaros]] / Skystone WIP | Tunnel secrecy, maintenance, restricted movement. |
-| [[Ministry of Maritime Defense]] WIP | Kallindra / shield ports | Navy, lighthouses, convoy routes, SDS coordination. |
+| [[Ministry of War Supply]]  | [[Kallindra]] | Requisition, provisioning, military transport. |
+| [[Ministry of Ports]]  | [[Kallindra]] | Port closure, customs, inspection, convoy permits. |
+| [[Ministry of Roads]]  | Kallindra / inland offices | Roads, bridges, gates, movement permits. |
+| [[Ministry of Treasury]]  | [[Kallindra]] | Taxation, customs income, war finance. |
+| [[Ministry of Education]]  | Kallindra / Meritia / House schools | Schools, training, scholarship, archives. |
+| [[Ministry of Internal Order]]  | Kallindra / regional offices | Policing, unrest, emergency law, civil discipline. |
+| [[Ministry of Tunnels]]  | [[Kazaros]] / Skystone  | Tunnel secrecy, maintenance, restricted movement. |
+| [[Ministry of Maritime Defense]]  | Kallindra / shield ports | Navy, lighthouses, convoy routes, SDS coordination. |
 
 ## Military Power
 
@@ -150,7 +150,7 @@ The structure limits purely dynastic rule, but also creates tension between elec
 | [[Skystone]] | [[Kazaros]] | Royal redoubt and command continuity. |
 | [[Waycastle Chain]] | [[Kazaros]] | Defended ascent to Skystone. |
 | [[Kazaros Tunnel Network]] | northeastern Sentra | Secret supply and movement system. |
-| [[Royal Navy]] WIP | [[Kallindra]] / shield ports | Convoys, anti-pirate war, coastal defense. |
+| [[Royal Navy]]  | [[Kallindra]] / shield ports | Convoys, anti-pirate war, coastal defense. |
 | [[Sentran Shields]] | eastern island field | Lighthouses, watchtowers, naval warning, shield defense. |
 | [[Greenport]] | [[Kallindra]] | Crown-controlled shipping. |
 | [[Featherport]] | [[Kallindra]] | Military-commercial inspection hub. |
@@ -192,11 +192,11 @@ The structure limits purely dynastic rule, but also creates tension between elec
 | [[House Mossdeep]] | [[Deepwoodrest]] | Woodland house; Brandt-descended but not hardline Brandt. |
 | [[House Saltbrandt]] | [[Saltcliff]] / [[Rostcliff]] | Brandt-descended northern survivor line. |
 | [[House Godbrandt]] | [[Meritia]] | Controls sacred and scholarly institutions under contested legitimacy. |
-| [[House Meritia]] | displaced / Meritian claim | Dispossessed sacred-scholarly house under House protection WIP. |
+| [[House Meritia]] | displaced / Meritian claim | Dispossessed sacred-scholarly house under House protection . |
 | [[House Redbrandt-Redrock]] | [[Redcliff]] / royal memory | Brandt-descended loyalist line tied to Ulum enclave. |
-| [[House Aldermark]] | Larhorak / coastal WIP | Bloodroyal coastal and shield-island line. |
-| [[House Santeber]] | highlands WIP | Matriarchal Bloodroyal house with magical inheritance. |
-| [[House Lethoven]] | [[Let]] boundary WIP | Minor local house known through river boundary. |
+| [[House Aldermark]] | Larhorak / coastal  | Bloodroyal coastal and shield-island line. |
+| [[House Santeber]] | highlands  | Matriarchal Bloodroyal house with magical inheritance. |
+| [[House Lethoven]] | [[Let]] boundary  | Minor local house known through river boundary. |
 | Rhodokran ruling houses | [[Rhodokra]] | Autonomous half-elven trade elite under formal House sovereignty. |
 | Ignahuatl authorities | [[Culverno]] | Southern religious and material authority under formal House sovereignty. |
 | Surface dwarves of [[Ulum]] | [[Ulum]] | Cooperative but separate northern power. |
@@ -214,12 +214,12 @@ House of Béorn is not identical to the Bloodroyals. The Bloodroyals are founder
 | [[Anders of Deepwoodrest]] | [[Deepwoodrest]] / [[House Mossdeep]] influence | Founder associated with the Mosswoods and woodland seat. |
 | [[Augus the Learned]] | [[Augulector Library]], [[Temple of Heurikissen]] | Sacred and intellectual institutional founder. |
 | [[Alfrid the Forgeborn]] | [[House Sevensmiths]] | Forge house, refugees, master smiths. |
-| [[Eldric of House Aldermark]] | [[House Aldermark]] | Coastal and shield-island line WIP. |
+| [[Eldric of House Aldermark]] | [[House Aldermark]] | Coastal and shield-island line . |
 | [[Berkar Blackarrow]] | [[House Blackarrow]] | Eastern Kazaros conquest and mountain-pass power. |
 | [[Ella of House Santeber]] | [[House Santeber]] | Matriarchal house and magical inheritance. |
 | [[Donella]] | [[Rockgarden]] legacy | Waycastle-arboretum and biodiversity legacy. |
-| [[Frega the Defiant]] | [[Zarienel]] / Frega branch WIP | Northeastern branch still open. |
-| Two unnamed daughters | WIP | Known contradiction / expansion point. |
+| [[Frega the Defiant]] | [[Zarienel]] / Frega branch  | Northeastern branch still open. |
+| Two unnamed daughters | | Known contradiction / expansion point. |
 
 ## Resources and Economic Power
 
@@ -227,7 +227,7 @@ House of Béorn is not identical to the Bloodroyals. The Bloodroyals are founder
 |---|---|---|
 | Metalwork | [[Kazaros]], [[Sevensmiths]], [[Torhin]] | Weapons, armour, tools, prestige craft. |
 | Armscraft | mountain forges and House workshops | Military equipment and trade. |
-| Magical equipment | House-aligned institutions and forges | Infused steel, silver arms, gemwork WIP. |
+| Magical equipment | House-aligned institutions and forges | Infused steel, silver arms, gemwork . |
 | Ports | [[Kallindra]], shield ports | Customs, inspection, trade, war supply. |
 | Fleet | [[Kallindra]] / shield waters | Maritime defense and convoy control. |
 | Taxation | realm-wide | War finance and civil administration. |
@@ -283,29 +283,12 @@ House of Béorn is not identical to the Bloodroyals. The Bloodroyals are founder
 |---|---|
 | Crown versus councils | Present war gives the High King more power than normal. |
 | First House versus Second House | Upper restraint versus elected motion and ministerial government. |
-| War faction versus peace faction | Victory, consolidation, peace, and conquest factions WIP. |
+| War faction versus peace faction | Victory, consolidation, peace, and conquest factions . |
 | Sentran core versus outer regions | Eastern dominance creates regional resentment. |
 | Merit order versus old blood | Service-based admission conflicts with Bloodroyal prestige. |
 | Port administrators versus guilds | Kallindran commerce resists military restriction. |
 | House secrecy versus public law | Tunnels, corruption, plague news, and war losses may be hidden. |
 | Central extraction versus local survival | Grain, timber, serpentglass, and taxes leave regions under guard. |
-
-## Current Tensions
-
-| Tension | Notes |
-|---|---|
-| Permanent emergency rule | War powers risk becoming normal government. |
-| Present High King’s severity | Current successor drives the war and may favour harsher centralization. |
-| Western representation | Second House seat structure is damaged by western absence / secession WIP. |
-| Kallindran overload | Administration and ports carry too much wartime burden. |
-| Pirate pressure | Maritime insecurity strengthens crown control. |
-| Continental threat | External war justifies internal restriction. |
-| Rhodokran autonomy | Trade machinery can resist crown demand. |
-| Culverno autonomy | Serpentglass and fire religion limit crown control. |
-| Ulum relations | Redcliff and tunnel politics remain sensitive. |
-| Bloodroyal memory | Old founder lines still carry claims, grievances, and prestige. |
-| Succession uncertainty | Current High King, heir, and old king details remain open. |
-| Ministerial resistance | First Minister and Second House may clash with royal emergency command. |
 
 ## Tags
 #type/house #type/institution #affiliation/house-of-beorn #region/falhaezrian-isles

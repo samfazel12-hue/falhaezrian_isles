@@ -1,6 +1,6 @@
-﻿**Parent region:** [[Sentran Shields]]  
-**Controlled by:** [[House of Béorn]] / wider Falhaezrian state  
-**Primary terrain:** small shield island, coastal watchland, wildlife reserve  
+﻿**Parent region:** [[Sentran Shields]]
+**Controlled by:** [[House of Béorn]] / wider Falhaezrian state
+**Primary terrain:** small shield island, coastal watchland, wildlife reserve
 
 ## Overview
 

@@ -25,11 +25,7 @@ The [[Broken Forest]] remains ecologically compromised. [[Culverno]]’s serpent
 ## Key Figures
 
 - [[Ignahuatl]] defenders
-- [[Culverno]] craftsmen WIP
-
-## Contradictions / Open Issues
-
-Where the surviving dragons went is unanswered.
+- [[Culverno]] craftsmen 
 
 ## Who Benefited
 

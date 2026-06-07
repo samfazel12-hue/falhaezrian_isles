@@ -38,9 +38,5 @@ Founded after Krova escaped [[Sentra]] and carved out his southern kingdom.
 **Controlled by:** 
 **Dependent on:** royal authority, river source
 
-## Current Tensions
-
-The name [[Grimmyrmik]] appears as a spelling variant; keep this note as the canon spelling unless changed.
-
 ## Tags
 #type/settlement #region/yarrowgold #affiliation

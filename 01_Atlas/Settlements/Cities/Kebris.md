@@ -1,7 +1,7 @@
-﻿**Region:** [[Larhorak]], [[Sentran Shields]]  
-**Type:** city  
-**Status:** active  
-**Controlled by:** Falhaezrian state / local civic authorities under crown authority  
+﻿**Region:** [[Larhorak]], [[Sentran Shields]]
+**Type:** city
+**Status:** active
+**Controlled by:** Falhaezrian state / local civic authorities under crown authority
 
 ## Overview
 
@@ -61,38 +61,24 @@ Kebris has been swallowed by the wider state, but that does not mean the city is
 
 ## Key Figures
 
-- Current civic governor or mayor: WIP.
-- Crown representative: WIP.
-- Harbour master: WIP.
-- Leading old city-state family: WIP.
-- Military commander attached to shield defense: WIP.
+- Current civic governor or mayor: .
+- Crown representative: .
+- Harbour master: .
+- Leading old city-state family: .
+- Military commander attached to shield defense: .
 
 ## History
 
 Kebris began as a city-state on [[Larhorak]]. Over time, it was drawn fully into wider Falhaezrian politics.
 
-[[Eldric of House Aldermark]] made his mark on [[Larhorak]], which gives the island and city a possible founder-line connection. That connection is not yet developed enough to define Kebris’s full political identity, but it should remain visible as a thread.
+[[Eldric of House Aldermark]] made his mark on [[Larhorak]], giving the island and city a founder-line connection that still shapes Kebris’s political memory.
 
 ## Connections
 
-**Linked settlements:** [[The Sentry]], [[Kallindra]], possible [[Larhorak]] towns  
-**Trade routes:** shield-island routes, eastern defensive waters, routes toward [[Kallindra]]  
-**Controlled by:** Falhaezrian state, with local civic authorities  
-**Dependent on:** sea access, harbour security, lighthouse systems, crown protection  
-
-## Current Tensions
-
-Kebris’s best tension is not open rebellion. It is absorbed pride.
-
-Possible current tensions:
-
-- old city-state families resent crown officials
-- wartime restrictions damage harbour income
-- military inspections slow trade
-- [[Kallindra]] dominates commerce
-- local citizens feel used as shield-island manpower
-- crown authorities distrust Kebris’s old civic networks
-- merchants quietly evade port controls
+**Linked settlements:** [[The Sentry]], [[Kallindra]], possible [[Larhorak]] towns
+**Trade routes:** shield-island routes, eastern defensive waters, routes toward [[Kallindra]]
+**Controlled by:** Falhaezrian state, with local civic authorities
+**Dependent on:** sea access, harbour security, lighthouse systems, crown protection
 
 ## Tags
 #type/settlement #type/city #region/sentran-shields #region/larhorak #affiliation/falhaezrian-isles

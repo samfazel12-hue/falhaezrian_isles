@@ -1,12 +1,12 @@
 ﻿
 
 **Parent region:** [[Sentra]] 
-**Type:** river fortress / battlefield / conquered castle  
-**Status:** active WIP / historically seized  
-**Former holder:** [[Gartun Rostmodya]]  
-**Taken by:** forces acting in the name of [[Yarrawe]]  
-**Associated power:** [[Yarrowgold]]  
-**Major event:** [[Siege of Twixtriver]]  
+**Type:** river fortress / battlefield / conquered castle
+**Status:** active / historically seized
+**Former holder:** [[Gartun Rostmodya]]
+**Taken by:** forces acting in the name of [[Yarrawe]]
+**Associated power:** [[Yarrowgold]]
+**Major event:** [[Siege of Twixtriver]]
 
 ## Overview
 
@@ -33,16 +33,16 @@ The site became one of the key founder-era battlegrounds in the struggle between
 
 Twixtriver stands at a strategically valuable river crossing.
 
-The exact river system needs final placement, but the site should control movement between inland Sentra, southern routes, and the wider Yarrowgold-aligned theatre.
+Twixtriver controls movement between inland Sentra, the southern routes, and the wider Yarrowgold-aligned theatre.
 
 | Feature | Type | Function |
 |---|---|---|
 | Twixtriver crossing | river crossing | Controls movement across the river system. |
 | [[Twixtriver Castle]] | castle | Guards the crossing and surrounding road-water routes. |
-| Twixtriver roads WIP | roads | Connect castle, ford, river traffic, and nearby settlements. |
-| River docks WIP | landing places | Military and supply access during siege. |
-| Lower ford WIP | ford | Possible alternate crossing. |
-| Old siege field WIP | battlefield | Main killing ground during the siege. |
+| Twixtriver roads  | roads | Connect castle, ford, river traffic, and nearby settlements. |
+| River docks  | landing places | Military and supply access during siege. |
+| Lower ford  | ford | Possible alternate crossing. |
+| Old siege field  | battlefield | Main killing ground during the siege. |
 
 ## Political Status
 
@@ -130,13 +130,13 @@ Its value comes from:
 
 ## Connections
 
-**Linked regions:** [[Sentra]], [[Yarrowgold]], [[Southern Sentra]] WIP  
-**Linked conflicts:** [[Wars of Sentran Unification]], [[Siege of Twixtriver]], [[Bloodroyal War]] WIP  
-**Linked figures:** [[Béorn]], [[Krova Kingkiller Yarrowgold]], [[Gartun Rostmodya]], [[Yarrawe]]  
-**Linked powers:** [[Yarrowgold]], [[House of Béorn]]  
-**Linked sites:** [[Twixtriver Castle]] WIP  
+**Linked regions:** [[Sentra]], [[Yarrowgold]], [[Southern Sentra]]
+**Linked conflicts:** [[Wars of Sentran Unification]], [[Siege of Twixtriver]], [[Bloodroyal War]]
+**Linked figures:** [[Béorn]], [[Krova Kingkiller Yarrowgold]], [[Gartun Rostmodya]], [[Yarrawe]]
+**Linked powers:** [[Yarrowgold]], [[House of Béorn]]
+**Linked sites:** [[Twixtriver Castle]]
 
-## Current Status WIP
+## Current Status 
 
 Twixtriver’s present status needs definition.
 

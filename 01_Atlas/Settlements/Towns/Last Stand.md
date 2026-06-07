@@ -22,7 +22,7 @@ Culturally [[Ignahuatl]]. Its legitimacy comes from remembrance rather than admi
 
 - battlefield markers
 - glass plain edge
-- memorial shrine WIP
+- memorial shrine 
 
 ## Key Figures
 
@@ -38,10 +38,6 @@ The original name was replaced by the event. The [[Ignahuatl]] remember it as th
 **Trade routes:** southern local roads
 **Controlled by:** [[Ignahuatl]] local authority
 **Dependent on:** pilgrimage, memory, border with glass plains
-
-## Current Tensions
-
-Sacred memory can be exploited by nobles or adventurers.
 
 ## Tags
 #type/settlement #region/southern-sentra #affiliation

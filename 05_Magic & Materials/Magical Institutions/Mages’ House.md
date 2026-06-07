@@ -31,9 +31,5 @@ House property but outside ordinary SDS military use.
 **Controlled by:** 
 **Dependent on:** mages, protected autonomy, House patronage
 
-## Current Tensions
-
-Its non-military status is suspicious in a militarized island chain.
-
 ## Tags
 #type/settlement #region/moody-rock #affiliation

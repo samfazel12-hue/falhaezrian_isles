@@ -1,8 +1,8 @@
 ﻿# [[The Moody Rock]]
 
-**Parent region:** [[Sentran Shields]]  
-**Controlled by:** [[House of Béorn]]  
-**Primary terrain:** isolated shield island, arcane institution, rocky coast  
+**Parent region:** [[Sentran Shields]]
+**Controlled by:** [[House of Béorn]]
+**Primary terrain:** isolated shield island, arcane institution, rocky coast
 
 ## Overview
 
@@ -20,7 +20,7 @@ Its coastline is probably difficult enough to regulate access. The island’s na
 
 The dominant institution is the [[Mages’ House]], founded by [[Krike the Mage]], daughter of [[Béorn]] and [[Rosaria]].
 
-The island’s culture should be institutional, guarded, scholarly, and strange. People who live there likely belong to the arcane order, support staff, boat crews, scribes, servants, wardens, or House officials assigned to the property.
+The island’s culture is institutional, guarded, scholarly, and strange. Most who live there belong to the arcane order or serve it as boat crews, scribes, wardens, servants, or House officials assigned to the property.
 
 ## Political Status
 

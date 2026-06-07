@@ -36,22 +36,6 @@ Founder-prestige of the eldest line; not automatically king because council succ
 
 His name became both prestige and poison after the [[Bloodroyal War]].
 
-## Wants
-
-WIP.
-
-## Fears
-
-Being passed over or losing primacy.
-
-## Leverage / Weakness
-
-His descendants used his seniority more aggressively than he may have himself.
-
-## What They Know
-
-Founder-era claims.
-
 ## How They Speak or Behave
 
 Formal, severe, ancient.

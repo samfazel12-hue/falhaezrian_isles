@@ -5,7 +5,7 @@
 
 ## Banner
 
-WIP. Should probably combine sacred custody with suspect political maneuvering.
+. Should probably combine sacred custody with suspect political maneuvering.
 
 ## Overview
 
@@ -21,7 +21,7 @@ Learned, sacred-facing, politically slippery, and burdened by the legitimacy pro
 
 ## Dynastic Structure
 
-Descends from Wolger; branch details WIP.
+Descends from Wolger; branch details .
 
 ## Political Position
 
@@ -39,7 +39,7 @@ Took [[Meritia]] from [[House Meritia]] and became guardian of its learned and s
 
 ## Connections
 
-**Allied with:** [[House of Béorn]] WIP
+**Allied with:** [[House of Béorn]] 
 **In tension with:** [[House Meritia]] / displaced [[Meritians]]
 **Cadet branches:** 
 **Parent line:** [[House Brandt]]

@@ -32,14 +32,6 @@ Strengthened [[Meritia]] as a holy and intellectual center.
 
 Made [[Meritia]] more than a noble island seat.
 
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-## What They Know
-
 ## How They Speak or Behave
 
 ## Tags

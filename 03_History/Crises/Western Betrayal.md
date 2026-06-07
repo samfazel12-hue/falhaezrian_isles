@@ -26,10 +26,6 @@ Western population fell permanently. [[Tek Tenekka]] became a preserved remnant;
 
 - [[Duke of Tenekka]]
 
-## Contradictions / Open Issues
-
-The campaigns were not officially sanctioned by the House, but the House mostly stood by. That distinction may not convince anyone in the west.
-
 ## Who Benefited
 
 [[Tek Tenekka]], the House’s claim to distinguish loyal from traitor.

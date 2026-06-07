@@ -1,9 +1,9 @@
 ﻿
 
-**Region:** [[Eastern Isles]] / [[Sentra]] WIP  
-**Type:** city / capital-region / port system  
-**Status:** active  
-**Controlled by:** [[House of Béorn]], [[Second High House Council]], civic authorities, port powers  
+**Region:** [[Eastern Isles]] / [[Sentra]]
+**Type:** city / capital-region / port system
+**Status:** active
+**Controlled by:** [[House of Béorn]], [[Second High House Council]], civic authorities, port powers
 
 ## Overview
 
@@ -55,7 +55,7 @@ The present war has increased crown and military pressure. Ports are restricted,
 
 ## Gates and Urban Fortifications
 
-| Gate / Fortification | Type | Function | WIP |
+| Gate / Fortification | Type | Function | |
 |---|---|---|---|
 | [[Eastgate]] | city gate | Eastern gate toward Eastpeak and the [[Eastern Road]] / [[Shield Road]]. | Fix exact route relation. |
 | [[Torrel’s Gate]] | city gate | Named gate in Kallindra. | Define Torrel. |
@@ -130,26 +130,11 @@ The present war and pirate pressure have made Kallindra more important and more 
 
 ## Connections
 
-**Linked settlements:** [[Rhodokra]], [[Bearhaven]], [[Bastel]], [[Featherport]], [[Oldenhaven]], [[Newhaven]]  
-**Linked regions:** [[Sentra]], [[Eastern Isles]], [[Sentran Shields]], [[Great Pearl Basin]]  
-**Trade routes:** [[Saronago Trade Route]], shield sea lanes, eastern maritime routes, protected crown shipping  
-**Controlled by:** [[House of Béorn]], [[Second High House Council]], port authorities, civic powers  
-**Dependent on:** ships, food supply, port labour, inspection capacity, guild credit, wartime protection  
-
-## Current Tensions
-
-| Tension | Notes |
-|---|---|
-| Port overload | Inspections slow trade and create resentment. |
-| Smuggling | Restriction makes illegal movement more profitable. |
-| Guild resentment | Merchant guilds dislike crown privilege and military interference. |
-| Greenport privilege | Direct House control bypasses normal city commerce. |
-| Port of the People | Working-population port remains politically sensitive. |
-| Newhaven crime | Thieves’ Guild benefits from war controls. |
-| Council pressure | The [[Second High House Council]] carries the burden of wartime administration. |
-| Civic unrest | Food prices, delays, labour pressure, and military seizure can spark riots. |
-| Meritian displacement | The enclave keeps the [[Meritia]] question alive inside the city. |
-| Emergency rule | Temporary restrictions risk becoming permanent government. |
+**Linked settlements:** [[Rhodokra]], [[Bearhaven]], [[Bastel]], [[Featherport]], [[Oldenhaven]], [[Newhaven]]
+**Linked regions:** [[Sentra]], [[Eastern Isles]], [[Sentran Shields]], [[Great Pearl Basin]]
+**Trade routes:** [[Saronago Trade Route]], shield sea lanes, eastern maritime routes, protected crown shipping
+**Controlled by:** [[House of Béorn]], [[Second High House Council]], port authorities, civic powers
+**Dependent on:** ships, food supply, port labour, inspection capacity, guild credit, wartime protection
 
 ## Tags
 #type/settlement #type/city #region/kallindra #region/eastern-isles #affiliation/falhaezrian-isles

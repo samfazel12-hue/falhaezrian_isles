@@ -31,9 +31,5 @@ No House system operates in this part of [[Kallindra]].
 **Controlled by:** 
 **Dependent on:** dock labour and civic organization
 
-## Current Tensions
-
-Its anti-House structure makes it politically volatile.
-
 ## Tags
 #type/settlement #region/kallindra #affiliation

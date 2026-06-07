@@ -20,7 +20,7 @@ Named for Torrel.
 
 ## Controlled Routes
 
-Kallindran city route WIP
+Kallindran city route 
 
 ## Garrison and Supplies
 

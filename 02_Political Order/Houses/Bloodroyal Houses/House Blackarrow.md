@@ -21,7 +21,7 @@ Militarized, ambitious, mountain-hard, and shadowed by Berkar’s brutal campaig
 
 ## Dynastic Structure
 
-Berkar’s confirmed issue includes Falik, Karn, Arrek, Dorrek, Yrsa, and Maraeka.
+Berkar’s includes Falik, Karn, Arrek, Dorrek, Yrsa, and Maraeka.
 
 ## Political Position
 
@@ -32,9 +32,9 @@ Likely aligned with the House but carries internal mountain resentments from con
 | Name | Role | Status | Notes |
 |------|------|--------|-------|
 | [[Berkar Blackarrow]] | founder | dead | conquered much of the eastern [[Kazaros]] |
-| Falik | child | WIP | confirmed issue |
-| Karn | child | WIP | confirmed issue |
-| Yrsa | child | WIP | confirmed issue |
+| Falik | child | | |
+| Karn | child | | |
+| Yrsa | child | | |
 
 ## History
 
@@ -42,7 +42,7 @@ Berkar’s conquest of eastern [[Kazaros]] broke mountain clans and ended after 
 
 ## Connections
 
-**Allied with:** [[House of Béorn]] WIP
+**Allied with:** [[House of Béorn]] 
 **In tension with:** dispossessed mountain lines; [[House Glacirbar]] survivors
 **Cadet branches:** [[Bloodhorn]] branch
 **Parent line:** [[Bloodroyals]]

@@ -1,10 +1,10 @@
 ﻿
 
-**Held by:** [[House Mossdeep]]  
-**Part of:** [[Mosswoods]]  
-**Region:** [[Central Sentra]] / [[Mosswoods]]  
-**Type:** woodland keep / Bloodroyal seat  
-**Status:** active  
+**Held by:** [[House Mossdeep]]
+**Part of:** [[Mosswoods]]
+**Region:** [[Central Sentra]] / [[Mosswoods]]
+**Type:** woodland keep / Bloodroyal seat
+**Status:** active
 
 ## Overview
 
@@ -135,8 +135,8 @@ Deepwoodrest controls movement zones rather than a single highway.
 | Central-western forest tracks | Routes between central [[Sentra]] and western approaches. |
 | Hunter paths | Used by hunters, scouts, messengers, and Mossdeep retainers. |
 | Hidden Mossdeep ways | Known only to trusted house servants, guides, and woodland communities. |
-| Routes toward [[Stonegate]] WIP | Possible connection to eastern gate and western woodland approaches. |
-| Routes toward [[Noltic Woods]] WIP | Possible older forest linkage. |
+| Routes toward [[Stonegate]]  | Possible connection to eastern gate and western woodland approaches. |
+| Routes toward [[Noltic Woods]]  | Possible older forest linkage. |
 
 ## Garrison and Supplies
 
@@ -207,9 +207,9 @@ Deepwoodrest and the [[Mosswoods]] are politically inseparable.
 | Old growth | Concealment, sacred age, material continuity. |
 | Streams | Movement barriers, water supply, route markers. |
 | Moss and wet ground | Slows outsiders and preserves tracks. |
-| Hidden clearings | Camps, meeting places, traps, or ritual sites WIP. |
+| Hidden clearings | Camps, meeting places, traps, or ritual sites . |
 | Woodland communities | Local support network and source of guides. |
-| Forest law WIP | Local rules around hunting, cutting, passage, and refuge. |
+| Forest law  | Local rules around hunting, cutting, passage, and refuge. |
 | Old paths | House memory and practical power. |
 | Living overgrowth | Forest canopy and root systems conceal and slowly consume the upper works. |
 
@@ -222,21 +222,6 @@ Its active parts include the red roadstone hall-level, the map-table chamber, ho
 The lower grove-level contains older chambers in petrified trunks, root-hollows, and mounds. Some are used for storage, ritual, defense, or restricted house business. Others are sealed, flooded, root-blocked, or known only through old household memory.
 
 The upper levels require constant maintenance. The forest grows over them faster than masons and carpenters can fully resist.
-
-## Current Tensions
-
-| Tension | Notes |
-|---|---|
-| Brandt descent | Mossdeep’s origin remains politically useful and dangerous. |
-| Forest autonomy | House Mossdeep may resist direct crown intrusion into the [[Mosswoods]]. |
-| Route secrecy | The crown, smugglers, enemies, and rival houses may all want Mossdeep path knowledge. |
-| War demand | Present conflict may require scouts, timber, levies, or road access. |
-| Woodland law | Local customs may clash with [[House of Béorn]] officials. |
-| Map-table access | Control over the table equals control over forest memory. |
-| Petrified grove | The magic that made the grove into stone may not be fully understood. |
-| Fire risk | War, sabotage, or dry seasons threaten the upper works and surrounding woods. |
-| Succession | Any Mossdeep heir dispute can expose old Brandt claims. |
-| Stone Rest link | Relationship with [[Stone Rest]] remains unresolved. |
 
 ## Tags
 #type/fortification #type/castle #affiliation/house-mossdeep #region/mosswoods

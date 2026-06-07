@@ -33,9 +33,5 @@ Part of the eastern learned and magical landscape, distinct from older sacred na
 **Controlled by:** 
 **Dependent on:** gem supply, strict material control
 
-## Current Tensions
-
-Its methods may clash with older Sentran ritual traditions.
-
 ## Tags
 #type/settlement #region/kazaros #affiliation

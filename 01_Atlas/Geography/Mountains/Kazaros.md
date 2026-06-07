@@ -1,9 +1,9 @@
 ﻿
 
-**Parent region:** [[Sentra]]  
-**Controlled by:** [[House of Béorn]], mountain houses, local valley holders  
-**Primary terrain:** old broad mountain range; high plateaus, ridges, valleys, cliffs, glaciers  
-**Political role:** crown redoubt / eastern mountain heartland  
+**Parent region:** [[Sentra]]
+**Controlled by:** [[House of Béorn]], mountain houses, local valley holders
+**Primary terrain:** old broad mountain range; high plateaus, ridges, valleys, cliffs, glaciers
+**Political role:** crown redoubt / eastern mountain heartland
 
 ## Overview
 
@@ -43,7 +43,7 @@ The range is wide enough that movement inside it depends on local knowledge. A r
 | [[Sevensmiths]] | forge settlement | [[House Sevensmiths]] | Forge town tied to [[Alfrid the Forgeborn]] and six master smiths. |
 | [[Arrowpoint]] | castle-palace | [[House Blackarrow]] | Administrative-military centre of Blackarrow power. |
 | [[Torhin]] | militarized town | House-aligned / Ulum-influenced | Northern frontier-support town with heavy [[Ulum]] influence. |
-| [[Zarienel]] | settlement | Frega branch WIP | Northeastern settlement founded by [[Frega the Defiant]]. |
+| [[Zarienel]] | settlement | Frega branch  | Northeastern settlement founded by [[Frega the Defiant]]. |
 | [[Rostcliff]] | small castle / older seat | [[House Saltbrandt]] branch | Older seat of Eckard Saltbrandt’s line. |
 | [[Meltwatch]] | keep / valley hold | local Kazarosian holders | Glacier-water keep guarding a small valley. |
 | [[Glacier’s Edge]] | castle | Glacirbar survivor / Blackarrow-imposed line | Last castle to fall to Berkar’s eastern campaign. |
@@ -83,7 +83,7 @@ The range is wide enough that movement inside it depends on local knowledge. A r
 | [[Waycastle Chain]] | defended corridor | Main crown ascent | Sequential fortification system guarding the High King’s seat. |
 | [[Kazaros Tunnel Network]] | hidden tunnel system | Castles, keeps, supply routes, [[Ulum]] links | House-built internal network; full extent known only to inner leadership. |
 | [[Bloody Pass]] | mountain pass | eastern mountain approaches | Major fighting route during eastern campaigns and Continental invasions. |
-| [[Bloody Pass Route]] | route note | route through / around [[Bloodhorn]] | Travel time, seasonal hazards, and toll control WIP. |
+| [[Bloody Pass Route]] | route note | route through / around [[Bloodhorn]] | Travel time, seasonal hazards, and toll control . |
 | road to [[Arrowpoint]] | mountain road | [[Fletcher’s Gate]] to [[Arrowpoint]] | Blackarrow-controlled approach. |
 | Ulum-facing routes | northern mountain routes | [[Torhin]], [[Red Sea of Ulum]], deep routes | Mixed House and dwarven influence. |
 | hidden service routes | tunnels / minor tracks | waycastles and supply points | Keep partly undefined. |
@@ -154,21 +154,6 @@ After unification, the range became the eastern fortress-core of the House. [[Je
 [[Berkar Blackarrow]]’s campaigns reshaped the eastern Kazaros. His conquests broke mountain clans and valley houses. [[Glacier’s Edge]] was the last castle to fall, after a siege that cost Berkar two sons and thousands of soldiers. The cost effectively ended his campaign.
 
 [[Alfrid the Forgeborn]] later sheltered refugees from Berkar’s campaigns. The six master smiths who came to him became part of the founding memory of [[Sevensmiths]].
-
-## Current Tensions
-
-| Tension | Notes |
-|---|---|
-| Tunnel secrecy | Full extent of the network is restricted to inner House leadership. |
-| House-Ulum knowledge gap | The House and Ulum know different parts of the deep route system. |
-| Blackarrow legitimacy | Berkar’s eastern campaigns left broken houses and local resentment. |
-| Glacirbar memory | [[Glacier’s Edge]] remains tied to conquest, extermination, and forced marriage politics. |
-| Forge demand | War increases pressure on [[Sevensmiths]] and other smithing settlements. |
-| Waycastle access | Public, ceremonial, military, and academic access overlap at sites like [[Rockgarden]]. |
-| Brandt memory | [[Skystone]] was once Brandt’s seat. Its current role carries political irony. |
-| Pass control | Gates, checkpoints, and castles decide movement through the range. |
-| Winter supply | High routes remain vulnerable to weather and logistics. |
-| Hidden bypasses | Minor tracks, caves, and tunnels can weaken formal fortifications. |
 
 ## Tags
 #type/region #region/kazaros #region/sentra #affiliation/house-of-beorn

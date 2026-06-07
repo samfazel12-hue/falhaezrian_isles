@@ -30,14 +30,6 @@ Founder-generation figure in the waycastle chain.
 
 Her seat became the most unusual waycastle: a green copper, glass, arboretum-fronted fortress built into the mountain.
 
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-## What They Know
-
 ## How They Speak or Behave
 
 ## Tags

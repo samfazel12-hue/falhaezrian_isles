@@ -31,9 +31,5 @@ Subordinate to the island’s military value and contested sovereignty.
 **Controlled by:** 
 **Dependent on:** [[Wrackholm]] garrison and harbour access
 
-## Current Tensions
-
-Every change of ruler threatens the port community’s loyalties.
-
 ## Tags
 #type/settlement #region/surgemark #affiliation

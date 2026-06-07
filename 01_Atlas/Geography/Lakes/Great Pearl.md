@@ -7,7 +7,7 @@ The largest inland water of [[Sentra]] and the core of a major basin. It receive
 
 ## Geography and Access
 
-The lake functions as a local movement and settlement anchor. Roads, ports, ferries, or river routes should be developed around it where needed.
+The lake functions as a local movement and settlement anchor, with roads, ports, ferries, and river routes gathered around its shores.
 
 ## Strategic Value
 

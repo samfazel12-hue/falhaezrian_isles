@@ -34,18 +34,6 @@ Not aligned like a noble; her capture or binding is the mythic foundation of [[B
 
 Her presence justifies and destabilizes Bloodroyal legitimacy at the same time.
 
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-If the House depends on power taken from Rosaria, its sacred legitimacy has a dark root.
-
-## What They Know
-
-Nature, magic, and founder inheritance.
-
 ## How They Speak or Behave
 
 Older than politics.

@@ -32,10 +32,10 @@ House-aligned but morally contrasted with Berkar’s brutality.
 | Name | Role | Status | Notes |
 |------|------|--------|-------|
 | [[Alfrid the Forgeborn]] | founder | dead | sheltered mountain refugees |
-| Torman | child | WIP | confirmed issue |
-| Esthra | child | WIP | confirmed issue |
-| Lillia | child | WIP | confirmed issue |
-| Derk | child | WIP | confirmed issue |
+| Torman | child | | |
+| Esthra | child | | |
+| Lillia | child | | |
+| Derk | child | | |
 
 ## History
 
@@ -43,7 +43,7 @@ After Berkar scattered eastern mountain clans, Alfrid opened his keep to refugee
 
 ## Connections
 
-**Allied with:** [[House of Béorn]] WIP
+**Allied with:** [[House of Béorn]] 
 **In tension with:** [[House Blackarrow]] legacy; dispossessed mountain houses
 **Cadet branches:** 
 **Parent line:** [[Bloodroyals]]

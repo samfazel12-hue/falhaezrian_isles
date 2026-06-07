@@ -1,8 +1,8 @@
-﻿**Institution type:** Elected council and ministerial chamber  
-**Seat:** [[Kallindra]]  
-**Members:** 400 in the full constitutional model; 300 in recent practice  
-**Election cycle:** 12 years  
-**Voting threshold:** Two-thirds majority  
+﻿**Institution type:** Elected council and ministerial chamber
+**Seat:** [[Kallindra]]
+**Members:** 400 in the full constitutional model; 300 in recent practice
+**Election cycle:** 12 years
+**Voting threshold:** Two-thirds majority
 **Affiliation:** [[House of Béorn]]
 
 ## Overview
@@ -87,20 +87,12 @@ In peacetime, the [[First Minister]] can become one of the most powerful figures
 - A two-thirds majority can make major reforms difficult.
 - In wartime, it may be reduced to managing burdens imposed by the crown.
 
-## Current Tensions
-
-The present war has increased pressure on the [[Second High House Council|Second House]]. Ports are restricted, trade is monitored, [[Kallindra]] carries heavy logistical strain, and emergency rule strengthens the crown.
-
-The chamber must keep the state functioning while also absorbing public anger over taxation, movement controls, shortages, and military demands.
-
-The western absence is one of its deepest wounds. A council built for four hundred voices now works with three hundred, and everyone knows what that means.
-
 ## Key Connections
 
-**Works with:** [[High King]], [[First High House Council]], [[First Minister]], [[Kallindra]]  
-**Draws from:** elected representatives across the Isles  
-**In tension with:** crown emergency powers, [[First High House Council|First House]] restraint, regional separatists  
-**Controls:** law drafting, ministries, taxation, civil administration  
+**Works with:** [[High King]], [[First High House Council]], [[First Minister]], [[Kallindra]]
+**Draws from:** elected representatives across the Isles
+**In tension with:** crown emergency powers, [[First High House Council|First House]] restraint, regional separatists
+**Controls:** law drafting, ministries, taxation, civil administration
 **Depends on:** elections, regional participation, Kallindran infrastructure
 
 ## Adventure Use

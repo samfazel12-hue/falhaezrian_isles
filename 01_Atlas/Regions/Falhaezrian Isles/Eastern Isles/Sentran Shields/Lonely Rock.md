@@ -1,8 +1,8 @@
 ﻿# [[The Lonely Rock]]
 
-**Parent region:** [[Sentran Shields]]  
+**Parent region:** [[Sentran Shields]]
 **Controlled by:** 
-**Primary terrain:** far eastern isolated island, war-scarred settlement zone  
+**Primary terrain:** far eastern isolated island, war-scarred settlement zone
 
 ## Overview
 

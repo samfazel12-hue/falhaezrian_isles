@@ -37,9 +37,5 @@ The port held on after [[Tek Leniss]] was destroyed, and the port remembered.
 **Controlled by:** local port community
 **Dependent on:** fishing, dock labour, memory
 
-## Current Tensions
-
-Resentment toward House narratives and [[Tek Tenekka]]’s spared status.
-
 ## Tags
 #type/settlement #region/western-sentra #affiliation

@@ -1,9 +1,9 @@
 ﻿
 
-**Parent region:** [[Eastern Isles]]  
-**Controlled by:** [[House of Béorn]] / shield authorities / local island powers  
-**Primary terrain:** defensive island field, lighthouses, watchtowers, ports, shoals, exposed rocks  
-**Political role:** maritime shield of [[Sentra]] and [[Kallindra]]  
+**Parent region:** [[Eastern Isles]]
+**Controlled by:** [[House of Béorn]] / shield authorities / local island powers
+**Primary terrain:** defensive island field, lighthouses, watchtowers, ports, shoals, exposed rocks
+**Political role:** maritime shield of [[Sentra]] and [[Kallindra]]
 
 ## Overview
 
@@ -34,10 +34,10 @@ The Shields protect the approaches to [[Kallindra]], monitor eastern waters, gui
 | [[Amberhorn]]          | active                | Smallest Shield island; contains [[Clawpoint]].                         |
 | [[Raventide]]          | active                | Island off the Kallindra coast; contains [[Crowsnest]].                 |
 | [[The Moody Rock]]     | active / special      | House property and home of the [[Mages’ House]].                        |
-| [[The Lonely Rock]]    | scarred / active WIP  | Far eastern island sacked during the [[Second Continental Invasion]].   |
+| [[The Lonely Rock]]    | scarred / active  | Far eastern island sacked during the [[Second Continental Invasion]].   |
 | [[King's Rest]]        | active / royal        | Royal island holding [[Daran’s Tower]].                                 |
 | [[The Sentry]]         | active / watch-island | Small island off [[Larhorak]] with lighthouse and watchtower.           |
-| Minor shield rocks WIP | WIP                   | Shoals, signal rocks, bird cliffs, temporary posts, abandoned stations. |
+| Minor shield rocks | | Shoals, signal rocks, bird cliffs, temporary posts, abandoned stations. |
 
 ## Major Settlements and Sites
 
@@ -49,9 +49,9 @@ The Shields protect the approaches to [[Kallindra]], monitor eastern waters, gui
 | [[Mages’ House]] | [[The Moody Rock]] | arcane institution | Founded by Krike, daughter of [[Béorn]]. |
 | [[Daran’s Tower]] | [[King's Rest]] | palace-fortress | Royal fortress of [[Daran I Redrock]] and [[Daran II]]. |
 | [[The Sentry]] | small island off [[Larhorak]] | lighthouse / watchtower | Small but important signal point. |
-| Lonely Rock ruins WIP | [[The Lonely Rock]] | ruins / occupied scar | Remnant of sack, enslavement, and Imperial occupation. |
-| Larhorak harbours WIP | [[Larhorak]] | ports / anchorages | Local trade, fishing, shield patrols. |
-| Amberhorn reserve station WIP | [[Amberhorn]] | research / conservation | Marine biology and wildlife reserve work. |
+| Lonely Rock ruins  | [[The Lonely Rock]] | ruins / occupied scar | Remnant of sack, enslavement, and Imperial occupation. |
+| Larhorak harbours  | [[Larhorak]] | ports / anchorages | Local trade, fishing, shield patrols. |
+| Amberhorn reserve station  | [[Amberhorn]] | research / conservation | Marine biology and wildlife reserve work. |
 
 ## Strategic Geography
 
@@ -62,9 +62,9 @@ The Shields protect the approaches to [[Kallindra]], monitor eastern waters, gui
 | Featherport approaches | sea lanes | Guided partly by [[Clawpoint]]. |
 | Port of the People approaches | sea lanes | Guided partly by [[Clawpoint]]. |
 | Eastern open water | sea | Exposure toward Continental or pirate movement. |
-| Shoals and rocks WIP | hazards | Useful for defense, dangerous for navigation. |
-| Lighthouse chain WIP | signal network | Links islands, ports, towers, and Kallindran authorities. |
-| Shield channels WIP | maritime routes | Controlled passage between islands and Kallindra. |
+| Shoals and rocks  | hazards | Useful for defense, dangerous for navigation. |
+| Lighthouse chain  | signal network | Links islands, ports, towers, and Kallindran authorities. |
+| Shield channels  | maritime routes | Controlled passage between islands and Kallindra. |
 
 ## Political Status
 
@@ -74,16 +74,16 @@ The Shields are under the authority of [[House of Béorn]], but each island has 
 
 The Shields are therefore not a single ordinary province. They are a defensive system made from islands with different legal, military, civic, arcane, and royal statuses.
 
-## SDS / Sentran Defensive Shields WIP
+## SDS / Sentran Defensive Shields 
 
 | Element | Status | Notes |
 |---|---|---|
-| [[SDS]] | WIP | Likely formal defensive system or command structure for the Shields. |
-| Full name | WIP | Probably [[Sentran Defensive Shields]]. |
-| Military islands | WIP | Larhorak, Amberhorn, Raventide, King's Rest, and smaller watch-islands likely included. |
+| [[SDS]] | | Likely formal defensive system or command structure for the Shields. |
+| Full name | | Probably [[Sentran Defensive Shields]]. |
+| Military islands | | Larhorak, Amberhorn, Raventide, King's Rest, and smaller watch-islands likely included. |
 | Excluded island | [[The Moody Rock]] | Technically in the chain, but formally outside SDS military use. |
-| Command structure | WIP | Could report to Kallindra, crown navy, House military, or mixed shield command. |
-| Civil authority | WIP | Local councils, island governors, port offices, and House agents need definition. |
+| Command structure | | Could report to Kallindra, crown navy, House military, or mixed shield command. |
+| Civil authority | | Local councils, island governors, port offices, and House agents need definition. |
 | Wartime status | active | Present war likely strengthens inspection, patrol, and signal duties. |
 
 ## Island Profiles
@@ -172,23 +172,23 @@ The Shields are therefore not a single ordinary province. They are a defensive s
 | [[Crowsnest]] | [[Raventide]] | lighthouse / watchtower | Guards [[Bay of Kashti]]. |
 | [[Daran’s Tower]] | [[King's Rest]] | palace-fortress | Royal island fortress with massive walls. |
 | [[The Sentry]] | off [[Larhorak]] | lighthouse / watchtower | Local signal and warning site. |
-| Lonely Rock Imperial ruins WIP | [[The Lonely Rock]] | ruins / former base | Continental base during Eastern Campaign. |
-| Kebris harbour defenses WIP | [[Larhorak]] | harbour works | Protect largest shield city. |
-| Amberhorn signal posts WIP | [[Amberhorn]] | minor watch sites | Supplement [[Clawpoint]]. |
-| Raventide coastal batteries WIP | [[Raventide]] | defenses | Kallindra-facing defense WIP. |
-| Outer shield lights WIP | minor islands | lighthouses | Route marking and warning. |
+| Lonely Rock Imperial ruins  | [[The Lonely Rock]] | ruins / former base | Continental base during Eastern Campaign. |
+| Kebris harbour defenses  | [[Larhorak]] | harbour works | Protect largest shield city. |
+| Amberhorn signal posts  | [[Amberhorn]] | minor watch sites | Supplement [[Clawpoint]]. |
+| Raventide coastal batteries  | [[Raventide]] | defenses | Kallindra-facing defense . |
+| Outer shield lights  | minor islands | lighthouses | Route marking and warning. |
 
 ## Ports and Harbours
 
 | Port / Harbour | Island | Function |
 |---|---|---|
-| [[Kebris]] harbour WIP | [[Larhorak]] | Main civic harbour of the largest shield city. |
-| Clawpoint landing WIP | [[Amberhorn]] | Small landing for lighthouse, fort, and reserve staff. |
-| Raventide landing WIP | [[Raventide]] | Watchtower supply, Kallindra patrol access. |
-| Moody Rock landing WIP | [[The Moody Rock]] | Arcane institution access, restricted visitors. |
-| King's Rest harbour WIP | [[King's Rest]] | Royal supply, garrison access, controlled landing. |
-| Lonely Rock old harbour WIP | [[The Lonely Rock]] | Imperial occupation scar, possible ruins or restricted anchorage. |
-| Sentry landing WIP | [[The Sentry]] | Lighthouse rotation and supply. |
+| [[Kebris]] harbour  | [[Larhorak]] | Main civic harbour of the largest shield city. |
+| Clawpoint landing  | [[Amberhorn]] | Small landing for lighthouse, fort, and reserve staff. |
+| Raventide landing  | [[Raventide]] | Watchtower supply, Kallindra patrol access. |
+| Moody Rock landing  | [[The Moody Rock]] | Arcane institution access, restricted visitors. |
+| King's Rest harbour  | [[King's Rest]] | Royal supply, garrison access, controlled landing. |
+| Lonely Rock old harbour  | [[The Lonely Rock]] | Imperial occupation scar, possible ruins or restricted anchorage. |
+| Sentry landing  | [[The Sentry]] | Lighthouse rotation and supply. |
 
 ## Routes and Signals
 
@@ -202,7 +202,7 @@ The Shields are therefore not a single ordinary province. They are a defensive s
 | Moody Rock restricted route | controlled sea route | [[The Moody Rock]] to House or arcane-controlled landings. |
 | King's Rest royal route | restricted sea route | Royal transport to [[Daran’s Tower]]. |
 | Lonely Rock eastern route | dangerous / historical | Eastern exposure and former Imperial approach. |
-| Shield signal chain WIP | lighthouse / fire / flags | Watchtowers, ports, naval stations, Kallindra offices. |
+| Shield signal chain  | lighthouse / fire / flags | Watchtowers, ports, naval stations, Kallindra offices. |
 
 ## Economy and Resources
 
@@ -210,14 +210,14 @@ The Shields are therefore not a single ordinary province. They are a defensive s
 |---|---|---|
 | Lighthouse service | shield towers | Navigation, warning, port safety. |
 | Fishing | island waters | Local food and trade. |
-| Harbour fees | [[Kebris]] and shield landings | Local revenue WIP. |
+| Harbour fees | [[Kebris]] and shield landings | Local revenue . |
 | Marine research | [[Clawpoint]] / Amberhorn reserve | Wildlife and coastal science. |
 | Arcane knowledge | [[Mages’ House]] | House-controlled magical institution. |
 | Royal supply | [[King's Rest]] | Controlled provisioning of Daran’s Tower. |
 | Salvage | [[The Lonely Rock]] and outer waters | Wreckage, Imperial remnants, dangerous recovery. |
 | Pilots and navigators | shield communities | Local maritime knowledge. |
-| Watch duty | island garrisons | Paid service, family obligation, or House office WIP. |
-| Ship repair WIP | Larhorak / minor harbours | Small craft repair, patrol vessels. |
+| Watch duty | island garrisons | Paid service, family obligation, or House office . |
+| Ship repair  | Larhorak / minor harbours | Small craft repair, patrol vessels. |
 
 ## Military Role
 
@@ -235,7 +235,7 @@ Their defensive value comes from:
 - early warning to [[Kallindra]]
 - control of safe approaches
 - denial of enemy anchorages
-- coordination with the [[Royal Navy]] WIP
+- coordination with the [[Royal Navy]] 
 - memory of failures such as [[The Lonely Rock]]
 
 ## History
@@ -257,7 +257,7 @@ During the [[Second Continental Invasion]], [[The Lonely Rock]] was sacked and u
 | [[Clawpoint]] | Watches for hostile vessels and guides port traffic. |
 | [[Kebris]] | Largest civic and population centre in the Shields. |
 | [[Daran’s Tower]] | Royal fortress and fallback site. |
-| Shield signal chain WIP | Warning system against invasion or pirates. |
+| Shield signal chain  | Warning system against invasion or pirates. |
 
 ## Political Tensions
 
@@ -283,7 +283,7 @@ Their value comes from:
 - controlling approach to [[Kallindra]]
 - protecting major ports
 - warning against pirate or Continental movement
-- supporting the [[Royal Navy]] WIP
+- supporting the [[Royal Navy]] 
 - preserving safe routes through shoals and channels
 - housing royal, arcane, and civic institutions
 - preventing enemy use of eastern anchorages

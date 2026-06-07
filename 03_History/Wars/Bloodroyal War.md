@@ -1,10 +1,10 @@
 ﻿# Bloodroyal War
 
-**Date:** [[112 BHK]]–[[0 AHK]]  
-**Older duration note:** seventy years / four generations WIP  
-**Location:** [[Sentra]] and wider [[Falhaezrian Isles]]  
-**Era:** end of the [[Age of the Bloodroyals]]  
-**Result:** defeat and exile of [[House Brandt]]; crowning of [[Samwise Greensteel Wilgenfal]] as [[High King]]  
+**Date:** [[112 BHK]]–[[0 AHK]]
+**Older duration note:** seventy years / four generations
+**Location:** [[Sentra]] and wider [[Falhaezrian Isles]]
+**Era:** end of the [[Age of the Bloodroyals]]
+**Result:** defeat and exile of [[House Brandt]]; crowning of [[Samwise Greensteel Wilgenfal]] as [[High King]]
 
 ## Overview
 
@@ -18,12 +18,12 @@ The war destroyed the old balance among the founder lines. It ended with the def
 
 | Side / Force | Base | Position |
 |---|---|---|
-| [[House Brandt]] claimant | [[Skystone]] / Brandt holdings WIP | Eldest-born right, founder seniority, Brandt supremacy. |
+| [[House Brandt]] claimant | [[Skystone]] / Brandt holdings  | Eldest-born right, founder seniority, Brandt supremacy. |
 | Anti-Brandt Bloodroyals | various Bloodroyal houses | Opposed Brandt elevation into permanent ruling principle. |
 | [[Samwise Greensteel Wilgenfal]] | [[House Wilgenfal]] / army | Military solution to the crisis; later proclaimed [[High King]]. |
-| [[High House Navy]] | loyalist / anti-Brandt WIP | Naval force decisive at [[Battle of Honindra]]. |
+| [[High House Navy]] | loyalist / anti-Brandt  | Naval force decisive at [[Battle of Honindra]]. |
 | [[Yarrowgold]] | southern kingdom | Amphibious intervention during the civil war. |
-| Twixtriver holders | [[Twixtriver]] / Honindra WIP | Crushed between navy and Samwise’s army. |
+| Twixtriver holders | [[Twixtriver]] / Honindra  | Crushed between navy and Samwise’s army. |
 | Local houses and cadet branches | Sentra-wide | Chose sides, shifted loyalties, or tried to survive. |
 
 ## Summary
@@ -42,12 +42,12 @@ The war turned at [[Battle of Honindra]], where the ancient holders of the Twixt
 | [[2060 BHK]]–c. [[500 BHK]] | [[Age of the Bloodroyals]] | Founder lines dominate Sentra and the wider Isles. |
 | before [[112 BHK]] | Death of [[Brandt Beornson]] | His death destabilizes the senior founder line. |
 | [[112 BHK]] | Bloodroyal War begins | Timeline version gives 112-year duration. |
-| WIP | Brandt claimant asserts eldest-born right | Attempts to make Brandt seniority the ruling principle. |
-| WIP | [[Yarrowgold]] launches amphibious invasion | Southern intervention during civil war. |
-| WIP | Attack on [[Twixtriver Castle]] | Yarrowgold / Twixtriver layer needs cleaning. |
-| WIP | [[Battle of Honindra]] | Samwise and the [[High House Navy]] crush the enemy force. |
-| WIP | Samwise proclaimed [[High King]] | Popular and partial Bloodroyal recognition. |
-| WIP | Northern campaign against [[House Brandt]] | Samwise moves against Brandt power after Honindra. |
+|  | Brandt claimant asserts eldest-born right | Attempts to make Brandt seniority the ruling principle. |
+|  | [[Yarrowgold]] launches amphibious invasion | Southern intervention during civil war. |
+|  | Attack on [[Twixtriver Castle]] | Yarrowgold / Twixtriver layer needs cleaning. |
+|  | [[Battle of Honindra]] | Samwise and the [[High House Navy]] crush the enemy force. |
+|  | Samwise proclaimed [[High King]] | Popular and partial Bloodroyal recognition. |
+|  | Northern campaign against [[House Brandt]] | Samwise moves against Brandt power after Honindra. |
 | [[0 AHK]] | Crowning of Samwise | Start of High Kingship dating. |
 | after [[0 AHK]] | Brandt exile | Lands and titles stripped; surviving branches scattered. |
 
@@ -80,30 +80,30 @@ The war turned at [[Battle of Honindra]], where the ancient holders of the Twixt
 | Faction | Position | Notes |
 |---|---|---|
 | Brandt hardliners | pro-eldest line | Wanted Brandt supremacy and control of the Sentran throne. |
-| Brandt moderates WIP | divided | May have wanted preservation of Brandt prestige without total war. |
+| Brandt moderates  | divided | May have wanted preservation of Brandt prestige without total war. |
 | Anti-Brandt Bloodroyals | anti-eldest rule | Opposed Brandt elevation above other founder lines. |
 | Wilgenfal army | pro-Samwise | Military force that made Samwise viable. |
-| High House naval faction | anti-Yarrowgold / anti-Brandt WIP | Helped decide Honindra. |
+| High House naval faction | anti-Yarrowgold / anti-Brandt  | Helped decide Honindra. |
 | Yarrowgold expeditionary force | opportunistic / hostile | Invaded during the civil war. |
 | Twixtriver holders | local power | Destroyed in the Honindra crisis. |
-| Neutral houses WIP | survivalist | Tried to preserve land and lineage. |
-| Merchant towns WIP | variable | Backed whichever side protected routes and contracts. |
-| Sacred institutions WIP | variable | Meritia, Heurikissen, and local temples need assigned wartime positions. |
+| Neutral houses  | survivalist | Tried to preserve land and lineage. |
+| Merchant towns  | variable | Backed whichever side protected routes and contracts. |
+| Sacred institutions  | variable | Meritia, Heurikissen, and local temples need assigned wartime positions. |
 
 ## Major Figures
 
 | Figure | Role | Notes |
 |---|---|---|
 | [[Brandt Beornson]] | dead founder / senior Bloodroyal | Eldest son of [[Béorn]] and [[Rosaria]]; his death created the crisis. |
-| Brandt claimant WIP | main antagonist / claimant | Later Brandt-line figure who tried to seize the Sentran throne. |
+| Brandt claimant  | main antagonist / claimant | Later Brandt-line figure who tried to seize the Sentran throne. |
 | [[Samwise Greensteel Wilgenfal]] | war leader / later [[High King]] | Defeated the Yellow Army at Honindra and moved north against Brandt. |
 | [[Béorn]] | founder memory | His legacy was the source claimed by all sides. |
 | [[Rosaria]] | divine mother of Bloodroyals | Source of founder magical inheritance and sacred legitimacy. |
 | [[Krova Kingkiller Yarrowgold]] | earlier enemy / Yarrowgold founder | Not a direct war participant unless chronology says otherwise; his kingdom’s legacy matters. |
-| Yarrowgold war leader WIP | southern invader | Commander or monarch of the Yarrowgold intervention. |
-| High House admiral WIP | naval commander | Commander of the fleet at Honindra. |
-| Twixtriver lord WIP | defeated local holder | Ancient holder crushed at Honindra. |
-| First postwar councillors WIP | institutional founders | Helped shape the postwar settlement. |
+| Yarrowgold war leader  | southern invader | Commander or monarch of the Yarrowgold intervention. |
+| High House admiral  | naval commander | Commander of the fleet at Honindra. |
+| Twixtriver lord  | defeated local holder | Ancient holder crushed at Honindra. |
+| First postwar councillors  | institutional founders | Helped shape the postwar settlement. |
 
 ## Houses Involved
 
@@ -111,16 +111,16 @@ The war turned at [[Battle of Honindra]], where the ancient holders of the Twixt
 |---|---|---|
 | [[House Brandt]] | central claimant line | Defeated, stripped, exiled, politically shattered. |
 | [[House Wilgenfal]] | Samwise’s house | Rose as major non-Bloodroyal military house. |
-| [[House of Béorn]] | institutional order WIP | Hardened after the war around service, councils, and High Kingship. |
-| [[House Meritia]] | Bloodroyal sacred-scholarly line | Position during war WIP. |
+| [[House of Béorn]] | institutional order  | Hardened after the war around service, councils, and High Kingship. |
+| [[House Meritia]] | Bloodroyal sacred-scholarly line | Position during war . |
 | [[House Mossdeep]] | Brandt-descended woodland line | Survived as politically sensitive branch. |
-| [[House Godbrandt]] | Brandt-descended Meritian branch | Later controls Meritia; war role WIP. |
+| [[House Godbrandt]] | Brandt-descended Meritian branch | Later controls Meritia; war role . |
 | [[House Saltbrandt]] | Brandt-descended northern line | Survived as Brandt-name branch. |
 | [[House Redbrandt-Redrock]] | Brandt-descended loyalist line | Later loyalist branch tied to [[Redcliff]] and royal memory. |
-| [[House Blackarrow]] | Bloodroyal Kazaros house | War role WIP. |
-| [[House Sevensmiths]] | Bloodroyal forge house | War role WIP. |
-| [[House Aldermark]] | Bloodroyal coastal line | War role WIP. |
-| [[House Santeber]] | Bloodroyal magical line | War role WIP. |
+| [[House Blackarrow]] | Bloodroyal Kazaros house | War role . |
+| [[House Sevensmiths]] | Bloodroyal forge house | War role . |
+| [[House Aldermark]] | Bloodroyal coastal line | War role . |
+| [[House Santeber]] | Bloodroyal magical line | War role . |
 | [[Yarrowgold]] | southern kingdom | Intervened militarily and struck at Twixtriver. |
 
 ## Brandt Line
@@ -128,48 +128,48 @@ The war turned at [[Battle of Honindra]], where the ancient holders of the Twixt
 | Figure / Branch | Relation | Notes |
 |---|---|---|
 | [[Brandt Beornson]] | founder | Eldest son of [[Béorn]] and [[Rosaria]]. |
-| Sycar | son of Brandt | Linked to [[House Mossdeep]] / [[Stone Rest]] material WIP. |
-| Hadrik | son of Brandt | Confirmed son; branch details WIP. |
+| Sycar | son of Brandt | Linked to [[House Mossdeep]] / [[Stone Rest]] material . |
+| Hadrik | son of Brandt | Confirmed son; branch details . |
 | Wolger | son of Brandt | Line became [[House Godbrandt]]. |
 | Eckard | son of Brandt | Line became [[House Saltbrandt]]. |
-| Brandt claimant WIP | descendant | Main claimant who triggered or escalated the war. |
+| Brandt claimant  | descendant | Main claimant who triggered or escalated the war. |
 | Mossdeep branch | cadet / related | Survives in woodland form, not necessarily hardline Brandt. |
 | Godbrandt branch | cadet / related | Later sacred-political role on [[Meritia]]. |
 | Saltbrandt branch | cadet / related | Northern Brandt-descended line. |
-| Redbrandt / Redrock branch | cadet / related | Loyalist or postwar adapted Brandt line WIP. |
+| Redbrandt / Redrock branch | cadet / related | Loyalist or postwar adapted Brandt line . |
 
 ## Major Theatres
 
 | Theatre | Region | Function |
 |---|---|---|
 | [[Skystone]] and Brandt holdings | [[Kazaros]] / northeastern Sentra | Brandt legitimacy and mountain seat politics. |
-| [[Twixtriver Castle]] | Sentra WIP | Old strategic and symbolic site struck during southern intervention. |
-| [[Honindra]] | eastern waters / strait WIP | Decisive battle where Samwise rose. |
-| Northern campaign | northeastern Sentra WIP | Samwise’s move against Brandt after Honindra. |
-| [[Kallindra]] WIP | port / council centre WIP | Naval supply and later institutional consequence. |
+| [[Twixtriver Castle]] | Sentra  | Old strategic and symbolic site struck during southern intervention. |
+| [[Honindra]] | eastern waters / strait  | Decisive battle where Samwise rose. |
+| Northern campaign | northeastern Sentra  | Samwise’s move against Brandt after Honindra. |
+| [[Kallindra]]  | port / council centre  | Naval supply and later institutional consequence. |
 | [[Yarrowgold]] approach | southern waters | Amphibious invasion route. |
 | Bloodroyal seats | Sentra-wide | Houses chose sides, were destroyed, or adapted. |
-| River and road corridors WIP | central Sentra | Supply movement and troop campaigns. |
+| River and road corridors  | central Sentra | Supply movement and troop campaigns. |
 
 ## Major Battles and Campaigns
 
 | Battle / Campaign | Location | Result |
 |---|---|---|
 | [[Battle of Honindra]] | [[Honindra]] | Samwise and the [[High House Navy]] crush the enemy; Samwise proclaimed [[High King]]. |
-| Twixtriver strike WIP | [[Twixtriver Castle]] | Southern intervention reaches old fortress zone. |
-| Northern campaign against Brandt WIP | [[Kazaros]] / Brandt lands | Samwise moves against [[House Brandt]] after Honindra. |
-| Brandt last stand WIP | Brandt seat WIP | Final defeat of Brandt power. |
-| Seizure of [[Skystone]] WIP | [[Skystone]] | Transfer of supreme seat from Brandt-linked inheritance to postwar crown. |
-| Naval campaign WIP | eastern / southern waters | High House Navy counters Yarrowgold intervention. |
-| House purges WIP | Sentra-wide | Stripping, exile, execution, or forced settlement of Brandt-aligned lines. |
+| Twixtriver strike  | [[Twixtriver Castle]] | Southern intervention reaches old fortress zone. |
+| Northern campaign against Brandt  | [[Kazaros]] / Brandt lands | Samwise moves against [[House Brandt]] after Honindra. |
+| Brandt last stand  | Brandt seat  | Final defeat of Brandt power. |
+| Seizure of [[Skystone]]  | [[Skystone]] | Transfer of supreme seat from Brandt-linked inheritance to postwar crown. |
+| Naval campaign  | eastern / southern waters | High House Navy counters Yarrowgold intervention. |
+| House purges  | Sentra-wide | Stripping, exile, execution, or forced settlement of Brandt-aligned lines. |
 
 ## Battle of Honindra
 
 | Category | Notes |
 |---|---|
 | Date | during the [[Bloodroyal War]] |
-| Location | [[Honindra]] WIP |
-| Main forces | [[High House Navy]], Samwise’s army, Yellow Army / Twixtriver holders WIP |
+| Location | [[Honindra]]  |
+| Main forces | [[High House Navy]], Samwise’s army, Yellow Army / Twixtriver holders  |
 | Cause | Bloodroyal civil war and [[Yarrowgold]] intervention created a decisive military crisis. |
 | Course | Enemy force was crushed between naval and land power. |
 | Outcome | [[Samwise Greensteel Wilgenfal]] became the practical solution to the war. |
@@ -185,7 +185,7 @@ The war turned at [[Battle of Honindra]], where the ancient holders of the Twixt
 | Origin | Kingdom descended from Krova’s southern survival after defeat by [[Béorn]]. |
 | Method | Amphibious invasion. |
 | Target | [[Sentra]], including a strike at [[Twixtriver Castle]]. |
-| Motive WIP | Exploit civil war, avenge old defeat, restore southern influence, or weaken the Bloodroyals. |
+| Motive  | Exploit civil war, avenge old defeat, restore southern influence, or weaken the Bloodroyals. |
 | Result | Intervention helped create the conditions for Samwise’s rise. |
 | Open issue | Name the Yarrowgold ruler and campaign commander. |
 
@@ -237,7 +237,7 @@ The later constitutional order of [[House of Béorn]], the [[First High House Co
 |---|---|
 | Brandt defeat | Eldest-line rule rejected. |
 | Brandt exile | Lands, titles, and prestige stripped. |
-| Skystone transfer WIP | Supreme seat passes into postwar crown order. |
+| Skystone transfer  | Supreme seat passes into postwar crown order. |
 | Samwise crowned | [[0 AHK]] begins with [[Samwise Greensteel Wilgenfal]]. |
 | Wilgenfal rise | Non-Bloodroyal military legitimacy becomes central. |
 | Bloodroyal order broken | Founder blood remains prestigious but no longer sufficient. |

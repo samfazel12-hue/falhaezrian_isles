@@ -1,7 +1,7 @@
-﻿**Institution type:** Council  
-**Seat:** [[Béornic]] land in the north  
-**Members:** 88  
-**Voting threshold:** 45 yay votes  
+﻿**Institution type:** Council
+**Seat:** [[Béornic]] land in the north
+**Members:** 88
+**Voting threshold:** 45 yay votes
 **Affiliation:** [[House of Béorn]]
 
 ## Overview
@@ -67,17 +67,11 @@ This creates built-in tension. The Second House is broader, elected, ministerial
 - Can create resentment among elected ministers.
 - Can appear detached from the outer Isles, especially the west.
 
-## Current Tensions
-
-The present war has tilted power toward the The [[High King]]. Emergency powers, port controls, military taxation, and wartime administration all weaken ordinary council balance.
-
-The First House may privately fear that the crown is becoming too comfortable with emergency rule, but it also benefits from stability and may hesitate to challenge the [[High King]] openly.
-
 ## Key Connections
 
-**Works with:** The [[High King]], [[Second High House Council]], [[House of Béorn]]  
-**In tension with:** reformist ministers, regional blocs, peace factions  
-**Depends on:** constitutional custom, council legitimacy, House prestige  
+**Works with:** The [[High King]], [[Second High House Council]], [[House of Béorn]]
+**In tension with:** reformist ministers, regional blocs, peace factions
+**Depends on:** constitutional custom, council legitimacy, House prestige
 **Restrains:** sudden legislation, unstable succession, regional agitation
 
 ## Adventure Use

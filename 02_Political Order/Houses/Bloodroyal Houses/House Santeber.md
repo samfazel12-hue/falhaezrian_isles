@@ -25,16 +25,16 @@ Founded by Ella. Later confirmed daughters include Rowena, Sybelle, and Hestra.
 
 ## Political Position
 
-Likely important in succession and marriage politics; current alignment WIP but tied to old Bloodroyal legitimacy.
+Likely important in succession and marriage politics; current alignment  but tied to old Bloodroyal legitimacy.
 
 ## Key Members
 
 | Name | Role | Status | Notes |
 |------|------|--------|-------|
 | Ella | founder | dead | eldest daughter of [[Béorn]] and [[Rosaria]] |
-| Rowena | later daughter | WIP | confirmed in line |
-| Sybelle | later daughter | WIP | confirmed in line |
-| Hestra | later daughter | WIP | confirmed in line |
+| Rowena | later daughter | | confirmed in line |
+| Sybelle | later daughter | | confirmed in line |
+| Hestra | later daughter | | confirmed in line |
 
 ## History
 
@@ -42,7 +42,7 @@ Established in the founder age and preserved distinctive inheritance customs.
 
 ## Connections
 
-**Allied with:** Bloodroyal-descended houses WIP
+**Allied with:** Bloodroyal-descended houses 
 **In tension with:** patrilineal houses, rivals seeking marriage leverage
 **Cadet branches:** 
 **Parent line:** [[Bloodroyals]]

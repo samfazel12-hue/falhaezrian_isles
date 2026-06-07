@@ -31,14 +31,6 @@ Created a magical institution outside the normal military shield structure.
 
 Her institution gives [[Moody Rock]] its special non-SDS status.
 
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-## What They Know
-
 ## How They Speak or Behave
 
 ## Tags

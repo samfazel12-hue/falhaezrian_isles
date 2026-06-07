@@ -28,10 +28,6 @@ Founder houses, [[House of Béorn]], sacred kingship, and later council politics
 - [[Krova “Kingkiller” Yarrowgold]]
 - [[Rosaria]]
 
-## Contradictions / Open Issues
-
-Exact sequence of tribal incorporation is still loose.
-
 ## Who Benefited
 
 [[Béorn]], the later House order, incorporated allies.

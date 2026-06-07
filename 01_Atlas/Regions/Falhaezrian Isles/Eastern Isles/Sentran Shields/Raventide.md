@@ -1,6 +1,6 @@
-﻿**Parent region:** [[Sentran Shields]]  
-**Controlled by:** [[House of Béorn]] / Kallindran sphere  
-**Primary terrain:** coastal island, lighthouse approaches, bay watchland  
+﻿**Parent region:** [[Sentran Shields]]
+**Controlled by:** [[House of Béorn]] / Kallindran sphere
+**Primary terrain:** coastal island, lighthouse approaches, bay watchland
 
 ## Overview
 

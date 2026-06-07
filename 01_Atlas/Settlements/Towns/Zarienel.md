@@ -31,7 +31,5 @@ Founder-memory gives it weight beyond size.
 **Controlled by:** 
 **Dependent on:** hard country, founder prestige
 
-## Current Tensions
-
 ## Tags
 #type/settlement #region/béornic-heartland #affiliation

@@ -1,9 +1,9 @@
 ﻿
 
-**Parent region:** [[Sentra]]  
-**Controlled by:** [[House of Béorn]] formally; [[Tènnakkannin]] locally  
-**Primary terrain:** western lakes, marshes, hills, ruined settlements, difficult coast  
-**Political role:** western cultural region / legitimacy wound / partial frontier  
+**Parent region:** [[Sentra]]
+**Controlled by:** [[House of Béorn]] formally; [[Tènnakkannin]] locally
+**Primary terrain:** western lakes, marshes, hills, ruined settlements, difficult coast
+**Political role:** western cultural region / legitimacy wound / partial frontier
 
 ## Overview
 
@@ -27,9 +27,9 @@ The region includes lake districts, marshes, coastal approaches, ruined settleme
 | [[Lake Tenekka]] | lake | Principal inland water of the west. |
 | [[Gulf of Lennis]] | gulf | Western coastal water tied to the [[Tek Leniss]] massacre. |
 | [[Sandy Marshes]] | marshes | Northwestern coastal wetlands, poison frogs, reeds, shifting flats. |
-| Ruined Southwest WIP | scarred region | Ghost settlements, feral farmland, abandoned roads, destroyed towns. |
+| Ruined Southwest  | scarred region | Ghost settlements, feral farmland, abandoned roads, destroyed towns. |
 | Moonhill western approaches | barrier zone | Western side of [[Midgate]], [[Highpass]], and minor hidden paths. |
-| Western coastal approaches WIP | coast | Long exposed routes around the [[Moonhills]]. |
+| Western coastal approaches  | coast | Long exposed routes around the [[Moonhills]]. |
 
 ## Peoples and Culture
 
@@ -38,10 +38,10 @@ The region includes lake districts, marshes, coastal approaches, ruined settleme
 | [[Tènnakkannin]] | western Sentra | Indigenous western culture, neither [[Béornic]] in origin nor speech. |
 | Tenekkan communities | [[Lake Tenekka District]] | Survivors of the western devastation; tied to [[Tek Tenekka]]. |
 | Lennishaven dock communities | [[Lennishaven]] / [[Gulf of Lennis]] | Preserved folk memory of the Tek Leniss massacre. |
-| Refugee-mixed communities WIP | ruined southwest / roads | Post-retaliation communities mixing Tènnakkannin and Béornic survivors. |
+| Refugee-mixed communities  | ruined southwest / roads | Post-retaliation communities mixing Tènnakkannin and Béornic survivors. |
 | House agents and inspectors | gates, roads, ports | Formal representatives of [[House of Béorn]]. |
-| Marsh folk WIP | [[Sandy Marshes]] | Local fishers, poison-handlers, guides, smugglers. |
-| Old western priests WIP | [[Tek Tenekka]] and ruins | Preservers of pre-Béornic religious practice. |
+| Marsh folk  | [[Sandy Marshes]] | Local fishers, poison-handlers, guides, smugglers. |
+| Old western priests  | [[Tek Tenekka]] and ruins | Preservers of pre-Béornic religious practice. |
 
 ## Political Status
 
@@ -60,9 +60,9 @@ The region is not a clean rebellion. It is a wounded province with local loyalti
 | Tenekkan records and priests | [[Tek Tenekka]] | Cultural memory, old religion, western legitimacy. |
 | Lennishaven port community | [[Lennishaven]] | Folk memory of the massacre and coastal survival. |
 | Moonhill gate commanders | [[Midgate]], [[Highpass]] | Control movement between west and east. |
-| Local western families WIP | towns, lake villages, ruins | Surviving lineages, grudges, claims, land memory. |
-| Marsh guides and poisoners WIP | [[Sandy Marshes]] | Local knowledge, hidden movement, poison trade. |
-| Western dissidents WIP | ruins / ports / exile | Anti-House networks or restoration factions. |
+| Local western families  | towns, lake villages, ruins | Surviving lineages, grudges, claims, land memory. |
+| Marsh guides and poisoners  | [[Sandy Marshes]] | Local knowledge, hidden movement, poison trade. |
+| Western dissidents  | ruins / ports / exile | Anti-House networks or restoration factions. |
 
 ## Settlements
 
@@ -71,11 +71,11 @@ The region is not a clean rebellion. It is a wounded province with local loyalti
 | [[Tek Tenekka]] | city | active | Oldest city west of the [[Moonhills]] and main survivor of pre-Béornic western culture. |
 | [[Tek Leniss]] | city | ruined / partially replaced by port memory | Former daughter-settlement of Tek Tenekka; destroyed after the [[Western Betrayal]]. |
 | [[Lennishaven]] | port | active | Surviving port near Tek Leniss; preserved folk memory of the massacre. |
-| [[Midgate]] | gate-fort / passage settlement WIP | active | Main east-west crossing through the [[Moonhills]]. |
-| [[Highpass]] | fortress / trail settlement WIP | active | Secondary passage through the [[Moonhills]]. |
-| Ghost settlements WIP | ruins | abandoned / ruined | Burned or emptied settlements from the retaliatory campaigns. |
-| Lake villages WIP | villages | active WIP | Fishing, ferry, lake farming, old Tenekkan influence. |
-| Marsh settlements WIP | hamlets / camps | active WIP | Reed cutting, fishing, poisons, smuggling, local guide networks. |
+| [[Midgate]] | gate-fort / passage settlement  | active | Main east-west crossing through the [[Moonhills]]. |
+| [[Highpass]] | fortress / trail settlement  | active | Secondary passage through the [[Moonhills]]. |
+| Ghost settlements  | ruins | abandoned / ruined | Burned or emptied settlements from the retaliatory campaigns. |
+| Lake villages  | villages | active | Fishing, ferry, lake farming, old Tenekkan influence. |
+| Marsh settlements  | hamlets / camps | active | Reed cutting, fishing, poisons, smuggling, local guide networks. |
 
 ## Lake Tenekka District
 
@@ -85,8 +85,8 @@ The region is not a clean rebellion. It is a wounded province with local loyalti
 | [[Tek Tenekka]] | city | Cultural and administrative core. |
 | [[Tek Leniss]] | ruined city | Formerly outgrew Tek Tenekka due to landing access and road links. |
 | [[Lennishaven]] | port | Eastern shore of the [[Gulf of Lennis]], tied to Tek Leniss memory. |
-| Tenekkan roads WIP | local routes | Connect lake, port, old city, and ruined settlements. |
-| Tenekkan archives WIP | records | Old western language, law, religion, land claims. |
+| Tenekkan roads  | local routes | Connect lake, port, old city, and ruined settlements. |
+| Tenekkan archives  | records | Old western language, law, religion, land claims. |
 
 ## Geography and Landmarks
 
@@ -96,11 +96,11 @@ The region is not a clean rebellion. It is a wounded province with local loyalti
 | [[Lake Tenekka]] | lake | Gives shape to the western lake district. |
 | [[Sandy Marshes]] | marsh / coastal wetland | Difficult northwestern terrain, poison frogs, reeds, shifting shallows. |
 | [[Gulf of Lennis]] | gulf | Coastal water tied to the Tek Leniss massacre. |
-| Ruined Southwest WIP | devastated region | Ghost settlements, feral farmland, burned towns. |
-| Old western roads WIP | roads | Many damaged, overgrown, or politically unsafe. |
-| Hidden Moonhill paths WIP | paths | Known by few; unreliable and dangerous. |
-| Coastal route north WIP | route | Long exposed alternative to the Moonhill crossings. |
-| Coastal route south WIP | route | Long exposed alternative to the Moonhill crossings. |
+| Ruined Southwest  | devastated region | Ghost settlements, feral farmland, burned towns. |
+| Old western roads  | roads | Many damaged, overgrown, or politically unsafe. |
+| Hidden Moonhill paths  | paths | Known by few; unreliable and dangerous. |
+| Coastal route north  | route | Long exposed alternative to the Moonhill crossings. |
+| Coastal route south  | route | Long exposed alternative to the Moonhill crossings. |
 
 ## Fortifications and Passages
 
@@ -108,10 +108,10 @@ The region is not a clean rebellion. It is a wounded province with local loyalti
 |---|---|---|---|
 | [[Midgate]] | main gate-fort | [[House of Béorn]] | Main east-west passage through the [[Moonhills]]. |
 | [[Highpass]] | fortress / trail gate | [[House of Béorn]] | Secondary route through the hills, reached by game trail. |
-| Moonhill watch posts WIP | watch posts | House / local WIP | Monitor minor tracks, smuggling, fugitives. |
-| Tenekkan city defenses WIP | urban defenses | [[Duke of Tenekka]] | Protect surviving western cultural centre. |
-| Lennishaven harbour defenses WIP | port defenses | local / House WIP | Coastal protection and port memory site. |
-| Ruined forts WIP | ruins | none / local claimants | Destroyed in retaliation or abandoned after depopulation. |
+| Moonhill watch posts  | watch posts | House / local  | Monitor minor tracks, smuggling, fugitives. |
+| Tenekkan city defenses  | urban defenses | [[Duke of Tenekka]] | Protect surviving western cultural centre. |
+| Lennishaven harbour defenses  | port defenses | local / House  | Coastal protection and port memory site. |
+| Ruined forts  | ruins | none / local claimants | Destroyed in retaliation or abandoned after depopulation. |
 
 ## Routes and Barriers
 
@@ -122,11 +122,11 @@ The region is not a clean rebellion. It is a wounded province with local loyalti
 | [[Highpass Trail]] | trail | alternate Moonhill passage | Reached by game trail; less trafficked. |
 | Lake Tenekka routes | lake routes | Tek Tenekka, lake villages, port roads | Local movement and district trade. |
 | Lennishaven port route | coastal / road route | Lake Tenekka district to [[Gulf of Lennis]] | Main surviving western port access. |
-| Northern coastal route WIP | coastal route | west around Moonhills | Long and exposed. |
-| Southern coastal route WIP | coastal route | west around Moonhills | Long and exposed. |
-| Hidden Moonhill paths WIP | secret paths | north-south / east-west movement | Known to few and trusted only in desperation. |
+| Northern coastal route  | coastal route | west around Moonhills | Long and exposed. |
+| Southern coastal route  | coastal route | west around Moonhills | Long and exposed. |
+| Hidden Moonhill paths  | secret paths | north-south / east-west movement | Known to few and trusted only in desperation. |
 | [[Sandy Marshes]] | terrain barrier | northwest coast | Difficult crossing, concealment, poison resources. |
-| Ruined roads WIP | damaged roads | southwest settlements | Overgrown, unsafe, politically sensitive. |
+| Ruined roads  | damaged roads | southwest settlements | Overgrown, unsafe, politically sensitive. |
 
 ## Economy and Resources
 
@@ -139,7 +139,7 @@ The region is not a clean rebellion. It is a wounded province with local loyalti
 | Marsh poisons | [[Sandy Marshes]] | Bright frog secretions and poison-making. |
 | Reeds and marsh craft | [[Sandy Marshes]] | Thatch, baskets, mats, local trade. |
 | Salvage | ruined southwest / Tek Leniss | Stone, metal, records, heirlooms, grave goods. |
-| Feral farmland | ruined southwest | Abandoned fields, grazing, illegal settlement WIP. |
+| Feral farmland | ruined southwest | Abandoned fields, grazing, illegal settlement . |
 | Smuggling | marshes, ruined roads, coastal routes | Avoids gate inspections and House tolls. |
 
 ## History
@@ -177,7 +177,7 @@ The retaliatory campaigns that followed were not officially sanctioned by the Ho
 | House tie | Spared because the duke remained loyal and supplied intelligence. |
 | Cultural value | Preserves old western architecture, language, religion, and records. |
 | Political burden | Viewed as survivor, collaborator, sacred remnant, or privileged exception depending on politics. |
-| Key sites | old wooden districts, local religious sites WIP, ducal records WIP. |
+| Key sites | old wooden districts, local religious sites , ducal records . |
 
 ## Tek Leniss and Lennishaven
 
@@ -187,22 +187,6 @@ The retaliatory campaigns that followed were not officially sanctioned by the Ho
 | [[Lennishaven]] | active port | Surviving port community near Tek Leniss on the eastern shore of the [[Gulf of Lennis]]. |
 | [[Gulf of Lennis]] | coastal water | Memory-site of the massacre. |
 | Dockworkers and fishers | local memory keepers | Preserved the massacre in spoken form when official histories failed or avoided it. |
-
-## Current Tensions
-
-| Tension | Location | Notes |
-|---|---|---|
-| House legitimacy | whole region | Formal rule does not equal accepted legitimacy. |
-| Tek Tenekka’s survival | [[Tek Tenekka]] | Sacred remnant to some, collaborator city to others. |
-| Tek Leniss memory | [[Tek Leniss]], [[Lennishaven]] | Massacre remains politically poisonous. |
-| Depopulation | ruined southwest | Abandoned settlements and feral farmland weaken recovery. |
-| Gate control | [[Midgate]], [[Highpass]] | House controls the main crossings into and out of the west. |
-| Cultural preservation | [[Tek Tenekka]] | Language, religion, architecture, records under pressure. |
-| Smuggling | marshes, coast, ruined roads | Restriction and resentment create hidden routes. |
-| Western representation | wider Falhaezrian politics | Western absence from full representation remains unresolved. |
-| Refugee identity | mixed communities WIP | Tènnakkannin and Béornic survivors form unstable hybrid communities. |
-| Poison trade | [[Sandy Marshes]] | Frog secretions and marsh knowledge can become political tools. |
-| Historical blame | whole region | The House denies sanctioning retaliation but carries the burden of non-intervention. |
 
 ## Strategic Value
 

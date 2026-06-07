@@ -24,11 +24,7 @@ The peace created infrastructure and expectations later damaged by invasion and 
 
 ## Key Figures
 
-- long-ruling elven [[High King]] WIP
-
-## Contradictions / Open Issues
-
-Name and reign details needed.
+- long-ruling elven [[High King]] 
 
 ## Who Benefited
 

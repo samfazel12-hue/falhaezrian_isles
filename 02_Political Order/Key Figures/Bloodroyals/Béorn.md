@@ -36,22 +36,6 @@ Founder of the [[Béornic]] order; allied with and incorporated major Sentran pe
 
 Remembered as the founder of Sentran political order and source of House legitimacy.
 
-## Wants
-
-To unify and stabilize [[Sentra]] under his order.
-
-## Fears
-
-Fragmentation, rival kings, loss of sacred authority.
-
-## Leverage / Weakness
-
-His legitimacy is tied to [[Rosaria]] and to whether his taking of her power is seen as divine union, conquest, or violation.
-
-## What They Know
-
-The earliest structure of the House and founder geography.
-
 ## How They Speak or Behave
 
 Should sound mythic, commanding, old, not chatty.

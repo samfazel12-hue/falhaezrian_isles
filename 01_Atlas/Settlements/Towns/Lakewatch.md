@@ -31,9 +31,5 @@ Lakewatchers keep out of wider Sentran politics.
 **Controlled by:** 
 **Dependent on:** forest magic, isolation
 
-## Current Tensions
-
-Isolation protects them but also weakens ecological recovery.
-
 ## Tags
 #type/settlement #region/central-sentra #affiliation

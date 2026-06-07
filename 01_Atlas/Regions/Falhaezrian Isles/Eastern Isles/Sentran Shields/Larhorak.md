@@ -1,6 +1,6 @@
-﻿**Parent region:** [[Sentran Shields]]  
-**Controlled by:** [[House of Béorn]] / wider Falhaezrian state  
-**Primary terrain:** shield island, coastal settlements, fortified approaches  
+﻿**Parent region:** [[Sentran Shields]]
+**Controlled by:** [[House of Béorn]] / wider Falhaezrian state
+**Primary terrain:** shield island, coastal settlements, fortified approaches
 
 ## Overview
 
@@ -10,7 +10,7 @@ The island is important because it holds [[Kebris]], the largest city in the Shi
 
 ## Geography
 
-Larhorak lies east of the central Sentran sphere and forms part of the outer maritime field protecting the eastern approaches. Its coast should be treated as strategically exposed: visible to ships, useful for warning, and vulnerable during invasion or pirate pressure.
+Larhorak lies east of the central Sentran sphere and forms part of the outer maritime field protecting the eastern approaches. Its coast is strategically exposed: visible to ships, useful for warning, and vulnerable during invasion or pirate pressure.
 
 The small island holding [[The Sentry]] lies off Larhorak and functions as a watchtower and lighthouse position.
 

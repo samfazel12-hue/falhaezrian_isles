@@ -1,6 +1,6 @@
 ﻿**Date:** 
 **Location:** [[Kallindra]]
-**Era:** WIP
+**Era:** 
 
 ## Summary
 
@@ -24,11 +24,7 @@ The port remains politically distinct and potentially volatile.
 
 ## Key Figures
 
-- Kallindran civic leaders WIP
-
-## Contradictions / Open Issues
-
-Needs actual cause, factions, and date.
+- Kallindran civic leaders 
 
 ## Who Benefited
 
@@ -43,4 +39,4 @@ The defeated faction; unclear.
 Riot, revolt, massacre, or civic revolution? Not fixed.
 
 ## Tags
-#type/event #era/wip
+#type/event #era/

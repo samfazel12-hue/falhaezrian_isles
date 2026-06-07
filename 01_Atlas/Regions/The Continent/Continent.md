@@ -1,15 +1,15 @@
 ﻿# Continent
 
-**Parent region:** WIP  
-**Type:** mainland / external power sphere / enemy continent  
-**Status:** active WIP  
-**Primary power:** [[Continental Empire]]  
-**Relationship to Isles:** hostile, expansionist, economically entangled WIP  
-**Political role:** external enemy / invasion source / imperial mainland  
+**Parent region:**
+**Type:** mainland / external power sphere / enemy continent
+**Status:** active
+**Primary power:** [[Continental Empire]]
+**Relationship to Isles:** hostile, expansionist, economically entangled
+**Political role:** external enemy / invasion source / imperial mainland
 
 ## Overview
 
-The Continent is the vast mainland east or southeast of the [[Falhaezrian Isles]] WIP.
+The Continent is the vast mainland east or southeast of the [[Falhaezrian Isles]] .
 
 It is best known in Falhaezrian history as the homeland of the [[Continental Empire]], the main external enemy of the Isles. Continental invasions, pirate pressure, captive markets, imperial bases, and maritime war have shaped Falhaezrian government, military organization, port law, and island identity.
 
@@ -24,7 +24,7 @@ The Continent should not be treated as a single flat enemy-land. It is a large m
 | [[Continental Coast]] | Mainland coast facing the Isles. |
 | [[First Continental Invasion]] | Major invasion that helped reshape island politics. |
 | [[Second Continental Invasion]] | Invasion linked to the sack of [[The Lonely Rock]]. |
-| [[Third Continental Invasion]] WIP | Later invasion or present-war layer. |
+| [[Third Continental Invasion]]  | Later invasion or present-war layer. |
 | [[Present War]] | Current war between the Isles and Continental power. |
 | [[Port War]] | Maritime and pirate-linked war affecting Falhaezrian trade. |
 | [[The Lonely Rock]] | Shield island sacked and used as an Imperial base. |
@@ -39,15 +39,15 @@ Its geography should contrast with the [[Falhaezrian Isles]]: larger distances, 
 | Feature | Type | Function |
 |---|---|---|
 | [[Continental Coast]] | coast | Mainland edge facing the Isles. |
-| [[Imperial Heartland]] WIP | core region | Administrative, dynastic, and military centre of the Empire. |
-| [[Imperial Capital]] WIP | city | Seat of emperor, court, ministries, army command. |
-| [[Mainland River System]] WIP | rivers | Grain, troop movement, inland trade, taxation. |
-| [[Eastern Marches]] WIP | frontier | Inland border zone away from the Isles. |
-| [[Western Imperial Coast]] WIP | coast | Coast facing Falhaezrian waters. |
-| [[Imperial Road Network]] WIP | road system | Land-based military movement and administration. |
-| [[Slave Ports]] WIP | ports | Markets and military ports tied to captives from the Isles. |
-| [[Imperial Naval Bases]] WIP | ports / arsenals | Invasion staging, repair, convoy control. |
-| [[Occupied Coastlands]] WIP | provinces | Conquered coastal regions used against the Isles. |
+| [[Imperial Heartland]]  | core region | Administrative, dynastic, and military centre of the Empire. |
+| [[Imperial Capital]]  | city | Seat of emperor, court, ministries, army command. |
+| [[Mainland River System]]  | rivers | Grain, troop movement, inland trade, taxation. |
+| [[Eastern Marches]]  | frontier | Inland border zone away from the Isles. |
+| [[Western Imperial Coast]]  | coast | Coast facing Falhaezrian waters. |
+| [[Imperial Road Network]]  | road system | Land-based military movement and administration. |
+| [[Slave Ports]]  | ports | Markets and military ports tied to captives from the Isles. |
+| [[Imperial Naval Bases]]  | ports / arsenals | Invasion staging, repair, convoy control. |
+| [[Occupied Coastlands]]  | provinces | Conquered coastal regions used against the Isles. |
 
 ## Political Structure
 
@@ -55,31 +55,31 @@ The Continent is dominated by the [[Continental Empire]], but the Empire should 
 
 | Layer | Function |
 |---|---|
-| Emperor / Imperial Throne WIP | Supreme legal and military authority. |
-| Imperial court WIP | Factions, ministers, dynasts, patrons, rivals. |
+| Emperor / Imperial Throne  | Supreme legal and military authority. |
+| Imperial court  | Factions, ministers, dynasts, patrons, rivals. |
 | Military command | Land armies, naval forces, invasion planners. |
 | Provincial governors | Rule subject regions, collect taxes, enforce law. |
-| Client kings WIP | Local rulers allowed to survive under imperial authority. |
+| Client kings  | Local rulers allowed to survive under imperial authority. |
 | Tax provinces | Grain, timber, labour, coin, ships, soldiers. |
 | Subject peoples | Conquered or incorporated populations. |
-| Imperial cult / state religion WIP | Legitimizes expansion and obedience. |
-| Merchant houses WIP | Trade, shipping, finance, war profit. |
-| Slave administration WIP | Captive labour, markets, household slavery, galley systems WIP. |
+| Imperial cult / state religion  | Legitimizes expansion and obedience. |
+| Merchant houses  | Trade, shipping, finance, war profit. |
+| Slave administration  | Captive labour, markets, household slavery, galley systems . |
 
 ## Main Powers
 
 | Power | Base | Role |
 |---|---|---|
-| [[Continental Empire]] | [[Imperial Heartland]] WIP | Main imperial state and external enemy of the Isles. |
-| [[Imperial Throne]] WIP | [[Imperial Capital]] WIP | Central dynastic or bureaucratic authority. |
-| [[Imperial Navy]] WIP | coastal arsenals | Invasions, blockades, convoy attacks, pirate support WIP. |
-| [[Imperial Legions]] WIP | mainland provinces | Land armies and invasion forces. |
-| [[Imperial Admiralty]] WIP | naval capital / coast | Fleet organization and maritime strategy. |
-| [[Slave Guilds]] WIP | coastal cities | Handling captives, forced labour, markets. |
-| [[Continental Merchant Houses]] WIP | ports and capital | War finance, shipping, smuggling, diplomacy. |
-| [[Imperial Priesthood]] WIP | temples / capital | Religious sanction for imperial rule. |
-| [[Coastal Client Lords]] WIP | occupied coastlands | Local rulers serving the Empire. |
-| [[Anti-Imperial Mainland Rebels]] WIP | interior / frontier | Possible enemies of the Empire inside the Continent. |
+| [[Continental Empire]] | [[Imperial Heartland]]  | Main imperial state and external enemy of the Isles. |
+| [[Imperial Throne]]  | [[Imperial Capital]]  | Central dynastic or bureaucratic authority. |
+| [[Imperial Navy]]  | coastal arsenals | Invasions, blockades, convoy attacks, pirate support . |
+| [[Imperial Legions]]  | mainland provinces | Land armies and invasion forces. |
+| [[Imperial Admiralty]]  | naval capital / coast | Fleet organization and maritime strategy. |
+| [[Slave Guilds]]  | coastal cities | Handling captives, forced labour, markets. |
+| [[Continental Merchant Houses]]  | ports and capital | War finance, shipping, smuggling, diplomacy. |
+| [[Imperial Priesthood]]  | temples / capital | Religious sanction for imperial rule. |
+| [[Coastal Client Lords]]  | occupied coastlands | Local rulers serving the Empire. |
+| [[Anti-Imperial Mainland Rebels]]  | interior / frontier | Possible enemies of the Empire inside the Continent. |
 
 ## Relationship to the Falhaezrian Isles
 
@@ -93,7 +93,7 @@ The Continent is the main external pressure shaping Falhaezrian politics.
 | Economic shadow | Trade, contraband, captives, weapons, and naval materials move despite hostility. |
 | Captive trauma | Island populations have been enslaved or taken during invasions. |
 | Strategic obsession | The [[High King]] may see destruction or permanent crippling of the Empire as necessary. |
-| Diplomatic absence WIP | Open diplomacy may be impossible or politically toxic. |
+| Diplomatic absence  | Open diplomacy may be impossible or politically toxic. |
 | Internal mirror | The Empire is land-based and imperial; the Isles are maritime and council-bound. |
 
 ## Continental Empire
@@ -104,16 +104,16 @@ The Continent is the main external pressure shaping Falhaezrian politics.
 | Status | active hostile power |
 | Known by Isles as | the main enemy, invader, enslaver, imperial mainland power |
 | Military strength | large land armies, coastal staging, naval forces, siege capacity |
-| Political character | centralized WIP, expansionist, bureaucratic, hierarchical |
-| Weaknesses | distance from Isles, naval chokepoints, subject peoples, court factions, overextension WIP |
-| Strategic aim | control, punish, weaken, or absorb the Isles WIP |
-| Falhaezrian aim | resist, survive, counter-invade, or destroy the imperial threat WIP |
+| Political character | centralized , expansionist, bureaucratic, hierarchical |
+| Weaknesses | distance from Isles, naval chokepoints, subject peoples, court factions, overextension  |
+| Strategic aim | control, punish, weaken, or absorb the Isles  |
+| Falhaezrian aim | resist, survive, counter-invade, or destroy the imperial threat  |
 
 ## Continental Coast
 
 | Feature | Notes |
 |---|---|
-| Facing waters | Falhaezrian sea lanes WIP |
+| Facing waters | Falhaezrian sea lanes  |
 | Ports | invasion staging, ship repair, slave trade, customs, naval command |
 | Fortresses | protect arsenals and landing sites |
 | Population | sailors, soldiers, dockworkers, merchants, captives, administrators |
@@ -133,7 +133,7 @@ To many Falhaezrians, the Continent is not just a place. It is the source of inv
 | [[Western Sentra]] | Enemy, but also possible political comparison against House centralization. |
 | [[Rhodokra]] | Dangerous but commercially relevant. |
 | [[Culverno]] / Ignahuatl | External threat, but less central to sacred identity unless Dragon War links exist. |
-| [[Ulum]] | Mainland rival WIP; possible trade or metal politics. |
+| [[Ulum]] | Mainland rival ; possible trade or metal politics. |
 | Sailors | Storm, war, prize, captivity, forbidden ports. |
 
 ## Continental View of the Isles
@@ -146,7 +146,7 @@ The Empire likely views the Falhaezrian Isles through imperial categories: rebel
 | Naval nuisance | The Isles disrupt sea control and trade. |
 | Strategic shield | Kallindra and the Sentran Shields block easy maritime domination. |
 | Rich prize | Ports, metals, serpentglass, roadstone, magical equipment, timber, and shipyards. |
-| Religious enemy WIP | Falhaezrian gods and House legitimacy may be treated as false or barbarous. |
+| Religious enemy  | Falhaezrian gods and House legitimacy may be treated as false or barbarous. |
 | Captive source | Islanders taken as slaves, rowers, skilled labourers, hostages, or trophies. |
 | Political threat | The Isles may inspire subject peoples to resist imperial rule. |
 | Hard target | Mountain redoubts, shields, storm waters, and island logistics make conquest difficult. |
@@ -155,9 +155,9 @@ The Empire likely views the Falhaezrian Isles through imperial categories: rebel
 
 | Conflict | Date | Continental Role | Result |
 |---|---:|---|---|
-| [[First Continental Invasion]] | WIP | First major invasion of the Isles. | Helped reshape Falhaezrian unity; tied to [[Western Betrayal]]. |
-| [[Second Continental Invasion]] | WIP | Eastern Campaign and shield-island assault. | [[The Lonely Rock]] sacked and used as Imperial base. |
-| [[Third Continental Invasion]] WIP | WIP | Later invasion or current-war predecessor. | Chronology open. |
+| [[First Continental Invasion]] | | First major invasion of the Isles. | Helped reshape Falhaezrian unity; tied to [[Western Betrayal]]. |
+| [[Second Continental Invasion]] | | Eastern Campaign and shield-island assault. | [[The Lonely Rock]] sacked and used as Imperial base. |
+| [[Third Continental Invasion]] | | Later invasion or current-war predecessor. | Chronology open. |
 | [[Present War]] | current | Ongoing military conflict. | Port restrictions, emergency powers, convoy war. |
 | [[Port War]] | current / related | Maritime pressure, piracy, trade disruption. | Kallindra overload, smuggling, naval militarization. |
 
@@ -165,7 +165,7 @@ The Empire likely views the Falhaezrian Isles through imperial categories: rebel
 
 | Category | Notes |
 |---|---|
-| Status | WIP |
+| Status | |
 | Main effect | Helped expose internal weaknesses in the Isles. |
 | Western layer | Several western Sentran rulers aided the Empire during the [[Western Betrayal]]. |
 | Result | Retaliatory campaigns devastated parts of [[Western Sentra]]. |
@@ -176,10 +176,10 @@ The Empire likely views the Falhaezrian Isles through imperial categories: rebel
 
 | Category | Notes |
 |---|---|
-| Status | WIP |
+| Status | |
 | Main site | [[The Lonely Rock]] |
 | Continental action | Sack, enslavement, and use of island as Imperial base. |
-| Campaign | Eastern Campaign WIP |
+| Campaign | Eastern Campaign  |
 | Result | Proved the [[Sentran Shields]] could fail. |
 | Long-term effect | Hardened shield defenses and island memory. |
 | Open issue | Define how the Empire reached and held the island. |
@@ -192,7 +192,7 @@ The Empire likely views the Falhaezrian Isles through imperial categories: rebel
 | Main opponent | [[Continental Empire]] |
 | Falhaezrian state | under emergency pressure |
 | Main effects | Port restrictions, inspections, convoy control, war taxation, military centralization. |
-| Key Falhaezrian regions | [[Kallindra]], [[Sentran Shields]], [[Great Pearl Basin]], [[Kazaros]], [[Southern Isles]] WIP |
+| Key Falhaezrian regions | [[Kallindra]], [[Sentran Shields]], [[Great Pearl Basin]], [[Kazaros]], [[Southern Isles]]  |
 | Open issue | Define whether the current war is defensive, offensive, counter-invasion, naval, or mixed. |
 
 ## Port War
@@ -202,7 +202,7 @@ The Empire likely views the Falhaezrian Isles through imperial categories: rebel
 | Type | maritime and economic war |
 | Involves | pirates, privateers, ports, naval patrols, convoys, inspections |
 | Effect on Isles | Kallindra overload, restricted shipping, smuggling, port closures. |
-| Possible Continental role | direct sponsorship, tolerated piracy, deniable pressure, or false-flag operations WIP |
+| Possible Continental role | direct sponsorship, tolerated piracy, deniable pressure, or false-flag operations  |
 | Main Falhaezrian response | convoy routes, port law, inspections, crown emergency authority. |
 
 ## Military System
@@ -212,12 +212,12 @@ The Empire likely views the Falhaezrian Isles through imperial categories: rebel
 | Imperial land armies | Main strength of the Empire; large forces, siege capacity, provincial recruitment. |
 | Imperial navy | Transports armies, attacks islands, supports blockades and bases. |
 | Coastal arsenals | Build, repair, and supply ships. |
-| Slave crews WIP | Possible forced rowers, port labour, siege labour. |
-| Marine troops WIP | Specialized landing forces. |
+| Slave crews  | Possible forced rowers, port labour, siege labour. |
+| Marine troops  | Specialized landing forces. |
 | Siege engineers | Castle-breaking, harbour works, fortification. |
 | Provincial levies | Subject peoples pressed into imperial service. |
-| Pirate auxiliaries WIP | Deniable maritime pressure against the Isles. |
-| Intelligence networks WIP | Spies in ports, merchants, captives, defectors. |
+| Pirate auxiliaries  | Deniable maritime pressure against the Isles. |
+| Intelligence networks  | Spies in ports, merchants, captives, defectors. |
 | Imperial governors | Provide troops, tax, grain, and ships. |
 
 ## Economy
@@ -226,54 +226,54 @@ The Empire likely views the Falhaezrian Isles through imperial categories: rebel
 |---|---|
 | Grain | Feeds armies, cities, fleets. |
 | Timber | Shipbuilding, siege engines, roads, construction. |
-| Iron and bronze WIP | Weapons, armour, tools. |
-| Silver / coin WIP | Taxation and mercenary payment. |
+| Iron and bronze  | Weapons, armour, tools. |
+| Silver / coin  | Taxation and mercenary payment. |
 | Slaves | Captives from conquered regions and the Isles. |
 | Luxury goods | Court economy and merchant profit. |
 | War ships | Built in coastal arsenals. |
 | Horses | Land armies and officer class. |
 | Salt and fish | Port economy and naval supply. |
 | Contraband | Moves through neutral, pirate, or corrupt routes. |
-| Falhaezrian goods | Serpentglass, magical equipment, fine arms, roadstone WIP. |
+| Falhaezrian goods | Serpentglass, magical equipment, fine arms, roadstone . |
 
-## Ports and Coastal Cities WIP
+## Ports and Coastal Cities 
 
 | Port / City | Status | Function |
 |---|---|---|
-| [[Imperial Capital]] WIP | WIP | Court and central government. |
-| [[Main Imperial Naval Arsenal]] WIP | WIP | Shipbuilding and fleet command. |
-| [[Western Imperial Port]] WIP | WIP | Main port facing the Isles. |
-| [[Slave Port of the West]] WIP | WIP | Captive processing and sale. |
-| [[Old Treaty Port]] WIP | WIP | Former diplomatic or trade port. |
-| [[Pirate Broker Port]] WIP | WIP | Deniable link between Empire and pirates. |
-| [[Lonely Rock Command Port]] WIP | WIP | Mainland base used during the Eastern Campaign. |
-| [[Southern Continental Port]] WIP | WIP | Link to Yarrowgold waters or southern sea lanes. |
+| [[Imperial Capital]] | | Court and central government. |
+| [[Main Imperial Naval Arsenal]] | | Shipbuilding and fleet command. |
+| [[Western Imperial Port]] | | Main port facing the Isles. |
+| [[Slave Port of the West]] | | Captive processing and sale. |
+| [[Old Treaty Port]] | | Former diplomatic or trade port. |
+| [[Pirate Broker Port]] | | Deniable link between Empire and pirates. |
+| [[Lonely Rock Command Port]] | | Mainland base used during the Eastern Campaign. |
+| [[Southern Continental Port]] | | Link to Yarrowgold waters or southern sea lanes. |
 
-## Provinces and Regions WIP
+## Provinces and Regions 
 
 | Province / Region | Function |
 |---|---|
-| [[Imperial Heartland]] WIP | Throne, capital, core army, old nobility. |
-| [[Western Coastlands]] WIP | Ports facing the Isles, naval staging, slave markets. |
-| [[Northern Marches]] WIP | Cold frontier, timber, harsh troops. |
-| [[Southern Grainlands]] WIP | Food supply and tax base. |
-| [[River Provinces]] WIP | Inland transport and administrative corridors. |
-| [[Old Conquered Kingdoms]] WIP | Subject peoples with resentment and old dynasties. |
-| [[Imperial Frontier]] WIP | Expansion zone away from the Isles. |
-| [[Rebel Interior]] WIP | Anti-imperial resistance and difficult control. |
-| [[Sacred Imperial District]] WIP | Main temples or imperial cult centre. |
+| [[Imperial Heartland]]  | Throne, capital, core army, old nobility. |
+| [[Western Coastlands]]  | Ports facing the Isles, naval staging, slave markets. |
+| [[Northern Marches]]  | Cold frontier, timber, harsh troops. |
+| [[Southern Grainlands]]  | Food supply and tax base. |
+| [[River Provinces]]  | Inland transport and administrative corridors. |
+| [[Old Conquered Kingdoms]]  | Subject peoples with resentment and old dynasties. |
+| [[Imperial Frontier]]  | Expansion zone away from the Isles. |
+| [[Rebel Interior]]  | Anti-imperial resistance and difficult control. |
+| [[Sacred Imperial District]]  | Main temples or imperial cult centre. |
 
-## Religion and Ideology WIP
+## Religion and Ideology 
 
 | Element | Possible Function |
 |---|---|
-| [[Imperial Cult]] WIP | Legitimizes emperor, conquest, law, and hierarchy. |
-| [[State War God]] WIP | Sanctions invasion and military obedience. |
-| [[Sea-Bound Saints]] WIP | Naval cult or maritime patronage. |
-| [[Captive Oaths]] WIP | Ritual submission of conquered peoples. |
-| [[Anti-Islander Doctrine]] WIP | Religious or racialized justification for enslaving islanders. |
-| [[Old Mainland Gods]] WIP | Local gods of subject regions suppressed or absorbed. |
-| [[Imperial Calendar]] WIP | Dates conquest and reigns differently from Falhaezrian history. |
+| [[Imperial Cult]]  | Legitimizes emperor, conquest, law, and hierarchy. |
+| [[State War God]]  | Sanctions invasion and military obedience. |
+| [[Sea-Bound Saints]]  | Naval cult or maritime patronage. |
+| [[Captive Oaths]]  | Ritual submission of conquered peoples. |
+| [[Anti-Islander Doctrine]]  | Religious or racialized justification for enslaving islanders. |
+| [[Old Mainland Gods]]  | Local gods of subject regions suppressed or absorbed. |
+| [[Imperial Calendar]]  | Dates conquest and reigns differently from Falhaezrian history. |
 
 ## Captives and Slavery
 
@@ -283,10 +283,10 @@ The Continent is tied to the enslavement of islanders, especially through the me
 |---|---|
 | Captive source | Islanders taken during raids, invasions, and occupation. |
 | Known case | People of [[The Lonely Rock]] enslaved during the [[Second Continental Invasion]]. |
-| Uses WIP | Household labour, ship crews, mines, military labour, skilled craft, hostages. |
-| Markets WIP | Coastal slave ports, inland markets, imperial estates. |
+| Uses  | Household labour, ship crews, mines, military labour, skilled craft, hostages. |
+| Markets  | Coastal slave ports, inland markets, imperial estates. |
 | Records | Names may survive in port ledgers, tax rolls, temple records, or sale contracts. |
-| Returnees | Escaped, ransomed, exchanged, or returned captives WIP. |
+| Returnees | Escaped, ransomed, exchanged, or returned captives . |
 | Political effect | Deepens Falhaezrian hatred and justifies total-war rhetoric. |
 
 ## Piracy and Deniable War
@@ -337,16 +337,16 @@ The Isles matter to the Empire because they block, threaten, or tempt imperial p
 | Falhaezrian Isles | Continent |
 |---|---|
 | Maritime realm | Mainland empire |
-| Island councils and House order | Imperial throne and provinces WIP |
+| Island councils and House order | Imperial throne and provinces  |
 | Ports and convoys | Roads and legions |
 | Shield islands | Coastal fortresses |
 | Mountain redoubts | Inland depth |
-| Layered regional autonomy | Provincial hierarchy WIP |
-| House service ideology | Imperial obedience WIP |
-| Fear of invasion | Desire for control or punishment WIP |
-| Magical founder legitimacy | Imperial cult or conquest ideology WIP |
+| Layered regional autonomy | Provincial hierarchy  |
+| House service ideology | Imperial obedience  |
+| Fear of invasion | Desire for control or punishment  |
+| Magical founder legitimacy | Imperial cult or conquest ideology  |
 
-## Internal Weaknesses WIP
+## Internal Weaknesses 
 
 | Weakness | Use |
 |---|---|
@@ -360,21 +360,6 @@ The Isles matter to the Empire because they block, threaten, or tempt imperial p
 | Provincial corruption | Governors may steal funds or falsify reports. |
 | Pirate unreliability | Pirates may betray imperial sponsors. |
 | Religious division | Old gods, imperial cult, and local faiths may conflict. |
-
-## Current Tensions
-
-| Tension | Notes |
-|---|---|
-| Present war objective | Does the Empire want conquest, punishment, tribute, ports, or captives? |
-| Falhaezrian counter-war | Does the High King want defense, revenge, invasion, or destruction of the Empire? |
-| Pirate link | How direct is imperial control over pirate forces? |
-| Captive records | Families from the Isles may still have descendants on the mainland. |
-| Continental dissent | Subject peoples could become allies or traps. |
-| Port intelligence | Kallindran merchants may know more about the Continent than officials admit. |
-| Moral hardening | Continental slavery and invasion justify harsher Falhaezrian emergency powers. |
-| Trade hypocrisy | War does not fully end illegal or indirect trade. |
-| Prisoners | Captured soldiers and sailors carry useful but dangerous knowledge. |
-| Imperial succession WIP | A weak or divided throne could change the war. |
 
 ## Tags
 #type/region #type/mainland #region/continent #affiliation/continental-empire

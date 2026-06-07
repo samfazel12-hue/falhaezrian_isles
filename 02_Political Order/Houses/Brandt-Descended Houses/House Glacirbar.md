@@ -29,7 +29,7 @@ Subordinate or absorbed after Blackarrow conquest.
 
 | Name | Role | Status | Notes |
 |------|------|--------|-------|
-| Surviving daughter | heir-survivor | WIP | married into Berkar’s line |
+| Surviving daughter | heir-survivor | | married into Berkar’s line |
 
 ## History
 
@@ -40,7 +40,7 @@ Nearly destroyed during Berkar’s conquest of eastern [[Kazaros]].
 **Allied with:** dispossessed mountain lines
 **In tension with:** [[House Blackarrow]]
 **Cadet branches:** 
-**Parent line:** WIP
+**Parent line:** 
 
 ## Resources and Military Power
 

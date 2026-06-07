@@ -1,7 +1,7 @@
-﻿**Title type:** Royal office  
-**Seat:** [[Skystone]]  
-**Institutional base:** [[House of Béorn]]  
-**Checked by:** [[First High House Council]], [[Second High House Council]]  
+﻿**Title type:** Royal office
+**Seat:** [[Skystone]]
+**Institutional base:** [[House of Béorn]]
+**Checked by:** [[First High House Council]], [[Second High House Council]]
 
 ## Overview
 
@@ -114,20 +114,14 @@ His rise marked a break from the older Bloodroyal order. The crown became less a
 - the office depends on cooperation from [[Kallindra]] and the councils
 - a strong king can save the realm or deform the constitution
 
-## Current Tensions
-
-The present High King inherits a realm under severe strain. The Continental war, pirate pressure, closed ports, western instability, Kallindran overload, and military taxation all strengthen the crown while damaging trust in it.
-
-The danger is not just tyranny. The sharper danger is dependency: the Isles may become unable to imagine government without permanent emergency rule.
-
 ## Key Connections
 
-**Seat:** [[Skystone]]  
-**Institutional base:** [[House of Béorn]]  
-**Approves heir first:** [[First High House Council]]  
-**Confirms heir:** [[Second High House Council]]  
-**Civil counterpart:** [[First Minister]]  
-**Major pressure point:** [[Present War]]  
+**Seat:** [[Skystone]]
+**Institutional base:** [[House of Béorn]]
+**Approves heir first:** [[First High House Council]]
+**Confirms heir:** [[Second High House Council]]
+**Civil counterpart:** [[First Minister]]
+**Major pressure point:** [[Present War]]
 **Historical founder of current order:** [[Samwise Greensteel Wilgenfal]]
 
 ## Adventure Use

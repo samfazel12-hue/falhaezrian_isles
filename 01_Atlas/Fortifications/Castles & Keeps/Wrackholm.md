@@ -1,4 +1,4 @@
-﻿**Held by:** [[Yarrowgold]] or [[Sentra]] depending current control WIP
+﻿**Held by:** [[Yarrowgold]] or [[Sentra]] depending current control 
 **Part of:** naval base fortification
 **Region:** [[Surgemark]]
 

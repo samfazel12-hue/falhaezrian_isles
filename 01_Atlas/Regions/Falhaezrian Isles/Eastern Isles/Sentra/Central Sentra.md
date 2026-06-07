@@ -1,6 +1,6 @@
-﻿**Parent region:** [[Sentra]]  
-**Controlled by:** [[House of Béorn]]  
-**Primary terrain:** agricultural plains, inland rivers, lake basin, remnant forests  
+﻿**Parent region:** [[Sentra]]
+**Controlled by:** [[House of Béorn]]
+**Primary terrain:** agricultural plains, inland rivers, lake basin, remnant forests
 
 ## Overview
 
@@ -114,26 +114,6 @@ In wartime, Central [[Sentra]] becomes more important, not less. Grain levies, m
 - market taxes from [[Bastel]]
 - goods redistributed through [[Rhodokra]] and [[Bearhaven]]
 - forest products from the [[Mosswoods]] and [[Hyrcasos]]
-
-## Current Tensions
-
-Central [[Sentra]]’s likely tensions are not grand succession disputes. They are practical pressures.
-
-- wartime grain levies
-- increased transport taxes
-- military requisitioning
-- resentment toward [[Kallindra]]’s control over trade
-- flooding along the [[Erkzis]]
-- forest isolation in [[Lakewatch]]
-- smuggling through lake and river routes
-- local anger when food leaves the region while prices rise at home
-- crown pressure on [[Lordsgate]] during mobilization
-
-## Notes for Use
-
-Central [[Sentra]] should not be written like a glamorous capital region. Its strength is logistical. Make it feel lived-in, damp in places, fertile in others, full of old paths, river talk, grain barges, market resentment, and forest memory.
-
-If the region becomes too clean or too politically passive, it gets boring. The better version is productive but strained: everyone depends on it, but few outsiders respect it.
 
 ## Tags
 #type/region #region/sentra #region/central-sentra

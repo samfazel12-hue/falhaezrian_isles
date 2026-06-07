@@ -16,7 +16,7 @@ Original port defense for [[Kallindra]].
 
 ## History
 
-Named for Kallin, a woman whose story is still WIP.
+Named for Kallin, a woman whose story is still .
 
 ## Controlled Routes
 

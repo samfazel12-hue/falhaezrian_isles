@@ -27,8 +27,6 @@ Tax flows, provisioning, regional trust, and legal norms are all damaged.
 - [[Continental Empire]]
 - [[House of Béorn]]
 
-## Contradictions / Open Issues
-
 ## Who Benefited
 
 Crown authorities that use emergency powers; protected smugglers if corrupt.

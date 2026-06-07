@@ -37,9 +37,5 @@ Developed as central [[Sentra]]’s transport town.
 **Controlled by:** local authorities under Sentran order
 **Dependent on:** [[Sentran Breadbasket]]
 
-## Current Tensions
-
-Bastel thinks it matters more politically than the crown does.
-
 ## Tags
 #type/settlement #region/great-pearl-basin #affiliation

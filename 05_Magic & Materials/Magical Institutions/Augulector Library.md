@@ -31,9 +31,5 @@ Control of the library gives [[House Godbrandt]] legitimacy despite Meritian dis
 **Controlled by:** 
 **Dependent on:** scribes, scholars, protection, old archives
 
-## Current Tensions
-
-The defenders of the library are also the beneficiaries of Meritian displacement.
-
 ## Tags
 #type/settlement #region/meritia #affiliation

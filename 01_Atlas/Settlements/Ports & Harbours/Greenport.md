@@ -31,9 +31,5 @@ Direct House administration.
 **Controlled by:** 
 **Dependent on:** House authority and war supply
 
-## Current Tensions
-
-Merchant guilds may resent Greenport’s privileged status.
-
 ## Tags
 #type/settlement #region/kallindra #affiliation

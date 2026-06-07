@@ -15,7 +15,7 @@ Defiant by title, but the actual reason for the epithet is not fixed.
 
 ## Political Position and Allegiances
 
-Part of the high founder generation. Her branch remains underdeveloped.
+Part of the high founder generation. Her branch survives in scattered northern traditions.
 
 ## Key Actions and Events
 
@@ -29,14 +29,6 @@ Part of the high founder generation. Her branch remains underdeveloped.
 ## Legacy
 
 Her branch can become important if northeastern [[Sentra]] needs a founder-line identity.
-
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-## What They Know
 
 ## How They Speak or Behave
 

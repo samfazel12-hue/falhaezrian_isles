@@ -31,9 +31,5 @@ Ordinary Sentran local rule; not a major political node.
 **Controlled by:** 
 **Dependent on:** fertile soils and flood avoidance
 
-## Current Tensions
-
-Flash floods make river infrastructure politically sensitive.
-
 ## Tags
 #type/settlement #region/sentran-breadbasket #affiliation

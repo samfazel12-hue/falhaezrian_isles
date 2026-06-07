@@ -33,22 +33,6 @@ Founder of a house whose daughters inherit and keep the house name.
 
 Her house makes female Bloodroyal inheritance politically central.
 
-## Wants
-
-Preserve her line and authority.
-
-## Fears
-
-Subordination through marriage politics.
-
-## Leverage / Weakness
-
-Her house’s power depends on daughters and magical inheritance.
-
-## What They Know
-
-Bloodline magic and founder politics.
-
 ## How They Speak or Behave
 
 Formal, composed, dangerous if underestimated.

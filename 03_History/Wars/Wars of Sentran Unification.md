@@ -1,10 +1,10 @@
 ﻿
-**Date:** c. [[2140 BHK]]–[[2100 BHK]]  
-**Region:** [[Sentra]]  
-**Result:** unification of [[Sentra]] under [[Béorn]]  
-**Final major battle:** [[Siege of Twixtriver]]  
-**Followed by:** [[Kingship of Béorn]]  
-**Political role:** founder wars / end of divided Sentra / beginning of Béornic rule  
+**Date:** c. [[2140 BHK]]–[[2100 BHK]]
+**Region:** [[Sentra]]
+**Result:** unification of [[Sentra]] under [[Béorn]]
+**Final major battle:** [[Siege of Twixtriver]]
+**Followed by:** [[Kingship of Béorn]]
+**Political role:** founder wars / end of divided Sentra / beginning of Béornic rule
 
 ## Overview
 
@@ -38,7 +38,7 @@ The wars ended in [[2100 BHK]] with the [[Siege of Twixtriver]], where Béorn de
 | [[Late Pre-Unification Age]] | c. [[3000 BHK]]–[[2300 BHK]] | Sentra divided among older powers. |
 | Birth of [[Béorn]] | [[2227 BHK]] | Founder born into divided Sentra. |
 | Birth of [[Brandt Beornson]] | [[2189 BHK]] | First child of Béorn and Rosaria. |
-| Early rise of Béorn WIP | c. [[2160 BHK]]–[[2140 BHK]] | Alliances, first victories, gathering of companions. |
+| Early rise of Béorn  | c. [[2160 BHK]]–[[2140 BHK]] | Alliances, first victories, gathering of companions. |
 | [[Wars of Sentran Unification]] | c. [[2140 BHK]]–[[2100 BHK]] | Main campaigns of unification. |
 | [[Siege of Twixtriver]] | [[2100 BHK]] | Final decisive defeat of Krova. |
 | [[Kingship of Béorn]] | [[2099 BHK]]–[[2064 BHK]] | First unified rule over Sentra. |
@@ -58,7 +58,7 @@ Before Béorn, Sentra was not a single state.
 | [[Southern Sentra]] | [[Ignahuatl]] sacred authority around [[Mount Vulka]] and the fire pantheon. |
 | [[Moonhills]] | Barrier zone between western Sentra and the Béornic east. |
 | [[Twixtriver]] | Strategic river fortress held first by [[Gartun Rostmodya]], then claimed in the name of [[Yarrawe]]. |
-| [[Sentran Shields]] WIP | Island powers and maritime approaches not yet fully defined. |
+| [[Sentran Shields]]  | Island powers and maritime approaches not yet fully defined. |
 
 ## Causes
 
@@ -88,7 +88,7 @@ The wars were not one continuous battlefield campaign. They were a long sequence
 | Tribute | Defeated rulers paid in grain, troops, road access, stores, or hostages. |
 | Religious settlement | Southern and older sacred powers were incorporated without complete erasure. |
 | Trade protection | Useful cities and market systems were preserved where possible. |
-| Hostage-taking WIP | Likely used to secure defeated lineages. |
+| Hostage-taking  | Likely used to secure defeated lineages. |
 | Founder grants | Loyal companions and early followers received future seats and offices. |
 | Road control | Military occupation of routes made unity practical. |
 
@@ -97,16 +97,16 @@ The wars were not one continuous battlefield campaign. They were a long sequence
 | Faction / Power | Position | Notes |
 |---|---|---|
 | [[Béorn]] and his companions | unification force | Core war band and later royal household. |
-| [[Rosaria]]’s sacred following WIP | Béorn-aligned | Gives sacred authority to the new order. |
+| [[Rosaria]]’s sacred following  | Béorn-aligned | Gives sacred authority to the new order. |
 | [[Krova Kingkiller Yarrowgold]] | final rival | Defeated at [[Siege of Twixtriver]]. |
 | Yarrowgold-aligned forces | anti-Béorn | Connected to [[Yarrawe]], Twixtriver, and southern divine kingship. |
-| Rostmodya survivors WIP | displaced / dead / hidden | Former Twixtriver line put to the sword before Béorn’s siege. |
-| Kazaros mountain lords WIP | mixed | Some resisted, some allied, some were incorporated. |
-| Rhodokran powers WIP | pragmatic | Likely negotiated to preserve trade autonomy. |
-| Tènnakkannin western rulers WIP | mixed / late incorporation | Western Sentra remained culturally distinct after unification. |
-| Ignahuatl authorities WIP | distinct / negotiated | Southern sacred authority survived under formal Sentran unity. |
-| Great Pearl towns WIP | submission / treaty | Bound into the new grain and lake-route order. |
-| River lords WIP | mixed | Controlled crossings, tolls, ferries, and bridges. |
+| Rostmodya survivors  | displaced / dead / hidden | Former Twixtriver line put to the sword before Béorn’s siege. |
+| Kazaros mountain lords  | mixed | Some resisted, some allied, some were incorporated. |
+| Rhodokran powers  | pragmatic | Likely negotiated to preserve trade autonomy. |
+| Tènnakkannin western rulers  | mixed / late incorporation | Western Sentra remained culturally distinct after unification. |
+| Ignahuatl authorities  | distinct / negotiated | Southern sacred authority survived under formal Sentran unity. |
+| Great Pearl towns  | submission / treaty | Bound into the new grain and lake-route order. |
+| River lords  | mixed | Controlled crossings, tolls, ferries, and bridges. |
 
 ## Major Figures
 
@@ -118,11 +118,11 @@ The wars were not one continuous battlefield campaign. They were a long sequence
 | [[Gartun Rostmodya]] | former Twixtriver holder | Held Twixtriver before he and his kin were put to the sword. |
 | [[Yarrawe]] | goddess over [[Yarrowgold]] | Twixtriver Castle was taken in her name. |
 | [[Brandt Beornson]] | first Bloodroyal | Born before the final unification and later eldest founder line. |
-| early companions of Béorn WIP | captains / oathmen | Future roots of offices, minor houses, or martial traditions. |
-| pre-unification kings WIP | defeated rulers | Need names by region. |
-| Rhodokran negotiator WIP | treaty figure | Could explain Rhodokra’s preserved autonomy. |
-| Ignahuatl priest-ruler WIP | southern settlement figure | Could explain Culverno’s later practical independence. |
-| Tènnakkannin ruler WIP | western settlement figure | Could explain western resentment and partial incorporation. |
+| early companions of Béorn  | captains / oathmen | Future roots of offices, minor houses, or martial traditions. |
+| pre-unification kings  | defeated rulers | Need names by region. |
+| Rhodokran negotiator  | treaty figure | Could explain Rhodokra’s preserved autonomy. |
+| Ignahuatl priest-ruler  | southern settlement figure | Could explain Culverno’s later practical independence. |
+| Tènnakkannin ruler  | western settlement figure | Could explain western resentment and partial incorporation. |
 
 ## Major Theatres
 
@@ -135,7 +135,7 @@ The wars were not one continuous battlefield campaign. They were a long sequence
 | Southern theatre | [[Southern Sentra]] | Ignahuatl autonomy, Vulka, southern routes, Yarrowgold pressure. |
 | Twixtriver theatre | [[Twixtriver]] | Final decisive fortress and river crossing. |
 | Moonhills theatre | [[Moonhills]] | Passes, hidden routes, and western access. |
-| Shield waters WIP | [[Sentran Shields]] | Maritime influence and early island control WIP. |
+| Shield waters  | [[Sentran Shields]] | Maritime influence and early island control . |
 
 ## Campaign Phases
 
@@ -148,9 +148,9 @@ He gathers followers, wins early battles, gains sacred legitimacy through [[Rosa
 | Key issue | Notes |
 |---|---|
 | Base | likely northeastern Sentra / [[Kazaros]] sphere. |
-| Early followers | future captains, oathmen, proto-house figures WIP. |
+| Early followers | future captains, oathmen, proto-house figures . |
 | Sacred legitimacy | Rosaria marks Béorn’s cause as more than conquest. |
-| First enemies | local kings, hill lords, river toll-holders WIP. |
+| First enemies | local kings, hill lords, river toll-holders . |
 
 ### Phase II: Mountain and Inland Consolidation
 
@@ -186,10 +186,10 @@ The west and south are incorporated without being culturally erased.
 
 | Region | Settlement |
 |---|---|
-| [[Western Sentra]] | Submission, treaty, or conquest WIP; culture survives. |
+| [[Western Sentra]] | Submission, treaty, or conquest ; culture survives. |
 | [[Southern Sentra]] | Formal rule with sacred autonomy around [[Mount Vulka]]. |
 | [[Moonhills]] | Pass control becomes essential. |
-| [[Lordsgate]] WIP | Later boundary logic may begin here. |
+| [[Lordsgate]]  | Later boundary logic may begin here. |
 
 ### Phase V: Yarrowgold and Twixtriver
 
@@ -227,7 +227,7 @@ The siege ends the last major rival kingship and closes the wars of unification.
 | Yarrowgold power | Krova’s order uses Twixtriver as a key Sentran foothold. |
 | Béornic siege | Béorn takes or breaks the site during final unification. |
 | Founder memory | House histories remember Twixtriver as Béorn’s decisive victory. |
-| Hidden memory WIP | Local or Yarrowgold histories may remember Gartun and Yarrawe differently. |
+| Hidden memory  | Local or Yarrowgold histories may remember Gartun and Yarrawe differently. |
 
 ## Settlement After Victory
 
@@ -237,12 +237,12 @@ After Twixtriver, Béorn had to turn military victory into rule.
 |---|---|
 | Proclamation | Béorn becomes King of Sentra in [[2099 BHK]]. |
 | Oath renewal | Defeated and allied powers swear to the new kingship. |
-| Hostages WIP | Ensures loyalty of dangerous houses. |
+| Hostages  | Ensures loyalty of dangerous houses. |
 | Road and river control | Makes the island governable. |
 | Tribute system | Creates revenue and military obligation. |
 | Regional toleration | Preserves useful local systems. |
 | Sacred recognition | Rosaria and Kacore support the new royal order. |
-| Punishment of enemies | Krova’s allies, Yarrowgold loyalists, or local holdouts dealt with WIP. |
+| Punishment of enemies | Krova’s allies, Yarrowgold loyalists, or local holdouts dealt with . |
 | Incorporation of useful elites | Rhodokran, western, southern, and lake powers survive where needed. |
 
 ## Outcome
@@ -292,12 +292,12 @@ After Twixtriver, Béorn had to turn military victory into rule.
 |---|---|
 | [[House of Béorn]] | Founding war of lawful Sentran unity. |
 | [[Béornic]] heartland | Heroic victory and sacred foundation. |
-| [[Rhodokra]] | Useful settlement that preserved trade autonomy WIP. |
-| [[Western Sentra]] | Distant conquest or unequal incorporation WIP. |
-| [[Ignahuatl]] south | Formal submission without religious surrender WIP. |
+| [[Rhodokra]] | Useful settlement that preserved trade autonomy . |
+| [[Western Sentra]] | Distant conquest or unequal incorporation . |
+| [[Ignahuatl]] south | Formal submission without religious surrender . |
 | [[Yarrowgold]] | Defeat of Krova and humiliation of Yarrawe’s claim. |
-| Rostmodya descendants WIP | Massacre, dispossession, hidden claim, or extinct memory. |
-| Common soldiers’ tradition WIP | Road songs, siege tales, river ghosts, founder legends. |
+| Rostmodya descendants  | Massacre, dispossession, hidden claim, or extinct memory. |
+| Common soldiers’ tradition  | Road songs, siege tales, river ghosts, founder legends. |
 
 ## Tags
 #type/event #type/war #era/wars-of-sentran-unification #affiliation/house-of-beorn #region/sentra

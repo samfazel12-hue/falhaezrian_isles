@@ -7,7 +7,7 @@ A smaller eastern lake below the eastern heights. Its name frames it as the less
 
 ## Geography and Access
 
-The lake functions as a local movement and settlement anchor. Roads, ports, ferries, or river routes should be developed around it where needed.
+The lake functions as a local movement and settlement anchor, with roads, ferries, and small landing places gathered around it.
 
 ## Strategic Value
 

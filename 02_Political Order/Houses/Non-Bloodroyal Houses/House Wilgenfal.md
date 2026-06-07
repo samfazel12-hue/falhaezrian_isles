@@ -21,7 +21,7 @@ Remembered for steel, willow symbolism, military responsibility, and the shift a
 
 ## Dynastic Structure
 
-Founded by Samwise; later branch structure WIP.
+Founded by Samwise; later branch structure .
 
 ## Political Position
 

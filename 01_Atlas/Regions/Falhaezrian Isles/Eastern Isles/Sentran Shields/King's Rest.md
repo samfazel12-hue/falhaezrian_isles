@@ -1,8 +1,8 @@
 ﻿# King's Rest
 
-**Parent region:** [[Sentran Shields]]  
-**Controlled by:** [[House of Béorn]]  
-**Primary terrain:** royal island, palace-fortress, thick-walled castle complex  
+**Parent region:** [[Sentran Shields]]
+**Controlled by:** [[House of Béorn]]
+**Primary terrain:** royal island, palace-fortress, thick-walled castle complex
 
 ## Overview
 
@@ -20,7 +20,7 @@ The central feature is [[Daran’s Tower]], surrounded by castle walls. The wall
 
 The population likely consists of palace staff, garrison forces, servants, administrators, boat crews, supply workers, and a small dependent settlement.
 
-If the island is still actively used, its culture should be formal and guarded. If it is more historical, it may function as a royal memory-site, ceremonial palace, or emergency retreat.
+The island’s culture is formal and guarded, shaped by royal memory, ceremonial use, and its value as an emergency retreat.
 
 ## Political Status
 

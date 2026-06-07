@@ -1,8 +1,8 @@
 ﻿
-**Parent region:** [[Falhaezrian Isles]]  
-**Controlled by:** [[House of Béorn]]  
-**Primary terrain:** island heartland; mountains, lakes, forests, plains, coasts  
-**Political role:** core island of the realm  
+**Parent region:** [[Falhaezrian Isles]]
+**Controlled by:** [[House of Béorn]]
+**Primary terrain:** island heartland; mountains, lakes, forests, plains, coasts
+**Political role:** core island of the realm
 
 ## Overview
 
@@ -85,8 +85,8 @@ Control is strongest in the [[Kazaros]], the eastern heartland, and core House i
 | [[Jewel Plaza]] | [[Rhodokra]] | market square | Specialist Rhodokran market. |
 | [[Lovecurve]] | [[Kallindra]] | district | Sailors’ quarter and legal prostitution district. |
 | [[The Lonely Smith]] | Wilgenfal sphere | forge | Known for dark greatswords. |
-| [[Obsidian Bones]] | southern / volcanic WIP | named feature | Strong label; exact function still open. |
-| [[Imperial Ruins]] | coastal WIP | ruins / smugglers’ cove | Destroyed Imperial camp site, now trouble-ground. |
+| [[Obsidian Bones]] | southern / volcanic  | named feature | Strong label; exact function still open. |
+| [[Imperial Ruins]] | coastal  | ruins / smugglers’ cove | Destroyed Imperial camp site, now trouble-ground. |
 
 ## Mountains and Highlands
 
@@ -124,7 +124,7 @@ Control is strongest in the [[Kazaros]], the eastern heartland, and core House i
 | [[Patahyrcazar]] | ancient forest | Former great temperate rainforest linking later forest remnants. |
 | [[Broken Forest]] | [[Southern Sentra]] | Dragon War wound, vitrified forest, serpentglass source. |
 | [[Salt Pines]] | northeastern Sentra | Herbs, oils, smoke, ritual work, and ancient magic. |
-| Oldoaks | eastern foothills WIP | Old-growth oak forest at the eastern foothills of the [[Kazaros]]. |
+| Oldoaks | eastern foothills  | Old-growth oak forest at the eastern foothills of the [[Kazaros]]. |
 | Lakewatch forest | [[Central Sentra]] | Small surviving forest fragment preserved by local magic. |
 
 ## Castles, Keeps, and Major Fortifications
@@ -149,7 +149,7 @@ Control is strongest in the [[Kazaros]], the eastern heartland, and core House i
 | [[Rostcliff]] | [[Kazaros]] | [[House Saltbrandt]] branch | Older seat of Eckard Saltbrandt’s line. |
 | [[Saltcliff]] | northern coast / strait | [[House Saltbrandt]] | Seat over the [[Strait of Brandt]]. |
 | [[Deepwoodrest]] | [[Mosswoods]] | [[House Mossdeep]] | Woodland seat controlling forest movement and local knowledge. |
-| [[Stone Rest]] | Mosswoods edge | Brandt-descended WIP | Built by Sycar as a token to Hadrik. |
+| [[Stone Rest]] | Mosswoods edge | Brandt-descended  | Built by Sycar as a token to Hadrik. |
 | [[Daran’s Tower]] | [[King's Rest]] / Shields | House Redrock / royal line | Royal palace-fortress; related shield-island defence, not mainland Sentra. |
 
 ## Kallindran Gates and Urban Fortifications
@@ -177,7 +177,7 @@ Control is strongest in the [[Kazaros]], the eastern heartland, and core House i
 | [[Highpass Trail]] | trail | Secondary Moonhill route guarded by [[Highpass]]. |
 | [[Saronago Trade Route]] | river/lake route | Goods from the [[Great Pearl]] basin down the [[Saronago]] toward [[Kallindra]]. |
 | [[Eastern Road]] | road | Route from [[Kallindra]] toward [[Eastgate]] and the eastern roads. |
-| [[Shield Road]] | road | Eastern road system toward the shieldward routes; relation to [[Eastern Road]] WIP. |
+| [[Shield Road]] | road | Eastern road system toward the shieldward routes; relation to [[Eastern Road]] . |
 | [[Ulum-Sentra Deep Route]] | deep tunnel route | Route beneath the [[Red Sea of Ulum]] between Sentra and [[Ulum]]. |
 
 ## Seas, Gulfs, and Straits
@@ -186,14 +186,14 @@ Control is strongest in the [[Kazaros]], the eastern heartland, and core House i
 |---|---|---|
 | [[Red Sea of Ulum]] | north | Cold northern water between Sentra and [[Ulum]]. |
 | [[Strait of Brandt]] | north | Choke point between Sentra and [[Ulum]], overlooked by [[Saltcliff]]. |
-| [[Gulf of Sentra]] | Sentran coast WIP | Named coastal water; boundaries open. |
+| [[Gulf of Sentra]] | Sentran coast  | Named coastal water; boundaries open. |
 | [[Gulf of Kallin]] | Kallindra approaches | Gulf linked to Kallindran maritime routes. |
 | [[Gulf of Lennis]] | western Sentra | Gulf tied to the [[Tek Leniss]] massacre. |
 | [[Surgewater Gulf]] | south of Sentra | Southern approach where [[Surgemark]] sits. |
 | [[Vulkan Gulf]] | southern Sentra | Gulf near [[Mount Vulka]] and Ignahuatl sea access. |
-| [[Gulf of Amber]] | south/east WIP | Named gulf with role still open. |
-| [[Gulf of Trilhoz]] | south/east WIP | Named gulf with role still open. |
-| [[Red Strait]] | eastern waters WIP | Named strait; exact role open. |
+| [[Gulf of Amber]] | south/east  | Named gulf with role still open. |
+| [[Gulf of Trilhoz]] | south/east  | Named gulf with role still open. |
+| [[Red Strait]] | eastern waters  | Named strait; exact role open. |
 | [[Strait of Honindra]] | eastern waters | Strait tied to the [[Battle of Honindra]]. |
 
 ## Institutions on or tied to Sentra
@@ -222,7 +222,7 @@ Control is strongest in the [[Kazaros]], the eastern heartland, and core House i
 | [[House Saltbrandt]] | [[Saltcliff]] / [[Rostcliff]] | Brandt-descended northern line. |
 | [[House Godbrandt]] | [[Meritia]] | Controls Meritia and its sacred institutions. |
 | [[House Meritia]] | displaced / [[Meritia]] claim | Dispossessed sacred-scholarly house. |
-| [[House Lethoven]] | Let boundary WIP | Known through the [[Let]] river boundary. |
+| [[House Lethoven]] | Let boundary  | Known through the [[Let]] river boundary. |
 | Rhodokran ruling houses | [[Rhodokra]] | Half-elven mercantile elite. |
 | Ignahuatl local authorities | [[Culverno]] / south | Religious and material authority around Vulka and serpentglass. |
 | Tènnakkannin local powers | [[Western Sentra]] | Western communities and survivor authorities. |
@@ -266,21 +266,6 @@ Its value comes from:
 | Port revenue | [[Kallindra]] | Maritime taxation, inspection, and trade control. |
 | Road tolls | gates and passes | Especially around [[Midgate]], [[Stonegate]], and Kallindran routes. |
 | Religious legitimacy | [[Kacore]], [[Mount Vulka]], [[Meritia]] | Sacred geography and institutional memory. |
-
-## Current Tensions
-
-| Tension | Region | Notes |
-|---|---|---|
-| Wartime centralization | island-wide | Emergency powers strengthen the crown and military offices. |
-| Port restrictions | [[Kallindra]] | Trade funneling creates delays, corruption, and resentment. |
-| Rhodokran autonomy | [[Rhodokra]] | Local elite controls trade machinery the crown needs. |
-| Western resentment | [[Western Sentra]] | [[Western Betrayal]] and retaliatory campaigns remain politically active. |
-| Ignahuatl autonomy | [[Southern Sentra]] | [[Culverno]] and Vulka traditions limit crown reach. |
-| Grain levies | [[Central Sentra]] | Food requisition risks unrest. |
-| Gate inspections | [[Midgate]], [[Stonegate]], [[Lordsgate]] | Military control affects ordinary movement. |
-| Dragon-plague secrecy | Rhodokra / wider WIP | Authorities may suppress news to avoid panic. |
-| House-Ulum irritation | north / [[Redcliff]] | Legal House property on Ulum remains a grievance. |
-| Tunnel secrecy | [[Kazaros]] / [[Ulum]] | Control of deep routes is politically sensitive. |
 
 ## Tags
 #type/region #region/sentra #affiliation/falhaezrian-isles

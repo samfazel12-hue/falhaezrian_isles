@@ -31,9 +31,5 @@ Heavy crown and military presence.
 **Controlled by:** 
 **Dependent on:** inspectors, naval control, port labour
 
-## Current Tensions
-
-Inspection delays create smuggling, bribery, and resentment.
-
 ## Tags
 #type/settlement #region/kallindra #affiliation

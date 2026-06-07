@@ -26,10 +26,6 @@ Honindra made non-Bloodroyal military legitimacy viable at the highest level.
 
 - [[Samwise Greensteel Wilgenfal]]
 
-## Contradictions / Open Issues
-
-Exact battlefield geography and enemy composition need work.
-
 ## Who Benefited
 
 Samwise, [[House Wilgenfal]], anti-Brandt order.

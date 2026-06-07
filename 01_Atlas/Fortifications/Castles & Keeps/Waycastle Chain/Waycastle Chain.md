@@ -11,8 +11,6 @@ The chain is not decorative. It explains why the eastern core and the [[High Kin
 
 ## Route Position
 
-- Start / middle / final ascent: TBD
-
 ## Linked Fortifications
 
 - [[Jeor’s Hall]]

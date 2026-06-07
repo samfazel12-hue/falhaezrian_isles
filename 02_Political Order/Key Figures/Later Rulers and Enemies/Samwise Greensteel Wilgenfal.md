@@ -34,22 +34,6 @@ Aligned with anti-Brandt order, [[House of Béorn]] continuity, and the postwar 
 
 Established [[House Wilgenfal]] as a great non-Bloodroyal house and changed the legitimacy structure of the Isles.
 
-## Wants
-
-End civil war and secure rule beyond Bloodroyal primacy.
-
-## Fears
-
-Return of Brandt domination.
-
-## Leverage / Weakness
-
-His legitimacy depends on victory, proclamation, and institutional acceptance.
-
-## What They Know
-
-The political settlement after Honindra.
-
 ## How They Speak or Behave
 
 Direct, soldier-king register.

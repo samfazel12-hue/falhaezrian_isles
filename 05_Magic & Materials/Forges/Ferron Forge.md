@@ -31,9 +31,5 @@ Likely under House-aligned craft regulation.
 **Controlled by:** 
 **Dependent on:** skilled smiths, rare metals, spellwork
 
-## Current Tensions
-
-War demand may be overwhelming civilian craft.
-
 ## Tags
 #type/settlement #region/béornic-heartland #affiliation

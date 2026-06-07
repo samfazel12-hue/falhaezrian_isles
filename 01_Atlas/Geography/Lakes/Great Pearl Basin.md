@@ -1,9 +1,9 @@
 ﻿
 
-**Parent region:** [[Central Sentra]] / [[Sentra]]  
-**Controlled by:** [[House of Béorn]], local towns, Rhodokran powers, river and lake authorities  
-**Primary terrain:** inland lake basin; rivers, floodplains, bogs, ports, market towns  
-**Political role:** inland supply and redistribution system  
+**Parent region:** [[Central Sentra]] / [[Sentra]]
+**Controlled by:** [[House of Béorn]], local towns, Rhodokran powers, river and lake authorities
+**Primary terrain:** inland lake basin; rivers, floodplains, bogs, ports, market towns
+**Political role:** inland supply and redistribution system
 
 ## Overview
 
@@ -21,15 +21,15 @@ The region includes fertile floodplains, river confluences, lake ports, ferry la
 
 ## Waters
 
-| Feature         | Type          | Function                                                                                                                       |     |
+| Feature         | Type          | Function | |
 | --------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------ | --- |
-| [[Great Pearl]] | lake          | Largest inland water of Sentra; core of the basin.                                                                             |     |
-| [[Norgon]]      | river         | Carries water from the [[Mosswoods]], where it rains year round. Feeds the [[Great Pearl]] from the northern-central interior. |     |
-| [[Sargon]]      | river         | Main inland river feeding the [[Great Pearl]] alongside the [[Norgon]].                                                        |     |
-| [[Saronago]]    | outflow river | Carries water and goods southward from the [[Great Pearl]] toward [[Kallindra]].                                               |     |
-| [[Let]]         | river         | Moonhill and [[Mosswoods]]forest-fed river tied to the [[Mosswoods]] and local house boundaries.                               |     |
-| [[Erkzis]]      | river         | Moonhill river known for flash floods and difficult crossings.                                                                 |     |
-| [[Bürkenbog]]   | bog           | Wetland on the western and southern edge of the [[Great Pearl]], reaching toward the [[Saronago]].                             |     |
+| [[Great Pearl]] | lake          | Largest inland water of Sentra; core of the basin. | |
+| [[Norgon]]      | river         | Carries water from the [[Mosswoods]], where it rains year round. Feeds the [[Great Pearl]] from the northern-central interior. | |
+| [[Sargon]]      | river         | Main inland river feeding the [[Great Pearl]] alongside the [[Norgon]]. | |
+| [[Saronago]]    | outflow river | Carries water and goods southward from the [[Great Pearl]] toward [[Kallindra]]. | |
+| [[Let]]         | river         | Moonhill and [[Mosswoods]]forest-fed river tied to the [[Mosswoods]] and local house boundaries. | |
+| [[Erkzis]]      | river         | Moonhill river known for flash floods and difficult crossings. | |
+| [[Bürkenbog]]   | bog           | Wetland on the western and southern edge of the [[Great Pearl]], reaching toward the [[Saronago]]. | |
 
 ## Settlements
 
@@ -110,7 +110,7 @@ The crown needs the basin for food, transit, military supply, and tax movement. 
 | [[Meritia]] | island in the [[Great Pearl]] | Sacred and scholarly centre. |
 | [[Augulector Library]] | [[Meritia]] | Major learned institution. |
 | [[Temple of Heurikissen]] | [[Meritia]] | Sacred site tied to the island’s older religious order. |
-| old temple district WIP | [[Rhodokra]] | Pre-Béornic temple tradition and buried records. |
+| old temple district  | [[Rhodokra]] | Pre-Béornic temple tradition and buried records. |
 
 ## Wetlands and Hazards
 
@@ -121,7 +121,7 @@ The crown needs the basin for food, transit, military supply, and tax movement. 
 | Lake storms | [[Great Pearl]] | Ferry delays, wrecks, lost cargo, isolated islands. |
 | Inspection bottlenecks | [[Bearhaven]], [[Rhodokra]], downstream routes | Wartime delays and corruption. |
 | Food-price unrest | towns and ports | Grain movement under military order creates local resentment. |
-| Disease or corruption rumours | Rhodokra / lake towns WIP | Suppression risk during wartime. |
+| Disease or corruption rumours | Rhodokra / lake towns  | Suppression risk during wartime. |
 
 ## History
 
@@ -158,25 +158,10 @@ Its value comes from:
 | Timber | northern forests, [[Mosswoods]] margins, [[Ashton]] | Milled, rafted, stored, traded. |
 | Metals | [[Kazaros]] | Passed through Rhodokran and lake routes. |
 | Fish | [[Great Pearl]] | Local food and trade. |
-| Reeds and wetland goods | [[Bürkenbog]] and lake margins | Thatch, craft, oils, medicines, poisons WIP. |
+| Reeds and wetland goods | [[Bürkenbog]] and lake margins | Thatch, craft, oils, medicines, poisons . |
 | Records and texts | [[Meritia]], [[Rhodokra]] | Scholarly, legal, sacred, and commercial value. |
 | Ferry rights | lake and river crossings | Local political and economic control. |
 | Toll income | roads, bridges, ports, quays | Disputed during war. |
-
-## Current Tensions
-
-| Tension | Location | Notes |
-|---|---|---|
-| Grain requisition | [[Bastel]], breadbasket routes | Crown demand can strip towns while prices rise. |
-| Rhodokran autonomy | [[Rhodokra]] | Half-elven houses control trade machinery and legal obstruction. |
-| Wartime inspections | [[Bearhaven]], lake ports, downstream routes | Slows trade and creates bribery. |
-| Godbrandt legitimacy | [[Meritia]] | Sacred institutions held under contested control. |
-| Meritian displacement | [[Meritia]] / [[Kallindra]] | Displaced Meritians preserve claim and grievance. |
-| Smuggling | [[Bürkenbog]], minor quays | Increases under restriction. |
-| River flooding | [[Erkzis]], [[Let]] crossings | Damages movement, mills, bridges, and fields. |
-| Local resentment | basin towns | Goods leave under guard while locals bear shortages. |
-| Disease / corruption secrecy | Rhodokra / lake towns WIP | Authorities may suppress news to prevent panic. |
-| Crown versus town authority | basin-wide | Tax, toll, ferry, and inspection rights overlap. |
 
 ## Tags
 #type/geography #type/basin #region/central-sentra #region/sentra

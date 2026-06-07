@@ -24,7 +24,7 @@ The ascending waycastle road; hidden tunnel support routes.
 
 ## Garrison and Supplies
 
-Supplied by surface road and secret tunnel network. Garrison should be elite and deeply loyal.
+Supplied by surface road and secret tunnel network. Its garrison is elite and deeply loyal.
 
 ## Vulnerabilities
 

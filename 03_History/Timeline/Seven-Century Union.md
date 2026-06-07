@@ -24,9 +24,7 @@ The later choice to continue war after the second invasion helped break this uni
 
 ## Key Figures
 
-- High Kings WIP
-
-## Contradictions / Open Issues
+- High Kings 
 
 ## Who Benefited
 

@@ -1,11 +1,11 @@
 ﻿
 
-**Date:** [[2099 BHK]]–[[2064 BHK]]  
-**Preceded by:** [[Wars of Sentran Unification]]  
-**Followed by:** [[Age of the Bloodroyals]]  
-**Region:** [[Sentra]]  
-**Ruler:** [[Béorn]]  
-**Political role:** first unified kingship of Sentra / founder reign / root of House legitimacy  
+**Date:** [[2099 BHK]]–[[2064 BHK]]
+**Preceded by:** [[Wars of Sentran Unification]]
+**Followed by:** [[Age of the Bloodroyals]]
+**Region:** [[Sentra]]
+**Ruler:** [[Béorn]]
+**Political role:** first unified kingship of Sentra / founder reign / root of House legitimacy
 
 ## Overview
 
@@ -57,13 +57,13 @@ Later institutions treated it as the root of all lawful House authority.
 | [[Sentra]] | unified core kingdom | Main territory of Béorn’s rule. |
 | [[Kazaros]] | founder mountain core | Sacred and military centre around [[Kacore]] and [[Jeor’s Hall]]. |
 | [[Great Pearl Basin]] | incorporated inland system | Lake and river settlements brought into the new order. |
-| [[Rhodokra]] | autonomous old city WIP | Likely incorporated through treaty, trade, or local elite accommodation. |
+| [[Rhodokra]] | autonomous old city  | Likely incorporated through treaty, trade, or local elite accommodation. |
 | [[Central Sentra]] | agricultural and river core | Food, routes, settlement consolidation. |
 | [[Western Sentra]] | incorporated but culturally distinct | [[Tènnakkannin]] west brought into the kingdom but not erased. |
 | [[Southern Sentra]] | incorporated but culturally distinct | [[Ignahuatl]] south and [[Mount Vulka]] retain religious autonomy. |
 | [[Moonhills]] | barrier and passage zone | Control of east-west routes becomes politically important. |
-| [[Sentran Shields]] | early influence WIP | Later shield politics may begin here, but formal status needs definition. |
-| [[Ulum]] | outside / allied WIP | Not part of the original Sentran kingship unless later changed. |
+| [[Sentran Shields]] | early influence  | Later shield politics may begin here, but formal status needs definition. |
+| [[Ulum]] | outside / allied  | Not part of the original Sentran kingship unless later changed. |
 
 ## Seat and Sacred Geography
 
@@ -71,8 +71,8 @@ Later institutions treated it as the root of all lawful House authority.
 |---|---|---|
 | [[Kacore]] | sacred mountain | Spiritual and geographic anchor of Béornic founder identity. |
 | [[Jeor’s Hall]] | hall-fort | Founder hall beneath Kacore and later sending-out place of the Bloodroyals. |
-| [[Twixtriver]] | battlefield / fortress WIP | Site of decisive victory over Krova. |
-| [[Skystone]] | future royal redoubt | Later supreme seat; exact status during Béorn’s reign WIP. |
+| [[Twixtriver]] | battlefield / fortress  | Site of decisive victory over Krova. |
+| [[Skystone]] | future royal redoubt | Later supreme seat; exact status during Béorn’s reign . |
 | [[Great Pearl]] | inland lake | Central water system of the new kingdom. |
 | [[Mount Vulka]] | sacred volcano | Southern Ignahuatl sacred centre incorporated but not absorbed. |
 | [[Lake Tenekka]] | western lake | Western cultural region within the new Sentran order. |
@@ -86,13 +86,13 @@ The later councils, ministries, and House offices did not yet exist in their mat
 | Structure | Function |
 |---|---|
 | King’s command | Direct rule through Béorn’s authority. |
-| War companions WIP | Military followers and early captains. |
+| War companions  | Military followers and early captains. |
 | Regional submissions | Defeated or allied rulers brought under the new kingship. |
 | Local laws | Many older regional customs likely survived. |
 | Sacred legitimacy | Rosaria and Kacore gave the kingship more than military force. |
 | Founder household | Early root of later Bloodroyal and House structures. |
 | Oath network | Personal allegiance to Béorn before later institutionalized House law. |
-| Tribute and service | Practical submission through taxes, warriors, roads, stores, and hostages WIP. |
+| Tribute and service | Practical submission through taxes, warriors, roads, stores, and hostages . |
 
 ## Major Powers During the Reign
 
@@ -101,12 +101,12 @@ The later councils, ministries, and House offices did not yet exist in their mat
 | [[Béorn]] | ruling king | Supreme political and military authority. |
 | [[Rosaria]] | divine consort | Source of sacred legitimacy and Bloodroyal inheritance. |
 | [[Krova Kingkiller Yarrowgold]] | defeated rival | Last major rival king defeated at Twixtriver. |
-| Kazaros mountain powers WIP | incorporated / allied | Early mountain seats and clans absorbed into founder rule. |
-| Rhodokran elite WIP | incorporated / autonomous | Old lake-city power likely too useful to destroy. |
-| Tènnakkannin rulers WIP | incorporated / constrained | Western rulers brought under Sentran unity but culturally distinct. |
-| Ignahuatl authorities WIP | incorporated / protected | Southern fire religion likely retained autonomy. |
-| Great Pearl towns WIP | incorporated | Lake and river towns bound into tribute and transport systems. |
-| Early shield powers WIP | peripheral | Later island shield politics may begin here. |
+| Kazaros mountain powers  | incorporated / allied | Early mountain seats and clans absorbed into founder rule. |
+| Rhodokran elite  | incorporated / autonomous | Old lake-city power likely too useful to destroy. |
+| Tènnakkannin rulers  | incorporated / constrained | Western rulers brought under Sentran unity but culturally distinct. |
+| Ignahuatl authorities  | incorporated / protected | Southern fire religion likely retained autonomy. |
+| Great Pearl towns  | incorporated | Lake and river towns bound into tribute and transport systems. |
+| Early shield powers  | peripheral | Later island shield politics may begin here. |
 
 ## Béorn
 
@@ -115,7 +115,7 @@ The later councils, ministries, and House offices did not yet exist in their mat
 | Role | Founder king of Sentra. |
 | Born | [[2227 BHK]]. |
 | Known for | Unifying Sentra, defeating Krova, founding the line of Bloodroyals. |
-| Seat | [[Jeor’s Hall]] / [[Kacore]] sphere WIP. |
+| Seat | [[Jeor’s Hall]] / [[Kacore]] sphere . |
 | Consort | [[Rosaria]]. |
 | Children | [[Bloodroyals]]. |
 | Final event | Disappeared in [[2064 BHK]]. |
@@ -126,7 +126,7 @@ The later councils, ministries, and House offices did not yet exist in their mat
 | Category | Notes |
 |---|---|
 | Role | Divine consort of Béorn and mother of the Bloodroyals. |
-| Nature | Goddess bound to Sentra’s living landscape WIP. |
+| Nature | Goddess bound to Sentra’s living landscape . |
 | Political importance | Makes Béorn’s kingship sacred, not only military. |
 | Bloodroyal effect | Source of magical inheritance, longevity, and divine prestige. |
 | Later relevance | Bloodroyal houses use descent from Rosaria as political and magical legitimacy. |
@@ -137,7 +137,7 @@ The later councils, ministries, and House offices did not yet exist in their mat
 |---|---|
 | [[Krova Kingkiller Yarrowgold]] | Defeated rival king and founder of the later Yarrowgold legacy. |
 | [[Siege of Twixtriver]] | Decisive final victory of Béorn’s unification wars. |
-| [[Twixtriver]] | Strategic and symbolic battlefield site WIP. |
+| [[Twixtriver]] | Strategic and symbolic battlefield site . |
 | Result | Krova defeated; Béorn proclaimed King of Sentra the following year. |
 | Long-term consequence | Yarrowgold survives as southern rival memory and later island power. |
 
@@ -151,7 +151,7 @@ The kingship likely used different methods in different regions.
 |---|---|
 | Conquest | Against rival kings, warlords, and hostile strongholds. |
 | Alliance | With useful local rulers, towns, and military powers. |
-| Marriage and hostage ties WIP | To stabilize defeated houses and border regions. |
+| Marriage and hostage ties  | To stabilize defeated houses and border regions. |
 | Religious settlement | To avoid revolt in Ignahuatl and older sacred regions. |
 | Trade protection | To bring old cities such as Rhodokra into the new order. |
 | Road and pass control | To make unity practical beyond proclamation. |
@@ -170,7 +170,7 @@ The kingship likely used different methods in different regions.
 | [[Western Sentra]] | Incorporated but not culturally absorbed. |
 | [[Southern Sentra]] | Accepted formal rule while preserving Ignahuatl sacred authority. |
 | [[Moonhills]] | Passes and crossings became strategic state concerns. |
-| [[Sentran Shields]] | Early maritime defense or influence WIP. |
+| [[Sentran Shields]] | Early maritime defense or influence . |
 
 ## Military System
 
@@ -178,14 +178,14 @@ The military of Béorn’s kingship was built from war bands, defeated levies, r
 
 | Element | Function |
 |---|---|
-| Founder war band WIP | Core loyal military following. |
+| Founder war band  | Core loyal military following. |
 | Regional levies | Defeated and allied regions supplied fighters. |
 | Mountain fighters | Kazaros and highland forces. |
 | Lake and river boats | Great Pearl and river movement. |
 | Gate control | Early control of passes and roads. |
 | Garrisons | Held defeated forts, crossings, and towns. |
-| Hostages WIP | Secured defeated lineages. |
-| Road guards WIP | Kept the first unified routes usable. |
+| Hostages  | Secured defeated lineages. |
+| Road guards  | Kept the first unified routes usable. |
 
 ## Economic Base
 
@@ -235,8 +235,8 @@ They were not yet the later great houses. During Béorn’s life they were the f
 | [[Ella of House Santeber]] | Magical inheritance line. |
 | [[Donella]] | [[Rockgarden]] and ecological legacy. |
 | [[Frega the Defiant]] | [[Zarienel]] and northeastern branch. |
-| Krike WIP | [[Mages’ House]] and arcane institution. |
-| unnamed children WIP | Future expansion space. |
+| Krike  | [[Mages’ House]] and arcane institution. |
+| unnamed children  | Future expansion space. |
 
 ## Disappearance of Béorn
 

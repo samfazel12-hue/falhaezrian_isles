@@ -35,14 +35,6 @@ Brandt-descended but ideologically separate from Brandt eldest-line ambition.
 
 Mossdeep’s inconsistent banner is the point: the house chose a living forest over static dynastic certainty.
 
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-## What They Know
-
 ## How They Speak or Behave
 
 ## Tags

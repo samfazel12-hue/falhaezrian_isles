@@ -40,7 +40,7 @@ Eckard left Brandt ambition and spent formative time with Sycar in the [[Mosswoo
 
 ## Connections
 
-**Allied with:** Mossdeep WIP
+**Allied with:** Mossdeep 
 **In tension with:** anti-Brandt hardliners; houses suspicious of Brandt names
 **Cadet branches:** 
 **Parent line:** [[House Brandt]]

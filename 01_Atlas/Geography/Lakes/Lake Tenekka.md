@@ -7,7 +7,7 @@ One of the principal inland waters of western [[Sentra]]. It binds the settlemen
 
 ## Geography and Access
 
-The lake functions as a local movement and settlement anchor. Roads, ports, ferries, or river routes should be developed around it where needed.
+The lake functions as a local movement and settlement anchor, tying nearby roads, ferries, and settlements together.
 
 ## Strategic Value
 

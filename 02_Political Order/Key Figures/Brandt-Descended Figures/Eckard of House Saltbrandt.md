@@ -34,14 +34,6 @@ Brandt-descended but not reducible to Brandt rebellion.
 
 The fox on the Saltbrandt banner remembers his [[Mosswoods]] years, not the territory he later ruled.
 
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-## What They Know
-
 ## How They Speak or Behave
 
 ## Tags

@@ -32,14 +32,6 @@ Part of the founder generation, later important to [[House Mossdeep]] through Sy
 
 [[Deepwoodrest]] and the [[Mosswoods]] became his real inheritance.
 
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-## What They Know
-
 ## How They Speak or Behave
 
 ## Tags

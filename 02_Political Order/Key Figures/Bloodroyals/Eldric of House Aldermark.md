@@ -26,21 +26,13 @@ Founder of [[House Aldermark]], likely useful in shield-island politics.
 
 | Person | Relationship | Notes |
 |--------|-------------|-------|
-| Cedric | child | confirmed issue |
-| Eldan | child | confirmed issue |
-| Alda | child | confirmed issue |
+| Cedric | child | |
+| Eldan | child | |
+| Alda | child | |
 
 ## Legacy
 
 Aldermark can become the house that explains bayland and shield-island authority.
-
-## Wants
-
-## Fears
-
-## Leverage / Weakness
-
-## What They Know
 
 ## How They Speak or Behave
 

@@ -31,9 +31,5 @@ House property inside dwarven territory.
 **Controlled by:** 
 **Dependent on:** House legal claim, dwarven accommodation
 
-## Current Tensions
-
-Surface dwarves tolerate it, but the grievance has not disappeared.
-
 ## Tags
 #type/settlement #region/ulum-and-the-red-sea #affiliation

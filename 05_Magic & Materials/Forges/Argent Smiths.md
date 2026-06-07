@@ -31,7 +31,5 @@ Useful to The House and frontier forces.
 **Controlled by:** 
 **Dependent on:** silver, trained artificers, monster-hunter demand
 
-## Current Tensions
-
 ## Tags
 #type/settlement #region/béornic-heartland #affiliation

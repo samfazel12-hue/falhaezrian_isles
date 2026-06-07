@@ -26,11 +26,11 @@ Bound to [[Mount Vulka]], the [[Dragon War]], serpentglass, and the memory of th
 
 ## Priesthood / Institutions
 
-Priests, heat-workers, serpentglass craft lineages, caldera custodians WIP.
+Priests, heat-workers, serpentglass craft lineages, caldera custodians .
 
 ## Rituals and Taboos
 
-Likely taboos around careless flame, unlicensed descent, disrespect for gas/smoke, and misuse of serpentglass WIP.
+Likely taboos around careless flame, unlicensed descent, disrespect for gas/smoke, and misuse of serpentglass .
 
 ## Heresies or Rival Interpretations
 

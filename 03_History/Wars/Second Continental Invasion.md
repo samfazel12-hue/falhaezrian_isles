@@ -24,9 +24,7 @@ The Empire failed to secure a lasting foothold.
 
 ## Key Figures
 
-- [[High King]] WIP
-
-## Contradictions / Open Issues
+- [[High King]] 
 
 ## Who Benefited
 

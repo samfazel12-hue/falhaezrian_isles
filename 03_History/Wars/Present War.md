@@ -24,11 +24,7 @@ Centralization, restricted travel, port supervision, [[Kallindra]] overload, tax
 
 ## Key Figures
 
-- current [[High King]] WIP
-
-## Contradictions / Open Issues
-
-Current [[High King]] name and continental campaign geography need fixing.
+- current [[High King]] 
 
 ## Who Benefited
 

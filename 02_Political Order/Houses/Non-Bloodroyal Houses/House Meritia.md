@@ -37,7 +37,7 @@ Politically wounded but symbolically important, especially through the Meritian 
 
 ## Connections
 
-**Allied with:** [[House of Béorn]] WIP
+**Allied with:** [[House of Béorn]] 
 **In tension with:** [[House Godbrandt]]
 **Cadet branches:** Meritian displaced lines
 **Parent line:** [[Bloodroyals]]

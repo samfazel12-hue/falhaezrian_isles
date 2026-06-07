@@ -22,7 +22,7 @@ Technically subject to Sentran authority but practically independent in day-to-d
 
 - [[Mount Vulka]]
 - serpentglass workshops
-- fire pantheon temples WIP
+- fire pantheon temples 
 
 ## Key Figures
 
@@ -38,10 +38,6 @@ Bound to the [[Dragon War]], the volcanic underworld, and the [[Ignahuatl]] fire
 **Trade routes:** southern roads, volcanic approaches, serpentglass export routes
 **Controlled by:** [[Ignahuatl]] local authority under Sentran sovereignty
 **Dependent on:** serpentglass, volcanic heat-working, religious authority
-
-## Current Tensions
-
-The crown needs Culverno but cannot easily dominate it.
 
 ## Tags
 #type/settlement #region/southern-sentra #affiliation

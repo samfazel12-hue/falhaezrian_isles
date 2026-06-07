@@ -33,9 +33,5 @@ Merchant influence is entrenched here.
 **Controlled by:** 
 **Dependent on:** guild power, old harbour infrastructure
 
-## Current Tensions
-
-Rivalry with [[Newhaven]] and pressure from wartime inspections.
-
 ## Tags
 #type/settlement #region/kallindra #affiliation

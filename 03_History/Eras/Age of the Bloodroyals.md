@@ -1,10 +1,10 @@
 ﻿
 
-**Date:** c. [[2060 BHK]]–c. [[500 BHK]]  
-**Preceded by:** [[Kingship of Béorn]] / founder aftermath  
-**Followed by:** late Bloodroyal fragmentation and the [[Bloodroyal War]]  
-**Region:** [[Sentra]] and wider [[Falhaezrian Isles]]  
-**Political role:** founder-line age / dynastic expansion / institutional formation  
+**Date:** c. [[2060 BHK]]–c. [[500 BHK]]
+**Preceded by:** [[Kingship of Béorn]] / founder aftermath
+**Followed by:** late Bloodroyal fragmentation and the [[Bloodroyal War]]
+**Region:** [[Sentra]] and wider [[Falhaezrian Isles]]
+**Political role:** founder-line age / dynastic expansion / institutional formation
 
 ## Overview
 
@@ -67,21 +67,21 @@ Their father sent them forth from [[Jeor’s Hall]] beneath [[Kacore]] to establ
 | Bloodroyal | House / Legacy | Seat / Region | Notes |
 |---|---|---|---|
 | [[Brandt Beornson]] | [[House Brandt]] | [[Skystone]] originally | Eldest son; ancestor of Brandt line and later eldest-born claim. |
-| Sycar WIP | [[House Mossdeep]] / [[Stone Rest]] | [[Mosswoods]] edge | Son of Brandt; linked to Hadrik and Mossdeep material. |
-| Hadrik WIP | Brandt branch WIP | WIP | Son of Brandt; details open. |
-| Wolger WIP | [[House Godbrandt]] | [[Meritia]] later | Son of Brandt; line became Godbrandt. |
-| Eckard WIP | [[House Saltbrandt]] | [[Saltcliff]] / [[Rostcliff]] | Son of Brandt; line kept the Brandt name. |
+| Sycar  | [[House Mossdeep]] / [[Stone Rest]] | [[Mosswoods]] edge | Son of Brandt; linked to Hadrik and Mossdeep material. |
+| Hadrik  | Brandt branch | | Son of Brandt; details open. |
+| Wolger  | [[House Godbrandt]] | [[Meritia]] later | Son of Brandt; line became Godbrandt. |
+| Eckard  | [[House Saltbrandt]] | [[Saltcliff]] / [[Rostcliff]] | Son of Brandt; line kept the Brandt name. |
 | [[Gorman of Meritia]] | [[House Meritia]] | [[Meritia]] | Sacred and scholarly founder. |
 | [[Anders of Deepwoodrest]] | [[House Mossdeep]] influence | [[Deepwoodrest]] | Woodland founder line. |
 | [[Augus the Learned]] | [[Augulector Library]], [[Temple of Heurikissen]] | [[Meritia]] | Scholarly and sacred institutional founder. |
 | [[Alfrid the Forgeborn]] | [[House Sevensmiths]] | [[Sevensmiths]] | Forge founder and protector of refugees. |
 | [[Eldric of House Aldermark]] | [[House Aldermark]] | [[Larhorak]] / [[Kebris]] | Coastal and shield-island founder. |
 | [[Berkar Blackarrow]] | [[House Blackarrow]] | [[Arrowpoint]] | Conquered much of the eastern Kazaros. |
-| [[Ella of House Santeber]] | [[House Santeber]] | highlands WIP | Matriarchal magical inheritance line. |
+| [[Ella of House Santeber]] | [[House Santeber]] | highlands  | Matriarchal magical inheritance line. |
 | [[Donella]] | [[Rockgarden]] | [[Kazaros]] | Founder of Rockgarden and its ecological legacy. |
-| [[Frega the Defiant]] | Frega branch WIP | [[Zarienel]] | Northeastern branch still open. |
-| Krike WIP | [[Mages’ House]] | [[The Moody Rock]] | Daughter of Béorn; founder of arcane institution. |
-| unnamed daughters WIP | WIP | WIP | Known expansion space. |
+| [[Frega the Defiant]] | Frega branch  | [[Zarienel]] | Northeastern branch still open. |
+| Krike  | [[Mages’ House]] | [[The Moody Rock]] | Daughter of Béorn; founder of arcane institution. |
+| unnamed daughters | later branches | | Founder daughters whose lines are still remembered unevenly. |
 
 ## Major Bloodroyal Houses
 
@@ -90,14 +90,14 @@ Their father sent them forth from [[Jeor’s Hall]] beneath [[Kacore]] to establ
 | [[House Brandt]] | [[Brandt Beornson]] | [[Skystone]] originally | Eldest line; later defeated and exiled. |
 | [[House Meritia]] | [[Gorman of Meritia]] | [[Meritia]] | Sacred-scholarly island house. |
 | [[House Godbrandt]] | Wolger branch | [[Meritia]] later | Brandt-descended line that later controls Meritia. |
-| [[House Mossdeep]] | Anders / Sycar branch WIP | [[Deepwoodrest]] | Woodland house in the [[Mosswoods]]. |
+| [[House Mossdeep]] | Anders / Sycar branch  | [[Deepwoodrest]] | Woodland house in the [[Mosswoods]]. |
 | [[House Saltbrandt]] | Eckard branch | [[Saltcliff]], [[Rostcliff]] | Northern Brandt-descended line. |
 | [[House Blackarrow]] | [[Berkar Blackarrow]] | [[Arrowpoint]] / [[Kazaros]] | Mountain conquest and pass control. |
 | [[House Sevensmiths]] | [[Alfrid the Forgeborn]] | [[Sevensmiths]] | Forge house and refugee-smith legacy. |
-| [[House Aldermark]] | [[Eldric of House Aldermark]] | [[Larhorak]] / shield coast | Coastal and shield-island authority WIP. |
-| [[House Santeber]] | [[Ella of House Santeber]] | highlands WIP | Matriarchal magical inheritance. |
+| [[House Aldermark]] | [[Eldric of House Aldermark]] | [[Larhorak]] / shield coast | Coastal and shield-island authority . |
+| [[House Santeber]] | [[Ella of House Santeber]] | highlands  | Matriarchal magical inheritance. |
 | [[House Redbrandt-Redrock]] | Brandt-descended loyalist branch | [[Redcliff]] / royal memory | Postwar renamed line. |
-| Frega branch WIP | [[Frega the Defiant]] | [[Zarienel]] | Northeastern Sentran branch WIP. |
+| Frega branch  | [[Frega the Defiant]] | [[Zarienel]] | Northeastern Sentran branch . |
 
 ## Founder Geography
 
@@ -110,7 +110,7 @@ Their father sent them forth from [[Jeor’s Hall]] beneath [[Kacore]] to establ
 | [[Augulector Library]] | [[Meritia]] | Learned institution tied to [[Augus the Learned]]. |
 | [[Temple of Heurikissen]] | [[Meritia]] | Sacred institution tied to Meritian founder lines. |
 | [[Deepwoodrest]] | [[Mosswoods]] | Woodland seat of Mossdeep / Anders line. |
-| [[Stone Rest]] | Mosswoods edge | Built by Sycar for Hadrik WIP. |
+| [[Stone Rest]] | Mosswoods edge | Built by Sycar for Hadrik . |
 | [[Sevensmiths]] | [[Kazaros]] | Forge settlement tied to Alfrid. |
 | [[Arrowpoint]] | [[Kazaros]] | Seat of House Blackarrow. |
 | [[Bloodhorn]] | [[Kazaros]] | Blackarrow cadet branch castle. |
@@ -191,7 +191,7 @@ Bloodroyal longevity shaped the whole era.
 | [[Ulum]] | Later Redcliff and tunnel politics grow from post-Bloodroyal consequences. |
 | [[Western Sentra]] | Less fully integrated, contributing to later legitimacy problems. |
 | [[Southern Sentra]] | Ignahuatl autonomy remains distinct from Bloodroyal order. |
-| [[Kallindra]] | Later council and port institutions inherit Bloodroyal-era structures WIP. |
+| [[Kallindra]] | Later council and port institutions inherit Bloodroyal-era structures . |
 
 ## Key Bloodroyal Branches
 
@@ -200,7 +200,7 @@ Bloodroyal longevity shaped the whole era.
 | Branch | Founder / Root | Notes |
 |---|---|---|
 | [[House Brandt]] | [[Brandt Beornson]] | Eldest line, originally tied to [[Skystone]]. |
-| Mossdeep branch | Sycar / Anders WIP | Woodland branch around [[Deepwoodrest]]. |
+| Mossdeep branch | Sycar / Anders  | Woodland branch around [[Deepwoodrest]]. |
 | Godbrandt branch | Wolger | Later controls [[Meritia]]. |
 | Saltbrandt branch | Eckard | Keeps Brandt name after the war. |
 | Redbrandt / Redrock branch | Brandt-descended loyalist line | Renamed after the Bloodroyal War. |
@@ -216,7 +216,7 @@ Bloodroyal longevity shaped the whole era.
 | Santeber | [[Ella of House Santeber]] | Magical inheritance, especially through women. |
 | Donella legacy | [[Donella]] | Rockgarden, ecology, and waycastle culture. |
 | Frega branch | [[Frega the Defiant]] | Northeastern settlement legacy. |
-| Krike legacy | Krike WIP | Mages’ House and arcane institution. |
+| Krike legacy | Krike  | Mages’ House and arcane institution. |
 
 ## Causes of Later Collapse
 

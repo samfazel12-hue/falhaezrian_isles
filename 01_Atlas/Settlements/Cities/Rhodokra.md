@@ -1,6 +1,6 @@
-﻿**Region:** [[Great Pearl Basin]]  
-**Type:** city  
-**Status:** active  
+﻿**Region:** [[Great Pearl Basin]]
+**Type:** city
+**Status:** active
 
 ## Overview
 
@@ -37,9 +37,9 @@ The half-elven ruling houses control trade contracts, warehouses, market rights,
 - [[Leathermans Square]]
 - [[Jewel Plaza]]
 - [[Hall of Gods]]
-- lake quays WIP
-- merchant house courts WIP
-- contract halls WIP
+- lake quays 
+- merchant house courts 
+- contract halls 
 
 ## Key Figures
 
@@ -53,16 +53,10 @@ The city expanded through trade rather than conquest. Its old families gained po
 
 ## Connections
 
-**Linked settlements:** [[Bastel]], [[Bearhaven]], [[Kallindra]], [[Great Pearl]]  
-**Trade routes:** lake trade, river trade, inland redistribution  
-**Controlled by:** half-elven ruling elite / local urban order  
-**Dependent on:** grain, timber, metal supply corridors, lake traffic  
-
-## Current Tensions
-
-The present war makes Rhodokra’s autonomy more sensitive. Crown agents need its routes and stores, while local houses profit from delay, contracts, and controlled scarcity.
-
-Rhodokra’s ruling structure, old temple authority, and exact relation to the crown remain open.
+**Linked settlements:** [[Bastel]], [[Bearhaven]], [[Kallindra]], [[Great Pearl]]
+**Trade routes:** lake trade, river trade, inland redistribution
+**Controlled by:** half-elven ruling elite / local urban order
+**Dependent on:** grain, timber, metal supply corridors, lake traffic
 
 ## Tags
 #type/settlement #region/great-pearl-basin #affiliation

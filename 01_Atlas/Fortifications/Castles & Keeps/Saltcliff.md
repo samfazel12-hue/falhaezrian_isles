@@ -31,9 +31,5 @@ Saltbrandt seat with Brandt-descended memory.
 **Controlled by:** 
 **Dependent on:** strait traffic and house authority
 
-## Current Tensions
-
-The Saltbrandt name keeps Brandt memory alive after others discarded it.
-
 ## Tags
 #type/settlement #region/ulum-and-the-red-sea #affiliation

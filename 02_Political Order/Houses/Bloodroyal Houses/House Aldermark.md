@@ -19,7 +19,7 @@ Coastal, maritime, and politically useful if developed.
 
 ## Dynastic Structure
 
-Eldric’s confirmed issue includes Cedric, Eldan, and Alda.
+Eldric’s includes Cedric, Eldan, and Alda.
 
 ## Political Position
 
@@ -30,9 +30,9 @@ Likely tied to eastern shield politics and coastal administration.
 | Name | Role | Status | Notes |
 |------|------|--------|-------|
 | [[Eldric of House Aldermark]] | founder | dead | Bloodroyal son |
-| Cedric | child | WIP | confirmed issue |
-| Eldan | child | WIP | confirmed issue |
-| Alda | child | WIP | confirmed issue |
+| Cedric | child | | |
+| Eldan | child | | |
+| Alda | child | | |
 
 ## History
 
@@ -40,7 +40,7 @@ Eldric made his mark on [[Larhorak]], where [[Kebris]] became the largest city i
 
 ## Connections
 
-**Allied with:** [[House of Béorn]] WIP
+**Allied with:** [[House of Béorn]] 
 **In tension with:** 
 **Cadet branches:** 
 **Parent line:** [[Bloodroyals]]

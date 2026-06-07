@@ -5,7 +5,7 @@
 
 ## Banner
 
-WIP. Should probably emphasize eldest-line severity, mountain legitimacy, and lost [[Skystone]].
+. Should probably emphasize eldest-line severity, mountain legitimacy, and lost [[Skystone]].
 
 ## Overview
 

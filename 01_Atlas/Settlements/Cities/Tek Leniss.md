@@ -37,9 +37,5 @@ Massacred in the western retaliations. The [[Gulf of Lennis]] ran red.
 **Controlled by:** formerly local [[Tènnakkannin]] rulers
 **Dependent on:** none or ruined
 
-## Current Tensions
-
-Its destruction remains politically poisonous.
-
 ## Tags
 #type/settlement #region/western-sentra #affiliation

@@ -21,8 +21,8 @@ Protected by the House during the retaliation because the [[Duke of Tenekka]] re
 ## Key Locations
 
 - old wooden pre-Béornic districts
-- local religious sites WIP
-- ducal records WIP
+- local religious sites 
+- ducal records 
 
 ## Key Figures
 
@@ -38,10 +38,6 @@ Spared when much of the west burned. Now carries what the other western cities l
 **Trade routes:** [[Lake Tenekka]] routes, western local roads
 **Controlled by:** [[Duke of Tenekka]] / local [[Tènnakkannin]] authority
 **Dependent on:** old culture, records, lake economy
-
-## Current Tensions
-
-Seen by some westerners as survivor, collaborator, or sacred remnant depending on politics.
 
 ## Tags
 #type/settlement #region/western-sentra #affiliation

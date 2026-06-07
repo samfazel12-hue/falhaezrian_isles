@@ -27,8 +27,6 @@ Krova’s southern survival created [[Yarrowgold]] and a long-term counterweight
 - [[Béorn]]
 - [[Krova “Kingkiller” Yarrowgold]]
 
-## Contradictions / Open Issues
-
 ## Who Benefited
 
 [[Béorn]] in [[Sentra]]; Krova in the sense that he survived to found a new kingdom.

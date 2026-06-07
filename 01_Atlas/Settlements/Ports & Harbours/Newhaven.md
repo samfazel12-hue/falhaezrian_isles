@@ -33,9 +33,5 @@ Formal commerce and criminal power overlap.
 **Controlled by:** 
 **Dependent on:** dock labour, informal protection networks
 
-## Current Tensions
-
-War controls make Newhaven more profitable and more dangerous.
-
 ## Tags
 #type/settlement #region/kallindra #affiliation

@@ -34,22 +34,6 @@ Founder-line authority in the mountains; likely loyal to his own vision of order
 
 His conquest created Blackarrow power but also long mountain scars.
 
-## Wants
-
-To control the eastern [[Kazaros]].
-
-## Fears
-
-Campaign failure, clan resistance, being outshone by other [[Bloodroyals]].
-
-## Leverage / Weakness
-
-The cost of [[Glacier’s Edge]] stained or weakened him.
-
-## What They Know
-
-Mountain campaigns and valley politics.
-
 ## How They Speak or Behave
 
 Harsh, commanding, little patience.

@@ -1,9 +1,9 @@
+﻿
 
-
-**Parent region:**  
-**Controlled by:** [[High King]] / [[House of Béorn]]  
-**Primary terrain:** archipelago; central seas, shield islands, mountain islands, lake basins, ports, straits, contested coasts  
-**Political role:** united maritime realm / island state / anti-Continental coalition  
+**Parent region:**
+**Controlled by:** [[High King]] / [[House of Béorn]]
+**Primary terrain:** archipelago; central seas, shield islands, mountain islands, lake basins, ports, straits, contested coasts
+**Political role:** united maritime realm / island state / anti-Continental coalition
 
 ## Overview
 
@@ -36,44 +36,44 @@ The Isles are unified by sea routes, councils, shared enemies, old oaths, port c
 | [[Sentra]] | core island | active / central | Seat of the House order, High Kingship, mountain redoubts, old cultural regions, and inland supply systems. |
 | [[Kallindra]] | city / capital-region | active / central | Port system, administration, [[Second High House Council]], war logistics. |
 | [[Sentran Shields]] | island field | active / defensive | Maritime shield around Sentra and Kallindra. |
-| [[Ulum]] | northern dwarven island | semi-autonomous / allied WIP | Surface dwarven contact, Red Mountains, deep routes, House enclaves. |
+| [[Ulum]] | northern dwarven island | semi-autonomous / allied  | Surface dwarven contact, Red Mountains, deep routes, House enclaves. |
 | [[Red Sea of Ulum]] | northern sea | active / frontier | Cold water between Sentra and Ulum; straits, ice, tunnel politics. |
-| [[Western Isles]] | western archipelago WIP | underdeveloped / fractured WIP | Western island powers, Brandt branches, coastal autonomy, possible secession politics. |
-| [[Southern Isles]] | southern archipelago WIP | contested / mixed | [[Yarrowgold]], [[Surgemark]], southern sea lanes, naval rivalry. |
-| [[Northern Isles]] | northern archipelago WIP | underdeveloped | Cold islands, fishing, whaling, winter routes, Ulum-facing waters. |
-| [[Outer Isles]] | distant island field WIP | loose / frontier | Outlying islands, pirate shelter, old exile sites, minor polities. |
+| [[Western Isles]] | western archipelago  | loosely held / fractured  | Western island powers, Brandt branches, coastal autonomy, possible secession politics. |
+| [[Southern Isles]] | southern archipelago  | contested / mixed | [[Yarrowgold]], [[Surgemark]], southern sea lanes, naval rivalry. |
+| [[Northern Isles]] | northern archipelago  | sparsely settled | Cold islands, fishing, whaling, winter routes, Ulum-facing waters. |
+| [[Outer Isles]] | distant island field  | loose / frontier | Outlying islands, pirate shelter, old exile sites, minor polities. |
 | [[Continental Coast]] | external region | hostile / enemy-facing | Mainland front, invasion routes, counter-invasion history. |
 
 ## Major Island Groups
 
 | Island group | Islands / sites | Notes |
 |---|---|---|
-| [[Sentran Core]] WIP | [[Sentra]], [[Meritia]], [[Great Pearl]] islands WIP | Main inland and political core. |
+| [[Sentran Core]]  | [[Sentra]], [[Meritia]], [[Great Pearl]] islands  | Main inland and political core. |
 | [[Sentran Shields]] | [[Larhorak]], [[Amberhorn]], [[Raventide]], [[The Moody Rock]], [[The Lonely Rock]], [[King's Rest]] | Eastern defensive and maritime field. |
 | [[Ulum and the Red Sea]] | [[Ulum]], [[Redcliff]], [[Deep Ulum]], [[Red Sea of Ulum]] | Northern dwarven frontier and tunnel politics. |
 | [[Southern Isles]] | [[Yarrowgold]], [[Surgemark]], [[Kellavir]], [[Grimmermark]], [[Archvikport]], [[Wrackholm]] | Southern powers and contested naval approaches. |
-| [[Western Isles]] WIP | [[Western Shield Islands]] WIP, [[Brandt Isles]] WIP, [[Stormwake Isles]] WIP | Future western political and maritime structure. |
-| [[Northern Isles]] WIP | [[Frostwake Isles]] WIP, [[Whalebone Isles]] WIP, [[Grey Lantern Isles]] WIP | Future cold-water island field. |
-| [[Outer Isles]] WIP | [[Lonely Outliers]] WIP, [[Pirate Stones]] WIP, [[Old Exile Isles]] WIP | Future loose fringe, exile, piracy, and forgotten settlement zones. |
+| [[Western Isles]]  | [[Western Shield Islands]] , [[Brandt Isles]] , [[Stormwake Isles]]  | Future western political and maritime structure. |
+| [[Northern Isles]]  | [[Frostwake Isles]] , [[Whalebone Isles]] , [[Grey Lantern Isles]]  | Future cold-water island field. |
+| [[Outer Isles]]  | [[Lonely Outliers]] , [[Pirate Stones]] , [[Old Exile Isles]]  | Future loose fringe, exile, piracy, and forgotten settlement zones. |
 
 ## Major Islands
 
 | Island                                | Region                               | Status                       | Function                                                                  |
 | ------------------------------------- | ------------------------------------ | ---------------------------- | ------------------------------------------------------------------------- |
 | [[Sentra]]                            | [[Eastern Isles]]                    | active / central             | Core island of the realm.                                                 |
-| [[Ulum]]                              | [[Eastern Isles]] / north            | active / semi-autonomous WIP | Dwarven island, Red Mountains, deep underworld, House-Ulum relations.     |
+| [[Ulum]]                              | [[Eastern Isles]] / north            | active / semi-autonomous  | Dwarven island, Red Mountains, deep underworld, House-Ulum relations.     |
 | [[Larhorak]]                          | [[Sentran Shields]]                  | active                       | Largest Shield island; holds [[Kebris]].                                  |
 | [[Amberhorn]]                         | [[Sentran Shields]]                  | active                       | Small Shield island; holds [[Clawpoint]].                                 |
 | [[Raventide]]                         | [[Sentran Shields]]                  | active                       | Island off Kallindra; holds [[Crowsnest]].                                |
 | [[The Moody Rock]]                    | [[Sentran Shields]] / House property | active / special             | Home of the [[Mages’ House]], formally outside SDS military use.          |
-| [[The Lonely Rock]]                   | far eastern Shields                  | active / scarred WIP         | Sacked during the [[Second Continental Invasion]], used as Imperial base. |
+| [[The Lonely Rock]]                   | far eastern Shields                  | active / scarred          | Sacked during the [[Second Continental Invasion]], used as Imperial base. |
 | [[King's Rest]]                       | [[Sentran Shields]]                  | active / royal               | Holds [[Daran’s Tower]].                                                  |
 | [[Meritia]]                           | [[Great Pearl]]                      | active / contested sacred    | Sacred and scholarly lake island under [[House Godbrandt]].               |
 | [[Yarrowgold]]                        | [[Southern Isles]]                   | active / rival kingdom       | Southern island kingdom founded in Krova’s legacy.                        |
 | [[Surgemark]]                         | [[Southern Isles]]                   | contested                    | Crescent island and naval base in the [[Surgewater Gulf]].                |
-| [[Lonely Rock]] / [[The Lonely Rock]] | [[Sentran Shields]]                  | duplicate naming WIP         | Keep one canonical title.                                                 |
-| [[Moody Rock]] / [[The Moody Rock]]   | [[Sentran Shields]]                  | duplicate naming WIP         | Keep one canonical title.                                                 |
-| [[Amberhollow]]                       | WIP                                  | active WIP                   | Bees, honey, honey-brewed beer, rare flowers, [[Buzzingtree]].            |
+| [[Lonely Rock]] / [[The Lonely Rock]] | [[Sentran Shields]]                  | duplicate naming          | Keep one canonical title.                                                 |
+| [[Moody Rock]] / [[The Moody Rock]]   | [[Sentran Shields]]                  | duplicate naming          | Keep one canonical title.                                                 |
+| [[Amberhollow]] | | active                   | Bees, honey, honey-brewed beer, rare flowers, [[Buzzingtree]].            |
 | [[Raventide]]                         | [[Sentran Shields]]                  | active                       | Kallindran maritime approach island.                                      |
 
 ## Political Order
@@ -87,15 +87,15 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[First High House Council]] | Béornic land in the north | High chamber of approval, counsel, continuity, and constitutional memory. |
 | [[Second High House Council]] | [[Kallindra]] | Larger elective and ministerial chamber; law, taxation, ministries, administration. |
 | [[First Minister]] | [[Kallindra]] / [[Second High House Council|Second House]] | Coordinates ministries and civil government. |
-| [[Ministry of War Supply]] WIP | [[Kallindra]] | Military provisioning, requisition, logistics. |
-| [[Ministry of Ports]] WIP | [[Kallindra]] | Port restrictions, customs, naval inspection. |
-| [[Ministry of Roads]] WIP | [[Kallindra]] / inland offices | Roads, bridges, gates, movement permits. |
-| [[Ministry of Treasury]] WIP | [[Kallindra]] | Taxation, customs income, war finance. |
-| [[Ministry of Education]] WIP | Kallindra / Meritia / House schools | Schools, libraries, training, scholar offices. |
-| [[Ministry of Internal Order]] WIP | Kallindra / regional offices | Policing, unrest, emergency law, civil discipline. |
+| [[Ministry of War Supply]]  | [[Kallindra]] | Military provisioning, requisition, logistics. |
+| [[Ministry of Ports]]  | [[Kallindra]] | Port restrictions, customs, naval inspection. |
+| [[Ministry of Roads]]  | [[Kallindra]] / inland offices | Roads, bridges, gates, movement permits. |
+| [[Ministry of Treasury]]  | [[Kallindra]] | Taxation, customs income, war finance. |
+| [[Ministry of Education]]  | Kallindra / Meritia / House schools | Schools, libraries, training, scholar offices. |
+| [[Ministry of Internal Order]]  | Kallindra / regional offices | Policing, unrest, emergency law, civil discipline. |
 | [[Port Authorities]] | Kallindra and major harbours | Customs, docking rights, inspections, harbour chains. |
-| [[Royal Navy]] WIP | Kallindra / shield ports | Sea control, convoy protection, anti-pirate operations. |
-| [[SDS]] / [[Sentran Defensive Shields]] WIP | [[Sentran Shields]] | Formal defensive island system WIP. |
+| [[Royal Navy]]  | Kallindra / shield ports | Sea control, convoy protection, anti-pirate operations. |
+| [[SDS]] / [[Sentran Defensive Shields]]  | [[Sentran Shields]] | Formal defensive island system . |
 
 ## Constitutional Structure
 
@@ -103,8 +103,8 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 |---|---:|---|---|
 | [[High King]] | 1 | recognized successor of [[House of Béorn]] | Royal authority, supreme military command, emergency powers. |
 | [[First High House Council]] | 88 | chosen and approached for elevation | Approval, restraint, counsel, continuity, high law. |
-| [[Second High House Council]] | 400 constitutional / 300 current WIP | free election tied to landholding or recognized employment | Lawmaking, ministries, taxation, civil administration. |
-| Ministers of the Realm | drawn from [[Second High House Council|Second House]] | appointed / elected WIP | War supply, ports, treasury, education, roads, internal order. |
+| [[Second High House Council]] | 400 constitutional / 300 current  | free election tied to landholding or recognized employment | Lawmaking, ministries, taxation, civil administration. |
+| Ministers of the Realm | drawn from [[Second High House Council|Second House]] | appointed / elected  | War supply, ports, treasury, education, roads, internal order. |
 | Regional authorities | varied | local law, charters, house rights | Local governance under wider House sovereignty. |
 
 ## Political Principles
@@ -127,27 +127,27 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[House Wilgenfal]] | [[Stonegate]] | loyal / major | Post-Bloodroyal military legitimacy. |
 | [[House Blackarrow]] | [[Arrowpoint]] | loyal / difficult | Eastern Kazaros pass and valley power. |
 | [[House Sevensmiths]] | [[Sevensmiths]] | loyal / forge power | Armour, rare metals, refugee-smith legacy. |
-| [[House Mossdeep]] | [[Deepwoodrest]] | semi-autonomous WIP | Woodland authority and Brandt-descended alternative identity. |
+| [[House Mossdeep]] | [[Deepwoodrest]] | semi-autonomous  | Woodland authority and Brandt-descended alternative identity. |
 | [[House Godbrandt]] | [[Meritia]] | House-aligned / contested | Sacred custody and disputed control over Meritia. |
 | [[House Meritia]] | displaced / Meritian claim | dispossessed | Sacred-scholarly legitimacy and grievance. |
 | [[House Saltbrandt]] | [[Saltcliff]] / [[Rostcliff]] | Brandt-descended | Northern choke point and Brandt-name survivor line. |
 | [[House Redbrandt-Redrock]] | [[Redcliff]] / royal memory | loyalist / awkward | Brandt-descended loyalist line, Ulum enclave. |
-| [[House Aldermark]] | Larhorak / Kebris WIP | Bloodroyal WIP | Shield island and coastal authority. |
-| [[House Santeber]] | highlands WIP | Bloodroyal WIP | Matriarchal magical inheritance and highland politics. |
-| [[House Lethoven]] | [[Let]] boundary WIP | minor / local WIP | Known through river boundary with Mossdeep. |
+| [[House Aldermark]] | Larhorak / Kebris  | Bloodroyal  | Shield island and coastal authority. |
+| [[House Santeber]] | highlands  | Bloodroyal  | Matriarchal magical inheritance and highland politics. |
+| [[House Lethoven]] | [[Let]] boundary  | minor / local  | Known through river boundary with Mossdeep. |
 | Rhodokran ruling houses | [[Rhodokra]] | autonomous urban elite | Trade, contracts, debt, warehouses, lake traffic. |
 | Kallindran guilds | [[Kallindra]] | civic-commercial | Trade, finance, contracts, port power. |
 | Surface dwarves of [[Ulum]] | [[Ulum]] | allied / separate | Tunneling, roadstone, metalwork, northern frontier. |
 | [[Yarrowgold]] crown | [[Yarrowgold]] | rival / southern kingdom | Southern island kingdom, golden-hulled ships, Surgemark dispute. |
-| Western local powers WIP | [[Western Isles]] / [[Western Sentra]] | fractured WIP | Secession, old resentment, representation crisis. |
-| Pirate forces | outer seas / hidden ports WIP | hostile / deniable | Commerce raiding, Continental pressure, Port War. |
+| Western local powers  | [[Western Isles]] / [[Western Sentra]] | fractured  | Secession, old resentment, representation crisis. |
+| Pirate forces | outer seas / hidden ports  | hostile / deniable | Commerce raiding, Continental pressure, Port War. |
 | [[Continental Empire]] | Continent | hostile | External enemy, invasion threat, political justification for centralization. |
 
 ## Major Cities and Settlements
 
 | Settlement | Region | Type | Function |
 |---|---|---|---|
-| [[Kallindra]] | [[Eastern Isles]] / [[Sentra]] WIP | city / capital-region | Major port system, administration, [[Second High House Council|Second House]], war logistics. |
+| [[Kallindra]] | [[Eastern Isles]] / [[Sentra]]  | city / capital-region | Major port system, administration, [[Second High House Council|Second House]], war logistics. |
 | [[Rhodokra]] | [[Great Pearl Basin]] | city | Old lake-town, trade hub, half-elven mercantile elite. |
 | [[Kebris]] | [[Larhorak]] | city | Largest city in the Sentran Shields; former city-state. |
 | [[Bastel]] | [[Central Sentra]] | town | Inland distribution point at river confluence. |
@@ -163,7 +163,7 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[Hyrcsis]] | [[Sentran Breadbasket]] | town | Agricultural settlement, vineyards, flood avoidance. |
 | [[Lakewatch]] | [[Central Sentra]] | forest settlement | Isolated remnant forest community. |
 | [[Last Stand]] | [[Southern Sentra]] | settlement / battlefield | Ignahuatl memory-site at the Broken Forest. |
-| [[Kellavir]] | [[Yarrowgold]] | capital city | Capital of Yarrowgold WIP. |
+| [[Kellavir]] | [[Yarrowgold]] | capital city | Capital of Yarrowgold . |
 | [[Grimmermark]] | [[Yarrowgold]] | capital seat / fortress city | Krova’s ancient seat and Dead Queen throne. |
 | [[Archvikport]] | [[Surgemark]] | port | Naval base support, repair, provisioning. |
 | [[Redcliff]] | [[Ulum]] | fortress settlement / enclave | House property on Ulum and political irritant. |
@@ -200,12 +200,12 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[Rostcliff]] | [[Kazaros]] | Saltbrandt branch | Older Saltbrandt seat. |
 | [[Saltcliff]] | northern coast / strait | [[House Saltbrandt]] | Seat over [[Strait of Brandt]]. |
 | [[Deepwoodrest]] | [[Mosswoods]] | [[House Mossdeep]] | Woodland seat and forest-control centre. |
-| [[Stone Rest]] | Mosswoods edge | Brandt-descended WIP | Built by Sycar for Hadrik. |
+| [[Stone Rest]] | Mosswoods edge | Brandt-descended  | Built by Sycar for Hadrik. |
 | [[Daran’s Tower]] | [[King's Rest]] | Redrock / royal line | Royal palace-fortress. |
 | [[Clawpoint]] | [[Amberhorn]] | Shield authorities | Fort, lighthouse, watchtower, wildlife reserve. |
 | [[Crowsnest]] | [[Raventide]] | Kallindran / House-aligned | Lighthouse and watchtower over Bay of Kashti. |
 | [[The Sentry]] | off [[Larhorak]] | Shield authorities | Watchtower and lighthouse. |
-| [[Wrackholm]] | [[Surgemark]] | Sentra / Yarrowgold WIP | Naval base fortification. |
+| [[Wrackholm]] | [[Surgemark]] | Sentra / Yarrowgold  | Naval base fortification. |
 | [[Redcliff]] | [[Ulum]] | House enclave | Fortress settlement inside dwarven territory. |
 
 ## Major Geographic Features
@@ -226,7 +226,7 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[Salt Pines]] | forest | northeastern Sentra | Herbs, oils, smoke, ritual work, ancient magic. |
 | [[Bürkenbog]] | bog | Great Pearl edge | Dark birch wetland and movement hazard. |
 | [[Sandy Marshes]] | marshes | northwest Sentra | Poison frogs, mangroves, reeds, shifting shallows. |
-| [[Red Mountains]] WIP | mountains | [[Ulum]] | Dwarven mountain world. |
+| [[Red Mountains]]  | mountains | [[Ulum]] | Dwarven mountain world. |
 | [[Deep Ulum]] | underworld | [[Ulum]] | Duergar/deep dwarven world. |
 | [[Surgewater Gulf]] | gulf | southern waters | Surgemark and southern approach. |
 | [[Red Sea of Ulum]] | sea | north | Cold sea between Sentra and Ulum. |
@@ -245,16 +245,16 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[Red Sea of Ulum]] | sea | north | Cold northern maritime frontier. |
 | [[Strait of Brandt]] | strait | north | Choke point between Sentra and Ulum. |
 | [[Gulf of Lennis]] | gulf | western Sentra | Western memory and Tek Leniss massacre. |
-| [[Gulf of Kallin]] | gulf | Kallindra | Maritime approach WIP. |
+| [[Gulf of Kallin]] | gulf | Kallindra | Maritime approach . |
 | [[Bay of Kashti]] | bay | Kallindra approaches | Guarded by [[Crowsnest]]. |
 | [[Surgewater Gulf]] | gulf | south | Surgemark and southern approach. |
 | [[Vulkan Gulf]] | gulf | southern Sentra | Vulka / Ignahuatl sea access. |
 | [[Strait of Honindra]] | strait | eastern waters | Battle of Honindra memory. |
-| [[Red Strait]] | strait | eastern waters WIP | Role open. |
-| [[Gulf of Amber]] | gulf | south/east WIP | Role open. |
-| [[Gulf of Trilhoz]] | gulf | south/east WIP | Role open. |
-| [[King's Bay]] | bay | southern/eastern WIP | Role open. |
-| [[Marlin Gulf]] | gulf | map WIP | Role open. |
+| [[Red Strait]] | strait | eastern waters  | Role open. |
+| [[Gulf of Amber]] | gulf | south/east  | Role open. |
+| [[Gulf of Trilhoz]] | gulf | south/east  | Role open. |
+| [[King's Bay]] | bay | southern/eastern  | Role open. |
+| [[Marlin Gulf]] | gulf | map  | Role open. |
 
 ## Routes and Corridors
 
@@ -271,13 +271,13 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[Bloody Pass Route]] | mountain route | Route associated with Bloodhorn and eastern movement. |
 | [[Saronago Trade Route]] | lake / river route | [[Great Pearl Basin]] to [[Kallindra]]. |
 | [[Eastern Road]] | road | Kallindra toward [[Eastgate]] and eastern routes. |
-| [[Shield Road]] | road | Shieldward route system WIP. |
-| [[Great Pearl Lake Routes]] WIP | lake route | Rhodokra, Bearhaven, Meritia, lake ports. |
-| [[Red Sea Crossings]] WIP | sea route | Sentra to Ulum. |
-| [[Shield Sea Lanes]] WIP | sea route | Kallindra, Larhorak, Amberhorn, Raventide, Shield stations. |
-| [[Southern Convoy Route]] WIP | sea route | Kallindra to Surgemark, Yarrowgold waters, southern ports. |
-| [[Western Coastal Route]] WIP | sea route | Western Sentra and Western Isles. |
-| [[Outer Pirate Channels]] WIP | sea route | Hidden island channels used by pirates. |
+| [[Shield Road]] | road | Shieldward route system . |
+| [[Great Pearl Lake Routes]]  | lake route | Rhodokra, Bearhaven, Meritia, lake ports. |
+| [[Red Sea Crossings]]  | sea route | Sentra to Ulum. |
+| [[Shield Sea Lanes]]  | sea route | Kallindra, Larhorak, Amberhorn, Raventide, Shield stations. |
+| [[Southern Convoy Route]]  | sea route | Kallindra to Surgemark, Yarrowgold waters, southern ports. |
+| [[Western Coastal Route]]  | sea route | Western Sentra and Western Isles. |
+| [[Outer Pirate Channels]]  | sea route | Hidden island channels used by pirates. |
 
 ## Cultural and Species Groups
 
@@ -289,13 +289,13 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | Rhodokran half-elven elite | [[Rhodokra]] | Urban mercantile ruling families. |
 | Kallindran civic population | [[Kallindra]] | Guilds, dockworkers, officials, sailors, smugglers, soldiers. |
 | Surface dwarves of [[Ulum]] | Ulum / northern routes | Mining, roadstone, tunnels, surface cooperation. |
-| Deep dwarves / duergar WIP | [[Deep Ulum]] | Dangerous underworld peoples. |
+| Deep dwarves / duergar  | [[Deep Ulum]] | Dangerous underworld peoples. |
 | Shield islanders | Sentran Shields | Lighthouses, pilots, fishing, maritime defense. |
-| Yarrowgold islanders | [[Yarrowgold]] | Southern kingdom culture WIP. |
-| Western islanders WIP | [[Western Isles]] | Local autonomy, sea clans, old House resentment WIP. |
-| Northern islanders WIP | [[Northern Isles]] | Cold-water fisheries, winter navigation WIP. |
-| Dragonborn WIP | post-Dragon War | Charged possibility, not normal population. |
-| Continental captives / returnees WIP | Lonely Rock / war regions | Enslavement, return, missing families, records. |
+| Yarrowgold islanders | [[Yarrowgold]] | Southern kingdom culture . |
+| Western islanders  | [[Western Isles]] | Local autonomy, sea clans, old House resentment . |
+| Northern islanders  | [[Northern Isles]] | Cold-water fisheries, winter navigation . |
+| Dragonborn  | post-Dragon War | Charged possibility, not normal population. |
+| Continental captives / returnees  | Lonely Rock / war regions | Enslavement, return, missing families, records. |
 
 ## Religion and Sacred Geography
 
@@ -307,11 +307,11 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[Mount Vulka Underdark Entrance]] | Southern Sentra | Chthonic sacred / underworld link. |
 | [[Temple of Heurikissen]] | Meritia | Sacred site on the lake island. |
 | [[Augulector Library]] | Meritia | Learned and sacred institution. |
-| [[Old Rhodokran Temple District]] WIP | Rhodokra | Pre-Béornic sacred core. |
+| [[Old Rhodokran Temple District]]  | Rhodokra | Pre-Béornic sacred core. |
 | [[Last Stand]] | Southern Sentra | Ignahuatl battlefield and memory-site. |
 | [[Dead Queen Throne]] | Yarrowgold | Krova’s throne built from the Dead Queen’s hull. |
-| [[Obsidian Bones]] | southern volcanic WIP | Named feature; religious role open. |
-| [[Sunny Hill]] | Central Sentra | Protected ecological hill, possible local sacred site WIP. |
+| [[Obsidian Bones]] | southern volcanic  | Named feature; religious role open. |
+| [[Sunny Hill]] | Central Sentra | Protected ecological hill, possible local sacred site . |
 | [[Salt Pines]] | northeastern Sentra | Ritual work, herbs, oils, smoke, ancient magic. |
 
 ## Magical and Scholarly Institutions
@@ -321,10 +321,10 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[Mages’ House]] | [[The Moody Rock]] | Arcane institution founded by Krike. |
 | [[Augulector Library]] | [[Meritia]] | Scholarly archive and sacred learning centre. |
 | [[Temple of Heurikissen]] | [[Meritia]] | Sacred institution with scholarly overlap. |
-| [[Rockgarden Biology Faculty]] WIP | [[Rockgarden]] | Biodiversity and academic use inside waycastle. |
-| [[Kallindran Schools]] WIP | [[Kallindra]] | Education and administrative training WIP. |
-| [[House Forge Colleges]] WIP | Kazaros / Sevensmiths | Smithing, armscraft, magical metallurgy WIP. |
-| [[Meritian Exile Schools]] WIP | [[Kallindra]] | Displaced Meritian knowledge networks WIP. |
+| [[Rockgarden Biology Faculty]]  | [[Rockgarden]] | Biodiversity and academic use inside waycastle. |
+| [[Kallindran Schools]]  | [[Kallindra]] | Education and administrative training . |
+| [[House Forge Colleges]]  | Kazaros / Sevensmiths | Smithing, armscraft, magical metallurgy . |
+| [[Meritian Exile Schools]]  | [[Kallindra]] | Displaced Meritian knowledge networks . |
 
 ## Economy and Resources
 
@@ -336,12 +336,12 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | Armscraft | Sevensmiths, Torhin, Kazaros forges | military roads, ports | Armour, weapons, rare metals. |
 | Roadstone | [[Ulum]] | Red Sea, deep routes | Roads, tunnels, major infrastructure. |
 | Serpentglass | [[Broken Forest]], [[Culverno]] | southern roads, Kallindra | Restricted material, weapons, ritual and craft use. |
-| Magical equipment | House forges, Mages’ House, gemwork | crown channels WIP | Infused steel, silver arms, gem-based spellwork WIP. |
+| Magical equipment | House forges, Mages’ House, gemwork | crown channels  | Infused steel, silver arms, gem-based spellwork . |
 | Fish | Great Pearl, coasts, northern waters | local markets, ports | Food and trade. |
-| Honey / flowers | [[Amberhollow]] | WIP | Honey-brewed beer, pollinator ecology. |
+| Honey / flowers | [[Amberhollow]] | | Honey-brewed beer, pollinator ecology. |
 | Port revenue | Kallindra, shield harbours, southern ports | customs, inspections | War taxation and corruption pressure. |
 | Lighthouse service | Sentran Shields | shield sea lanes | Navigation and warning. |
-| Naval repair | Archvikport, Kallindra WIP | southern and eastern ports | Ship maintenance, war logistics. |
+| Naval repair | Archvikport, Kallindra  | southern and eastern ports | Ship maintenance, war logistics. |
 | Knowledge / records | Meritia, Rhodokra, Kallindra | institutions, archives | Legal, sacred, historical, and administrative value. |
 
 ## Military System
@@ -349,7 +349,7 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | Element | Base | Function |
 |---|---|---|
 | [[High King]] | [[Skystone]] | Supreme war command. |
-| [[Royal Navy]] WIP | Kallindra / shield ports | Convoys, anti-piracy, invasion defense. |
+| [[Royal Navy]]  | Kallindra / shield ports | Convoys, anti-piracy, invasion defense. |
 | [[Waycastle Chain]] | Kazaros | Protects royal redoubt. |
 | [[Kazaros Tunnel Network]] | Kazaros / Ulum routes | Strategic supply and communication. |
 | [[Sentran Shields]] | eastern islands | Warning field, lighthouses, island defense. |
@@ -368,12 +368,12 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | Power | Relationship | Notes |
 |---|---|---|
 | [[Continental Empire]] | main enemy | Vast hostile mainland power and driver of Falhaezrian wartime centralization. |
-| [[Pirate Forces]] WIP | hostile / deniable | Used, armed, tolerated, or exploited by the Empire WIP. |
+| [[Pirate Forces]]  | hostile / deniable | Used, armed, tolerated, or exploited by the Empire . |
 | [[Yarrowgold]] | rival southern island kingdom | Krova legacy, southern naval power, Surgemark dispute. |
 | [[Ulum]] | allied / separate | Surface cooperation, deep distrust, House enclave grievance. |
-| [[Western Secessionists]] WIP | internal / semi-internal | Linked to western absence from full representation. |
-| [[Outer Island Polities]] WIP | loose / variable | Future minor island powers. |
-| [[Continental Captive Markets]] WIP | hostile / unknown | Relevant to Lonely Rock enslavement and missing descendants. |
+| [[Western Secessionists]]  | internal / semi-internal | Linked to western absence from full representation. |
+| [[Outer Island Polities]]  | loose / variable | Future minor island powers. |
+| [[Continental Captive Markets]]  | hostile / unknown | Relevant to Lonely Rock enslavement and missing descendants. |
 
 ## Major Historical Eras
 
@@ -388,10 +388,10 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[First Continental Invasion]] | wider archipelago | Broader unification under High King after external crisis. |
 | Western Betrayal | Western Sentra | Western fracture and retaliatory devastation. |
 | [[Second Continental Invasion]] | Eastern Isles / Shields | Lonely Rock sacked, Imperial base, eastern defense hardened. |
-| [[Third Continental Invasion]] WIP | Isles / mainland WIP | Chronology open. |
+| [[Third Continental Invasion]]  | Isles / mainland  | Chronology open. |
 | [[Present War]] | Continental front / Isles | Crown centralization, port restrictions, new High King’s severity. |
 | [[Port War]] | maritime routes | Pirate pressure, restricted trade, Kallindran overload. |
-| Future Western Campaign WIP | western Isles / west | New High King may turn westward after Continental victory. |
+| Future Western Campaign  | western Isles / west | New High King may turn westward after Continental victory. |
 
 ## Continental Conflict
 
@@ -419,9 +419,9 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[Sentran Shields]] | strong / militarized | Lighthouse chain, SDS, Lonely Rock memory. |
 | [[Yarrowgold]] | rival | Southern kingdom and naval threat. |
 | [[Surgemark]] | contested | Forward naval base, southern choke point. |
-| [[Western Isles]] | incomplete WIP | Political structure open. |
-| [[Northern Isles]] | incomplete WIP | Cold-water frontier open. |
-| [[Outer Isles]] | loose WIP | Pirates, exiles, minor polities open. |
+| [[Western Isles]] | incomplete  | Political structure open. |
+| [[Northern Isles]] | incomplete  | Cold-water frontier open. |
+| [[Outer Isles]] | loose  | Pirates, exiles, minor polities open. |
 
 ## Present War Conditions
 
@@ -437,26 +437,6 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | Western absence | Full [[Second High House Council|Second House]] representation remains politically broken. |
 | Internal secrecy | Dragon-plague, corruption, tunnel routes, and war losses may be hidden by authorities. |
 | War profiteering | Guilds, houses, smugglers, and ministers profit from restriction. |
-
-## Current Tensions
-
-| Tension | Region | Notes |
-|---|---|---|
-| Permanent emergency rule | realm-wide | War powers risk becoming normal government. |
-| Kallindran overload | [[Kallindra]] | Ports and councils carry too much wartime weight. |
-| Port closures | all maritime regions | Tax, trade, food, travel, and trust suffer. |
-| Pirate war | outer seas / trade routes | Deniable Continental pressure WIP. |
-| Western representation crisis | west / [[Second High House Council|Second House]] | Current 300-seat functioning versus 400-seat constitutional model. |
-| Rhodokran autonomy | [[Rhodokra]] | Local trade elite controls machinery the crown needs. |
-| Ignahuatl autonomy | [[Culverno]] / south | Religious and material authority limits crown reach. |
-| House-Ulum irritation | [[Redcliff]] / Ulum | House enclave on dwarven territory remains a grievance. |
-| Lonely Rock memory | far eastern Shields | Sack, enslavement, Imperial base, failure of shields. |
-| Yarrowgold rivalry | south | Surgemark, golden ships, southern sovereignty. |
-| Blackarrow legitimacy | Kazaros | Berkar’s conquest and broken mountain houses. |
-| Meritian displacement | Meritia / Kallindra | Godbrandt control and dispossessed sacred house. |
-| Guild versus crown | Kallindra | Greenport and military restrictions bypass ordinary commerce. |
-| Labour unrest | ports and grain routes | Dockworkers and farmers bear war burdens. |
-| Tunnel secrecy | Kazaros / Ulum | Deep routes cross political boundaries. |
 
 ## Future Expansion Spine
 
@@ -479,20 +459,20 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[Falhaezrian Timeline]] | Master chronology. |
 | [[Falhaezrian War Map]] | Present war, ports, frontlines, invasion memory. |
 
-### Western Isles Spine WIP
+### Western Isles Spine 
 
 | Future note | Function |
 |---|---|
 | [[Western Isles]] | Umbrella region. |
-| [[Western Island Compact]] WIP | Possible political order. |
-| [[Brandt Exile Isles]] WIP | Brandt-descended western survivor branches. |
-| [[Stormwake Isles]] WIP | Stormy western maritime group. |
-| [[Old Western Ports]] WIP | Former trade network before fracture. |
-| [[Western Secession]] WIP | Political absence from full [[Second High House Council|Second House]] representation. |
-| [[Western Privateers]] WIP | Anti-House or anti-Continental maritime actors. |
-| [[Western Faiths]] WIP | Tènnakkannin and island religious practice. |
+| [[Western Island Compact]]  | Possible political order. |
+| [[Brandt Exile Isles]]  | Brandt-descended western survivor branches. |
+| [[Stormwake Isles]]  | Stormy western maritime group. |
+| [[Old Western Ports]]  | Former trade network before fracture. |
+| [[Western Secession]]  | Political absence from full [[Second High House Council|Second House]] representation. |
+| [[Western Privateers]]  | Anti-House or anti-Continental maritime actors. |
+| [[Western Faiths]]  | Tènnakkannin and island religious practice. |
 
-### Southern Isles Spine WIP
+### Southern Isles Spine 
 
 | Future note | Function |
 |---|---|
@@ -504,34 +484,34 @@ The Falhaezrian Isles are governed through crown, councils, House law, regional 
 | [[Archvikport]] | Surgemark support port. |
 | [[Wrackholm]] | Surgemark castle / naval fortification. |
 | [[Surgewater Gulf]] | Southern approach to Sentra. |
-| [[Yarrowgold Navy]] WIP | Golden-hulled ships and southern sea power. |
+| [[Yarrowgold Navy]]  | Golden-hulled ships and southern sea power. |
 | [[Dead Queen]] | Krova’s ship / relic memory. |
-| [[Port War South]] WIP | Southern theatre of pirate / naval conflict. |
+| [[Port War South]]  | Southern theatre of pirate / naval conflict. |
 
-### Northern Isles Spine WIP
+### Northern Isles Spine 
 
 | Future note | Function |
 |---|---|
 | [[Northern Isles]] | Umbrella region. |
-| [[Frostwake Isles]] WIP | Cold island group. |
-| [[Whalebone Isles]] WIP | Fishing / whaling culture. |
-| [[Grey Lantern Isles]] WIP | Lighthouse and winter route network. |
-| [[Northern Convoy Route]] WIP | Winter sea lanes. |
-| [[Red Sea Ice Roads]] WIP | Seasonal ice crossings. |
-| [[Ulum Surface Clans]] WIP | Dwarven surface politics. |
+| [[Frostwake Isles]]  | Cold island group. |
+| [[Whalebone Isles]]  | Fishing / whaling culture. |
+| [[Grey Lantern Isles]]  | Lighthouse and winter route network. |
+| [[Northern Convoy Route]]  | Winter sea lanes. |
+| [[Red Sea Ice Roads]]  | Seasonal ice crossings. |
+| [[Ulum Surface Clans]]  | Dwarven surface politics. |
 | [[Deep Ulum]] | Underworld politics. |
 
-### Outer Isles Spine WIP
+### Outer Isles Spine 
 
 | Future note | Function |
 |---|---|
 | [[Outer Isles]] | Umbrella region. |
-| [[Pirate Stones]] WIP | Pirate anchorages and false coves. |
-| [[Old Exile Isles]] WIP | Banished houses, failed colonies. |
-| [[Quarantine Isles]] WIP | Plague, dragon-corruption, or port control sites. |
-| [[Forgotten Lighthouses]] WIP | Dead or abandoned maritime infrastructure. |
-| [[Outer Convoy Stations]] WIP | Military staging points. |
-| [[Wreck Isles]] WIP | Salvage economy and wreckers. |
+| [[Pirate Stones]]  | Pirate anchorages and false coves. |
+| [[Old Exile Isles]]  | Banished houses, failed colonies. |
+| [[Quarantine Isles]]  | Plague, dragon-corruption, or port control sites. |
+| [[Forgotten Lighthouses]]  | Dead or abandoned maritime infrastructure. |
+| [[Outer Convoy Stations]]  | Military staging points. |
+| [[Wreck Isles]]  | Salvage economy and wreckers. |
 
 ## Cleanup Flags
 
