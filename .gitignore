@@ -1,0 +1,8 @@
+_quartz/
+node_modules/
+public/
+.obsidian/workspace*
+.obsidian/cache/
+.obsidian/plugins/
+.DS_Store
+Thumbs.db
